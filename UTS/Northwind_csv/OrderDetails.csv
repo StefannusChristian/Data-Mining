@@ -1,0 +1,2156 @@
+Order ID;Product;Unit Price;Quantity;Discount
+10248;Queso Cabrales;$14,00;12;0,00%
+10248;Singaporean Hokkien Fried Mee;$9,80;10;0,00%
+10248;Mozzarella di Giovanni;$34,80;5;0,00%
+10249;Tofu;$18,60;9;0,00%
+10249;Manjimup Dried Apples;$42,40;40;0,00%
+10250;Jack's New England Clam Chowder;$7,70;10;0,00%
+10250;Manjimup Dried Apples;$42,40;35;15,00%
+10250;Louisiana Fiery Hot Pepper Sauce;$16,80;15;15,00%
+10251;Gustaf's Knckebrd;$16,80;6;5,00%
+10251;Ravioli Angelo;$15,60;15;5,00%
+10251;Louisiana Fiery Hot Pepper Sauce;$16,80;20;0,00%
+10252;Sir Rodney's Marmalade;$64,80;40;5,00%
+10252;Geitost;$2,00;25;5,00%
+10252;Camembert Pierrot;$27,20;40;0,00%
+10253;Gorgonzola Telino;$10,00;20;0,00%
+10253;Chartreuse verte;$14,40;42;0,00%
+10253;Maxilaku;$16,00;40;0,00%
+10254;Guaran Fantstica;$3,60;15;15,00%
+10254;Pt chinois;$19,20;21;15,00%
+10254;Longlife Tofu;$8,00;21;0,00%
+10255;Chang;$15,20;20;0,00%
+10255;Pavlova;$13,90;35;0,00%
+10255;Inlagd Sill;$15,20;25;0,00%
+10255;Raclette Courdavault;$44,00;30;0,00%
+10256;Perth Pasties;$26,20;15;0,00%
+10256;Original Frankfurter grne Soe;$10,40;12;0,00%
+10257;Schoggi Schokolade;$35,10;25;0,00%
+10257;Chartreuse verte;$14,40;6;0,00%
+10257;Original Frankfurter grne Soe;$10,40;15;0,00%
+10258;Chang;$15,20;50;20,00%
+10258;Chef Anton's Gumbo Mix;$17,00;65;20,00%
+10258;Mascarpone Fabioli;$25,60;6;20,00%
+10259;Sir Rodney's Scones;$8,00;10;0,00%
+10259;Gravad lax;$20,80;1;0,00%
+10260;Jack's New England Clam Chowder;$7,70;16;25,00%
+10260;Ravioli Angelo;$15,60;50;0,00%
+10260;Tarte au sucre;$39,40;15;25,00%
+10260;Outback Lager;$12,00;21;25,00%
+10261;Sir Rodney's Scones;$8,00;20;0,00%
+10261;Steeleye Stout;$14,40;20;0,00%
+10262;Chef Anton's Gumbo Mix;$17,00;12;20,00%
+10262;Uncle Bob's Organic Dried Pears;$24,00;15;0,00%
+10262;Gnocchi di nonna Alice;$30,40;2;0,00%
+10263;Pavlova;$13,90;60;25,00%
+10263;Guaran Fantstica;$3,60;28;0,00%
+10263;Nord-Ost Matjeshering;$20,70;60;25,00%
+10263;Longlife Tofu;$8,00;36;25,00%
+10264;Chang;$15,20;35;0,00%
+10264;Jack's New England Clam Chowder;$7,70;25;15,00%
+10265;Alice Mutton;$31,20;30;0,00%
+10265;Outback Lager;$12,00;20;0,00%
+10266;Queso Manchego La Pastora;$30,40;12;5,00%
+10267;Boston Crab Meat;$14,70;50;0,00%
+10267;Raclette Courdavault;$44,00;70;15,00%
+10267;Lakkalikri;$14,40;15;15,00%
+10268;Thringer Rostbratwurst;$99,00;10;0,00%
+10268;Mozzarella di Giovanni;$27,80;4;0,00%
+10269;Geitost;$2,00;60;5,00%
+10269;Mozzarella di Giovanni;$27,80;20;5,00%
+10270;Inlagd Sill;$15,20;30;0,00%
+10270;Ipoh Coffee;$36,80;25;0,00%
+10271;Geitost;$2,00;24;0,00%
+10272;Sir Rodney's Marmalade;$64,80;6;0,00%
+10272;Gorgonzola Telino;$10,00;40;0,00%
+10272;Mozzarella di Giovanni;$27,80;24;0,00%
+10273;Ikura;$24,80;24;5,00%
+10273;Gorgonzola Telino;$10,00;15;5,00%
+10273;Geitost;$2,00;20;0,00%
+10273;Boston Crab Meat;$14,70;60;5,00%
+10273;Lakkalikri;$14,40;33;5,00%
+10274;Fltemysost;$17,20;20;0,00%
+10274;Mozzarella di Giovanni;$27,80;7;0,00%
+10275;Guaran Fantstica;$3,60;12;5,00%
+10275;Raclette Courdavault;$44,00;6;5,00%
+10276;Ikura;$24,80;15;0,00%
+10276;Konbu;$4,80;10;0,00%
+10277;Rssle Sauerkraut;$36,40;20;0,00%
+10277;Tarte au sucre;$39,40;12;0,00%
+10278;Gula Malacca;$15,50;16;0,00%
+10278;Raclette Courdavault;$44,00;15;0,00%
+10278;Vegie-spread;$35,10;8;0,00%
+10278;Rd Kaviar;$12,00;25;0,00%
+10279;Alice Mutton;$31,20;15;25,00%
+10280;Guaran Fantstica;$3,60;12;0,00%
+10280;Pt chinois;$19,20;20;0,00%
+10280;Rhnbru Klosterbier;$6,20;30;0,00%
+10281;Teatime Chocolate Biscuits;$7,30;1;0,00%
+10281;Guaran Fantstica;$3,60;6;0,00%
+10281;Steeleye Stout;$14,40;4;0,00%
+10282;Nord-Ost Matjeshering;$20,70;6;0,00%
+10282;Ravioli Angelo;$15,60;2;0,00%
+10283;Genen Shouyu;$12,40;20;0,00%
+10283;Teatime Chocolate Biscuits;$7,30;18;0,00%
+10283;Camembert Pierrot;$27,20;35;0,00%
+10283;Mozzarella di Giovanni;$27,80;3;0,00%
+10284;Schoggi Schokolade;$35,10;15;25,00%
+10284;Gula Malacca;$15,50;21;0,00%
+10284;Camembert Pierrot;$27,20;20;25,00%
+10284;Laughing Lumberjack Lager;$11,20;5;25,00%
+10285;Chai;$14,40;45;20,00%
+10285;Boston Crab Meat;$14,70;40;20,00%
+10285;Perth Pasties;$26,20;36;20,00%
+10286;Steeleye Stout;$14,40;100;0,00%
+10286;Tarte au sucre;$39,40;40;0,00%
+10287;Pavlova;$13,90;40;15,00%
+10287;Sasquatch Ale;$11,20;20;0,00%
+10287;Spegesild;$9,60;15;15,00%
+10288;Tourtire;$5,90;10;10,00%
+10288;Scottish Longbreads;$10,00;3;10,00%
+10289;Aniseed Syrup;$8,00;30;0,00%
+10289;Wimmers gute Semmelkndel;$26,60;9;0,00%
+10290;Chef Anton's Gumbo Mix;$17,00;20;0,00%
+10290;Thringer Rostbratwurst;$99,00;15;0,00%
+10290;Maxilaku;$16,00;15;0,00%
+10290;Original Frankfurter grne Soe;$10,40;10;0,00%
+10291;Konbu;$4,80;20;10,00%
+10291;Gula Malacca;$15,50;24;10,00%
+10291;Manjimup Dried Apples;$42,40;2;10,00%
+10292;Sir Rodney's Marmalade;$64,80;20;0,00%
+10293;Carnarvon Tigers;$50,00;12;0,00%
+10293;Guaran Fantstica;$3,60;10;0,00%
+10293;Vegie-spread;$35,10;5;0,00%
+10293;Rhnbru Klosterbier;$6,20;6;0,00%
+10294;Chai;$14,40;18;0,00%
+10294;Alice Mutton;$31,20;15;0,00%
+10294;Ipoh Coffee;$36,80;15;0,00%
+10294;Camembert Pierrot;$27,20;21;0,00%
+10294;Rhnbru Klosterbier;$6,20;6;0,00%
+10295;Gnocchi di nonna Alice;$30,40;4;0,00%
+10296;Queso Cabrales;$16,80;12;0,00%
+10296;Pavlova;$13,90;30;0,00%
+10296;Gudbrandsdalsost;$28,80;15;0,00%
+10297;Chartreuse verte;$14,40;60;0,00%
+10297;Mozzarella di Giovanni;$27,80;20;0,00%
+10298;Chang;$15,20;40;0,00%
+10298;Inlagd Sill;$15,20;40;25,00%
+10298;Raclette Courdavault;$44,00;30;25,00%
+10298;Tarte au sucre;$39,40;15;0,00%
+10299;Teatime Chocolate Biscuits;$7,30;15;0,00%
+10299;Outback Lager;$12,00;20;0,00%
+10300;Louisiana Hot Spiced Okra;$13,60;30;0,00%
+10300;Scottish Longbreads;$10,00;20;0,00%
+10301;Boston Crab Meat;$14,70;10;0,00%
+10301;Gnocchi di nonna Alice;$30,40;20;0,00%
+10302;Alice Mutton;$31,20;40;0,00%
+10302;Rssle Sauerkraut;$36,40;28;0,00%
+10302;Ipoh Coffee;$36,80;12;0,00%
+10303;Boston Crab Meat;$14,70;40;10,00%
+10303;Louisiana Fiery Hot Pepper Sauce;$16,80;30;10,00%
+10303;Scottish Longbreads;$10,00;15;10,00%
+10304;Maxilaku;$16,00;30;0,00%
+10304;Raclette Courdavault;$44,00;10;0,00%
+10304;Fltemysost;$17,20;2;0,00%
+10305;Carnarvon Tigers;$50,00;25;10,00%
+10305;Thringer Rostbratwurst;$99,00;25;10,00%
+10305;Chartreuse verte;$14,40;30;10,00%
+10306;Nord-Ost Matjeshering;$20,70;10;0,00%
+10306;Perth Pasties;$26,20;10;0,00%
+10306;Tourtire;$5,90;5;0,00%
+10307;Tarte au sucre;$39,40;10;0,00%
+10307;Scottish Longbreads;$10,00;3;0,00%
+10308;Gudbrandsdalsost;$28,80;1;0,00%
+10308;Outback Lager;$12,00;5;0,00%
+10309;Chef Anton's Cajun Seasoning;$17,60;20;0,00%
+10309;Grandma's Boysenberry Spread;$20,00;30;0,00%
+10309;Singaporean Hokkien Fried Mee;$11,20;2;0,00%
+10309;Ipoh Coffee;$36,80;20;0,00%
+10309;Fltemysost;$17,20;3;0,00%
+10310;Pavlova;$13,90;10;0,00%
+10310;Tarte au sucre;$39,40;5;0,00%
+10311;Singaporean Hokkien Fried Mee;$11,20;6;0,00%
+10311;Gudbrandsdalsost;$28,80;7;0,00%
+10312;Rssle Sauerkraut;$36,40;4;0,00%
+10312;Ipoh Coffee;$36,80;24;0,00%
+10312;Perth Pasties;$26,20;20;0,00%
+10312;Rhnbru Klosterbier;$6,20;10;0,00%
+10313;Inlagd Sill;$15,20;12;0,00%
+10314;Mascarpone Fabioli;$25,60;40;10,00%
+10314;Escargots de Bourgogne;$10,60;30;10,00%
+10314;Tarte au sucre;$39,40;25;10,00%
+10315;Sasquatch Ale;$11,20;14;0,00%
+10315;Outback Lager;$12,00;30;0,00%
+10316;Jack's New England Clam Chowder;$7,70;10;0,00%
+10316;Tarte au sucre;$39,40;70;0,00%
+10317;Chai;$14,40;20;0,00%
+10318;Jack's New England Clam Chowder;$7,70;20;0,00%
+10318;Lakkalikri;$14,40;6;0,00%
+10319;Alice Mutton;$31,20;8;0,00%
+10319;Rssle Sauerkraut;$36,40;14;0,00%
+10319;Lakkalikri;$14,40;30;0,00%
+10320;Fltemysost;$17,20;30;0,00%
+10321;Steeleye Stout;$14,40;10;0,00%
+10322;Filo Mix;$5,60;20;0,00%
+10323;Genen Shouyu;$12,40;5;0,00%
+10323;NuNuCa Nu-Nougat-Creme;$11,20;4;0,00%
+10323;Chartreuse verte;$14,40;4;0,00%
+10324;Pavlova;$13,90;21;15,00%
+10324;Steeleye Stout;$14,40;70;15,00%
+10324;Spegesild;$9,60;30;0,00%
+10324;Raclette Courdavault;$44,00;40;15,00%
+10324;Vegie-spread;$35,10;80;15,00%
+10325;Grandma's Boysenberry Spread;$20,00;6;0,00%
+10325;Konbu;$4,80;12;0,00%
+10325;Tofu;$18,60;9;0,00%
+10325;Gorgonzola Telino;$10,00;4;0,00%
+10325;Mozzarella di Giovanni;$27,80;40;0,00%
+10326;Chef Anton's Cajun Seasoning;$17,60;24;0,00%
+10326;Ravioli Angelo;$15,60;16;0,00%
+10326;Rhnbru Klosterbier;$6,20;50;0,00%
+10327;Chang;$15,20;25;20,00%
+10327;Queso Cabrales;$16,80;50;20,00%
+10327;Nord-Ost Matjeshering;$20,70;35;20,00%
+10327;Escargots de Bourgogne;$10,60;30;20,00%
+10328;Raclette Courdavault;$44,00;9;0,00%
+10328;Louisiana Fiery Hot Pepper Sauce;$16,80;40;0,00%
+10328;Scottish Longbreads;$10,00;10;0,00%
+10329;Teatime Chocolate Biscuits;$7,30;10;5,00%
+10329;Nord-Ost Matjeshering;$20,70;8;5,00%
+10329;Cte de Blaye;$210,80;20;5,00%
+10329;Gnocchi di nonna Alice;$30,40;12;5,00%
+10330;Gumbr Gummibrchen;$24,90;50;15,00%
+10330;Mozzarella di Giovanni;$27,80;25;15,00%
+10331;Tourtire;$5,90;15;0,00%
+10332;Carnarvon Tigers;$50,00;40;20,00%
+10332;Singaporean Hokkien Fried Mee;$11,20;10;20,00%
+10332;Zaanse koeken;$7,60;16;20,00%
+10333;Tofu;$18,60;10;0,00%
+10333;Sir Rodney's Scones;$8,00;10;10,00%
+10333;Fltemysost;$17,20;40;10,00%
+10334;Filo Mix;$5,60;8;0,00%
+10334;Scottish Longbreads;$10,00;10;0,00%
+10335;Chang;$15,20;7;20,00%
+10335;Gorgonzola Telino;$10,00;25;20,00%
+10335;Mascarpone Fabioli;$25,60;6;20,00%
+10335;Manjimup Dried Apples;$42,40;48;20,00%
+10336;Chef Anton's Cajun Seasoning;$17,60;18;10,00%
+10337;Tunnbrd;$7,20;40;0,00%
+10337;Gumbr Gummibrchen;$24,90;24;0,00%
+10337;Inlagd Sill;$15,20;20;0,00%
+10337;Gravad lax;$20,80;28;0,00%
+10337;Mozzarella di Giovanni;$27,80;25;0,00%
+10338;Alice Mutton;$31,20;20;0,00%
+10338;Nord-Ost Matjeshering;$20,70;15;0,00%
+10339;Chef Anton's Cajun Seasoning;$17,60;10;0,00%
+10339;Alice Mutton;$31,20;70;5,00%
+10339;Tarte au sucre;$39,40;28;0,00%
+10340;Carnarvon Tigers;$50,00;20;5,00%
+10340;Jack's New England Clam Chowder;$7,70;12;5,00%
+10340;Ipoh Coffee;$36,80;40;5,00%
+10341;Geitost;$2,00;8;0,00%
+10341;Raclette Courdavault;$44,00;9;15,00%
+10342;Chang;$15,20;24;20,00%
+10342;Gorgonzola Telino;$10,00;56;20,00%
+10342;Inlagd Sill;$15,20;40;20,00%
+10342;Pt chinois;$19,20;40;20,00%
+10343;Wimmers gute Semmelkndel;$26,60;50;0,00%
+10343;Scottish Longbreads;$10,00;4;5,00%
+10343;Lakkalikri;$14,40;15;0,00%
+10344;Chef Anton's Cajun Seasoning;$17,60;35;0,00%
+10344;Northwoods Cranberry Sauce;$32,00;70;25,00%
+10345;Northwoods Cranberry Sauce;$32,00;70;0,00%
+10345;Teatime Chocolate Biscuits;$7,30;80;0,00%
+10345;Singaporean Hokkien Fried Mee;$11,20;9;0,00%
+10346;Alice Mutton;$31,20;36;10,00%
+10346;Gnocchi di nonna Alice;$30,40;20;0,00%
+10347;NuNuCa Nu-Nougat-Creme;$11,20;10;0,00%
+10347;Chartreuse verte;$14,40;50;15,00%
+10347;Boston Crab Meat;$14,70;4;0,00%
+10347;Rhnbru Klosterbier;$6,20;6;15,00%
+10348;Chai;$14,40;15;15,00%
+10348;Tunnbrd;$7,20;25;0,00%
+10349;Tourtire;$5,90;24;0,00%
+10350;Valkoinen suklaa;$13,00;15;10,00%
+10350;Gudbrandsdalsost;$28,80;18;10,00%
+10351;Cte de Blaye;$210,80;20;5,00%
+10351;Jack's New England Clam Chowder;$7,70;13;0,00%
+10351;Gula Malacca;$15,50;77;5,00%
+10351;Louisiana Fiery Hot Pepper Sauce;$16,80;10;5,00%
+10352;Guaran Fantstica;$3,60;10;0,00%
+10352;Tourtire;$5,90;20;15,00%
+10353;Queso Cabrales;$16,80;12;20,00%
+10353;Cte de Blaye;$210,80;50;20,00%
+10354;Chai;$14,40;12;0,00%
+10354;Thringer Rostbratwurst;$99,00;4;0,00%
+10355;Guaran Fantstica;$3,60;25;0,00%
+10355;Ravioli Angelo;$15,60;25;0,00%
+10356;Gorgonzola Telino;$10,00;30;0,00%
+10356;Pt chinois;$19,20;12;0,00%
+10356;Gudbrandsdalsost;$28,80;20;0,00%
+10357;Ikura;$24,80;30;20,00%
+10357;Gumbr Gummibrchen;$24,90;16;0,00%
+10357;Camembert Pierrot;$27,20;8;20,00%
+10358;Guaran Fantstica;$3,60;10;5,00%
+10358;Sasquatch Ale;$11,20;10;5,00%
+10358;Inlagd Sill;$15,20;20;5,00%
+10359;Pavlova;$13,90;56;5,00%
+10359;Gorgonzola Telino;$10,00;70;5,00%
+10359;Camembert Pierrot;$27,20;80;5,00%
+10360;Rssle Sauerkraut;$36,40;30;0,00%
+10360;Thringer Rostbratwurst;$99,00;35;0,00%
+10360;Cte de Blaye;$210,80;10;0,00%
+10360;Maxilaku;$16,00;35;0,00%
+10360;Tourtire;$5,90;28;0,00%
+10361;Chartreuse verte;$14,40;54;10,00%
+10361;Camembert Pierrot;$27,20;55;10,00%
+10362;NuNuCa Nu-Nougat-Creme;$11,20;50;0,00%
+10362;Manjimup Dried Apples;$42,40;20;0,00%
+10362;Tourtire;$5,90;24;0,00%
+10363;Gorgonzola Telino;$10,00;20;0,00%
+10363;Rhnbru Klosterbier;$6,20;12;0,00%
+10363;Lakkalikri;$14,40;12;0,00%
+10364;Gudbrandsdalsost;$28,80;30;0,00%
+10364;Fltemysost;$17,20;5;0,00%
+10365;Queso Cabrales;$16,80;24;0,00%
+10366;Louisiana Fiery Hot Pepper Sauce;$16,80;5;0,00%
+10366;Original Frankfurter grne Soe;$10,40;5;0,00%
+10367;Sasquatch Ale;$11,20;36;0,00%
+10367;Tourtire;$5,90;18;0,00%
+10367;Louisiana Fiery Hot Pepper Sauce;$16,80;15;0,00%
+10367;Original Frankfurter grne Soe;$10,40;7;0,00%
+10368;Sir Rodney's Scones;$8,00;5;10,00%
+10368;Rssle Sauerkraut;$36,40;13;10,00%
+10368;Ravioli Angelo;$15,60;25;0,00%
+10368;Wimmers gute Semmelkndel;$26,60;35;10,00%
+10369;Thringer Rostbratwurst;$99,00;20;0,00%
+10369;Gnocchi di nonna Alice;$30,40;18;25,00%
+10370;Chai;$14,40;15;15,00%
+10370;Wimmers gute Semmelkndel;$26,60;30;0,00%
+10370;Longlife Tofu;$8,00;20;15,00%
+10371;Inlagd Sill;$15,20;6;20,00%
+10372;Sir Rodney's Marmalade;$64,80;12;25,00%
+10372;Cte de Blaye;$210,80;40;25,00%
+10372;Camembert Pierrot;$27,20;70;25,00%
+10372;Mozzarella di Giovanni;$27,80;42;25,00%
+10373;Escargots de Bourgogne;$10,60;80;20,00%
+10373;Fltemysost;$17,20;50;20,00%
+10374;Gorgonzola Telino;$10,00;30;0,00%
+10374;Escargots de Bourgogne;$10,60;15;0,00%
+10375;Tofu;$18,60;15;0,00%
+10375;Tourtire;$5,90;10;0,00%
+10376;Gorgonzola Telino;$10,00;42;5,00%
+10377;Rssle Sauerkraut;$36,40;20;15,00%
+10377;Chartreuse verte;$14,40;20;15,00%
+10378;Fltemysost;$17,20;6;0,00%
+10379;Jack's New England Clam Chowder;$7,70;8;10,00%
+10379;Vegie-spread;$35,10;16;10,00%
+10379;Louisiana Fiery Hot Pepper Sauce;$16,80;20;10,00%
+10380;Nord-Ost Matjeshering;$20,70;18;10,00%
+10380;Perth Pasties;$26,20;20;10,00%
+10380;Camembert Pierrot;$27,20;6;10,00%
+10380;Outback Lager;$12,00;30;0,00%
+10381;Longlife Tofu;$8,00;14;0,00%
+10382;Chef Anton's Gumbo Mix;$17,00;32;0,00%
+10382;Carnarvon Tigers;$50,00;9;0,00%
+10382;Thringer Rostbratwurst;$99,00;14;0,00%
+10382;Geitost;$2,00;60;0,00%
+10382;Longlife Tofu;$8,00;50;0,00%
+10383;Konbu;$4,80;20;0,00%
+10383;Valkoinen suklaa;$13,00;15;0,00%
+10383;Gnocchi di nonna Alice;$30,40;20;0,00%
+10384;Sir Rodney's Marmalade;$64,80;28;0,00%
+10384;Camembert Pierrot;$27,20;15;0,00%
+10385;Uncle Bob's Organic Dried Pears;$24,00;10;20,00%
+10385;Camembert Pierrot;$27,20;20;20,00%
+10385;Scottish Longbreads;$10,00;8;20,00%
+10386;Guaran Fantstica;$3,60;15;0,00%
+10386;Sasquatch Ale;$11,20;10;0,00%
+10387;Guaran Fantstica;$3,60;15;0,00%
+10387;Rssle Sauerkraut;$36,40;6;0,00%
+10387;Raclette Courdavault;$44,00;12;0,00%
+10387;Fltemysost;$17,20;15;0,00%
+10388;Rgede sild;$7,60;15;20,00%
+10388;Filo Mix;$5,60;20;20,00%
+10388;Perth Pasties;$26,20;40;0,00%
+10389;Ikura;$24,80;16;0,00%
+10389;Pt chinois;$19,20;15;0,00%
+10389;Tarte au sucre;$39,40;20;0,00%
+10389;Outback Lager;$12,00;30;0,00%
+10390;Gorgonzola Telino;$10,00;60;10,00%
+10390;Steeleye Stout;$14,40;40;10,00%
+10390;Spegesild;$9,60;45;0,00%
+10390;Mozzarella di Giovanni;$27,80;24;10,00%
+10391;Konbu;$4,80;18;0,00%
+10392;Gudbrandsdalsost;$28,80;50;0,00%
+10393;Chang;$15,20;25;25,00%
+10393;Tofu;$18,60;42;25,00%
+10393;NuNuCa Nu-Nougat-Creme;$11,20;7;25,00%
+10393;Gumbr Gummibrchen;$24,90;70;25,00%
+10393;Gorgonzola Telino;$10,00;32;0,00%
+10394;Konbu;$4,80;10;0,00%
+10394;Tarte au sucre;$39,40;10;0,00%
+10395;Spegesild;$9,60;28;10,00%
+10395;Perth Pasties;$26,20;70;10,00%
+10395;Gudbrandsdalsost;$28,80;8;0,00%
+10396;Tunnbrd;$7,20;40;0,00%
+10396;Fltemysost;$17,20;60;0,00%
+10396;Mozzarella di Giovanni;$27,80;21;0,00%
+10397;Sir Rodney's Scones;$8,00;10;15,00%
+10397;Manjimup Dried Apples;$42,40;18;15,00%
+10398;Steeleye Stout;$14,40;30;0,00%
+10398;Pt chinois;$19,20;120;10,00%
+10399;Scottish Longbreads;$10,00;60;0,00%
+10399;Fltemysost;$17,20;30;0,00%
+10399;Lakkalikri;$14,40;35;0,00%
+10399;Original Frankfurter grne Soe;$10,40;14;0,00%
+10400;Thringer Rostbratwurst;$99,00;21;0,00%
+10400;Steeleye Stout;$14,40;35;0,00%
+10400;Maxilaku;$16,00;30;0,00%
+10401;Nord-Ost Matjeshering;$20,70;18;0,00%
+10401;Gnocchi di nonna Alice;$30,40;70;0,00%
+10401;Louisiana Fiery Hot Pepper Sauce;$16,80;20;0,00%
+10401;Fltemysost;$17,20;60;0,00%
+10402;Tunnbrd;$7,20;60;0,00%
+10402;Vegie-spread;$35,10;65;0,00%
+10403;Pavlova;$13,90;21;15,00%
+10403;Chocolade;$10,20;70;15,00%
+10404;Gumbr Gummibrchen;$24,90;30;5,00%
+10404;Singaporean Hokkien Fried Mee;$11,20;40;5,00%
+10404;Maxilaku;$16,00;30;5,00%
+10405;Aniseed Syrup;$8,00;50;0,00%
+10406;Chai;$14,40;10;0,00%
+10406;Sir Rodney's Scones;$8,00;30;10,00%
+10406;Rssle Sauerkraut;$36,40;42;10,00%
+10406;Inlagd Sill;$15,20;5;10,00%
+10406;Boston Crab Meat;$14,70;2;10,00%
+10407;Queso Cabrales;$16,80;30;0,00%
+10407;Gudbrandsdalsost;$28,80;15;0,00%
+10407;Fltemysost;$17,20;15;0,00%
+10408;Gravad lax;$20,80;10;0,00%
+10408;Tourtire;$5,90;6;0,00%
+10408;Tarte au sucre;$39,40;35;0,00%
+10409;Tofu;$18,60;12;0,00%
+10409;Sir Rodney's Scones;$8,00;12;0,00%
+10410;Geitost;$2,00;49;0,00%
+10410;Raclette Courdavault;$44,00;16;0,00%
+10411;Jack's New England Clam Chowder;$7,70;25;20,00%
+10411;Gula Malacca;$15,50;40;20,00%
+10411;Raclette Courdavault;$44,00;9;20,00%
+10412;Tofu;$18,60;20;10,00%
+10413;Chai;$14,40;24;0,00%
+10413;Tarte au sucre;$39,40;40;0,00%
+10413;Lakkalikri;$14,40;14;0,00%
+10414;Teatime Chocolate Biscuits;$7,30;18;5,00%
+10414;Geitost;$2,00;50;0,00%
+10415;Alice Mutton;$31,20;2;0,00%
+10415;Geitost;$2,00;20;0,00%
+10416;Teatime Chocolate Biscuits;$7,30;20;0,00%
+10416;Perth Pasties;$26,20;10;0,00%
+10416;Ravioli Angelo;$15,60;20;0,00%
+10417;Cte de Blaye;$210,80;50;0,00%
+10417;Spegesild;$9,60;2;25,00%
+10417;Scottish Longbreads;$10,00;36;25,00%
+10417;Original Frankfurter grne Soe;$10,40;35;0,00%
+10418;Chang;$15,20;60;0,00%
+10418;Zaanse koeken;$7,60;55;0,00%
+10418;Sirop d'rable;$22,80;16;0,00%
+10418;Longlife Tofu;$8,00;15;0,00%
+10419;Camembert Pierrot;$27,20;60;5,00%
+10419;Gudbrandsdalsost;$28,80;20;5,00%
+10420;Mishi Kobe Niku;$77,60;20;10,00%
+10420;Konbu;$4,80;2;10,00%
+10420;Outback Lager;$12,00;8;10,00%
+10420;Rd Kaviar;$12,00;20;10,00%
+10421;Teatime Chocolate Biscuits;$7,30;4;15,00%
+10421;Gumbr Gummibrchen;$24,90;30;0,00%
+10421;Perth Pasties;$26,20;15;15,00%
+10421;Original Frankfurter grne Soe;$10,40;10;15,00%
+10422;Gumbr Gummibrchen;$24,90;2;0,00%
+10423;Gorgonzola Telino;$10,00;14;0,00%
+10423;Raclette Courdavault;$44,00;20;0,00%
+10424;Steeleye Stout;$14,40;60;20,00%
+10424;Cte de Blaye;$210,80;49;20,00%
+10424;Scottish Longbreads;$10,00;30;20,00%
+10425;Pt chinois;$19,20;10;25,00%
+10425;Lakkalikri;$14,40;20;25,00%
+10426;Gnocchi di nonna Alice;$30,40;5;0,00%
+10426;Wimmers gute Semmelkndel;$26,60;7;0,00%
+10427;Tofu;$18,60;35;0,00%
+10428;Spegesild;$9,60;20;0,00%
+10429;Valkoinen suklaa;$13,00;40;0,00%
+10429;Vegie-spread;$35,10;35;25,00%
+10430;Alice Mutton;$31,20;45;20,00%
+10430;Sir Rodney's Scones;$8,00;50;0,00%
+10430;Gnocchi di nonna Alice;$30,40;30;0,00%
+10430;Raclette Courdavault;$44,00;70;20,00%
+10431;Alice Mutton;$31,20;50;25,00%
+10431;Boston Crab Meat;$14,70;50;25,00%
+10431;Zaanse koeken;$7,60;30;25,00%
+10432;Gumbr Gummibrchen;$24,90;10;0,00%
+10432;Tourtire;$5,90;40;0,00%
+10433;Gnocchi di nonna Alice;$30,40;28;0,00%
+10434;Queso Cabrales;$16,80;6;0,00%
+10434;Lakkalikri;$14,40;18;15,00%
+10435;Chang;$15,20;10;0,00%
+10435;Gustaf's Knckebrd;$16,80;12;0,00%
+10435;Mozzarella di Giovanni;$27,80;10;0,00%
+10436;Spegesild;$9,60;5;0,00%
+10436;Gnocchi di nonna Alice;$30,40;40;10,00%
+10436;Wimmers gute Semmelkndel;$26,60;30;10,00%
+10436;Rhnbru Klosterbier;$6,20;24;10,00%
+10437;Perth Pasties;$26,20;15;0,00%
+10438;Teatime Chocolate Biscuits;$7,30;15;20,00%
+10438;Sasquatch Ale;$11,20;20;20,00%
+10438;Ravioli Angelo;$15,60;15;20,00%
+10439;Queso Manchego La Pastora;$30,40;15;0,00%
+10439;Pavlova;$13,90;16;0,00%
+10439;Wimmers gute Semmelkndel;$26,60;6;0,00%
+10439;Longlife Tofu;$8,00;30;0,00%
+10440;Chang;$15,20;45;15,00%
+10440;Pavlova;$13,90;49;15,00%
+10440;Thringer Rostbratwurst;$99,00;24;15,00%
+10440;Sirop d'rable;$22,80;90;15,00%
+10441;Schoggi Schokolade;$35,10;50;0,00%
+10442;Queso Cabrales;$16,80;30;0,00%
+10442;Tourtire;$5,90;80;0,00%
+10442;Louisiana Hot Spiced Okra;$13,60;60;0,00%
+10443;Queso Cabrales;$16,80;6;20,00%
+10443;Rssle Sauerkraut;$36,40;12;0,00%
+10444;Alice Mutton;$31,20;10;0,00%
+10444;Gumbr Gummibrchen;$24,90;15;0,00%
+10444;Steeleye Stout;$14,40;8;0,00%
+10444;Jack's New England Clam Chowder;$7,70;30;0,00%
+10445;Chartreuse verte;$14,40;6;0,00%
+10445;Tourtire;$5,90;15;0,00%
+10446;Teatime Chocolate Biscuits;$7,30;12;10,00%
+10446;Guaran Fantstica;$3,60;20;10,00%
+10446;Gorgonzola Telino;$10,00;3;10,00%
+10446;Filo Mix;$5,60;15;10,00%
+10447;Teatime Chocolate Biscuits;$7,30;40;0,00%
+10447;Louisiana Fiery Hot Pepper Sauce;$16,80;35;0,00%
+10447;Fltemysost;$17,20;2;0,00%
+10448;Gumbr Gummibrchen;$24,90;6;0,00%
+10448;Boston Crab Meat;$14,70;20;0,00%
+10449;Ikura;$24,80;14;0,00%
+10449;Filo Mix;$5,60;20;0,00%
+10449;Tarte au sucre;$39,40;35;0,00%
+10450;Ikura;$24,80;20;20,00%
+10450;Tourtire;$5,90;6;20,00%
+10451;Pt chinois;$19,20;120;10,00%
+10451;Wimmers gute Semmelkndel;$26,60;35;10,00%
+10451;Louisiana Fiery Hot Pepper Sauce;$16,80;28;10,00%
+10451;Original Frankfurter grne Soe;$10,40;55;10,00%
+10452;Rssle Sauerkraut;$36,40;15;0,00%
+10452;Gula Malacca;$15,50;100;5,00%
+10453;Chocolade;$10,20;15;10,00%
+10453;Outback Lager;$12,00;25;10,00%
+10454;Pavlova;$13,90;20;20,00%
+10454;Geitost;$2,00;20;20,00%
+10454;Spegesild;$9,60;10;20,00%
+10455;Chartreuse verte;$14,40;20;0,00%
+10455;Perth Pasties;$26,20;50;0,00%
+10455;Sirop d'rable;$22,80;25;0,00%
+10455;Fltemysost;$17,20;30;0,00%
+10456;Sir Rodney's Scones;$8,00;40;15,00%
+10456;Maxilaku;$16,00;21;15,00%
+10457;Raclette Courdavault;$44,00;36;0,00%
+10458;Gumbr Gummibrchen;$24,90;30;0,00%
+10458;Rssle Sauerkraut;$36,40;30;0,00%
+10458;Ipoh Coffee;$36,80;20;0,00%
+10458;Gnocchi di nonna Alice;$30,40;15;0,00%
+10458;Fltemysost;$17,20;50;0,00%
+10459;Uncle Bob's Organic Dried Pears;$24,00;16;5,00%
+10459;Spegesild;$9,60;20;5,00%
+10459;Mozzarella di Giovanni;$27,80;40;0,00%
+10460;Scottish Longbreads;$10,00;21;25,00%
+10460;Rhnbru Klosterbier;$6,20;4;25,00%
+10461;Sir Rodney's Scones;$8,00;40;25,00%
+10461;Nord-Ost Matjeshering;$20,70;28;25,00%
+10461;Pt chinois;$19,20;60;25,00%
+10462;Konbu;$4,80;1;0,00%
+10462;Tunnbrd;$7,20;21;0,00%
+10463;Teatime Chocolate Biscuits;$7,30;21;0,00%
+10463;Singaporean Hokkien Fried Mee;$11,20;50;0,00%
+10464;Chef Anton's Cajun Seasoning;$17,60;16;20,00%
+10464;Ipoh Coffee;$36,80;3;0,00%
+10464;Gnocchi di nonna Alice;$30,40;30;20,00%
+10464;Camembert Pierrot;$27,20;20;0,00%
+10465;Guaran Fantstica;$3,60;25;0,00%
+10465;Thringer Rostbratwurst;$99,00;18;10,00%
+10465;Boston Crab Meat;$14,70;20;0,00%
+10465;Rgede sild;$7,60;30;10,00%
+10465;Valkoinen suklaa;$13,00;25;0,00%
+10466;Queso Cabrales;$16,80;10;0,00%
+10466;Spegesild;$9,60;5;0,00%
+10467;Guaran Fantstica;$3,60;28;0,00%
+10467;NuNuCa Nu-Nougat-Creme;$11,20;12;0,00%
+10468;Nord-Ost Matjeshering;$20,70;8;0,00%
+10468;Ipoh Coffee;$36,80;15;0,00%
+10469;Chang;$15,20;40;15,00%
+10469;Pavlova;$13,90;35;15,00%
+10469;Gula Malacca;$15,50;2;15,00%
+10470;Carnarvon Tigers;$50,00;30;0,00%
+10470;Tunnbrd;$7,20;15;0,00%
+10470;Wimmers gute Semmelkndel;$26,60;8;0,00%
+10471;Uncle Bob's Organic Dried Pears;$24,00;30;0,00%
+10471;Gnocchi di nonna Alice;$30,40;20;0,00%
+10472;Guaran Fantstica;$3,60;80;5,00%
+10472;Manjimup Dried Apples;$42,40;18;0,00%
+10473;Geitost;$2,00;12;0,00%
+10473;Fltemysost;$17,20;12;0,00%
+10474;Tofu;$18,60;12;0,00%
+10474;Rssle Sauerkraut;$36,40;18;0,00%
+10474;Boston Crab Meat;$14,70;21;0,00%
+10474;Rhnbru Klosterbier;$6,20;10;0,00%
+10475;Gorgonzola Telino;$10,00;35;15,00%
+10475;Louisiana Hot Spiced Okra;$13,60;60;15,00%
+10475;Lakkalikri;$14,40;42;15,00%
+10476;Pt chinois;$19,20;2;5,00%
+10476;Outback Lager;$12,00;12;0,00%
+10477;Chai;$14,40;15;0,00%
+10477;Sir Rodney's Scones;$8,00;21;25,00%
+10477;Chartreuse verte;$14,40;20;25,00%
+10478;Ikura;$24,80;20;5,00%
+10479;Cte de Blaye;$210,80;30;0,00%
+10479;Perth Pasties;$26,20;28;0,00%
+10479;Raclette Courdavault;$44,00;60;0,00%
+10479;Wimmers gute Semmelkndel;$26,60;30;0,00%
+10480;Zaanse koeken;$7,60;30;0,00%
+10480;Raclette Courdavault;$44,00;12;0,00%
+10481;Maxilaku;$16,00;24;0,00%
+10481;Camembert Pierrot;$27,20;40;0,00%
+10482;Boston Crab Meat;$14,70;10;0,00%
+10483;Sasquatch Ale;$11,20;35;5,00%
+10483;Original Frankfurter grne Soe;$10,40;30;5,00%
+10484;Sir Rodney's Scones;$8,00;14;0,00%
+10484;Boston Crab Meat;$14,70;10;0,00%
+10484;Manjimup Dried Apples;$42,40;3;0,00%
+10485;Chang;$15,20;20;10,00%
+10485;Aniseed Syrup;$8,00;20;10,00%
+10485;Pt chinois;$19,20;30;10,00%
+10485;Outback Lager;$12,00;60;10,00%
+10486;Queso Cabrales;$16,80;5;0,00%
+10486;Manjimup Dried Apples;$42,40;25;0,00%
+10486;Longlife Tofu;$8,00;16;0,00%
+10487;Teatime Chocolate Biscuits;$7,30;5;0,00%
+10487;Gumbr Gummibrchen;$24,90;30;0,00%
+10487;Tourtire;$5,90;24;25,00%
+10488;Raclette Courdavault;$44,00;30;0,00%
+10488;Rd Kaviar;$12,00;20;20,00%
+10489;Queso Cabrales;$16,80;15;25,00%
+10489;Pavlova;$13,90;18;0,00%
+10490;Raclette Courdavault;$44,00;60;0,00%
+10490;Scottish Longbreads;$10,00;30;0,00%
+10490;Rhnbru Klosterbier;$6,20;36;0,00%
+10491;Gula Malacca;$15,50;15;15,00%
+10491;Original Frankfurter grne Soe;$10,40;7;15,00%
+10492;NuNuCa Nu-Nougat-Creme;$11,20;60;5,00%
+10492;Singaporean Hokkien Fried Mee;$11,20;20;5,00%
+10493;Louisiana Fiery Hot Pepper Sauce;$16,80;15;10,00%
+10493;Louisiana Hot Spiced Okra;$13,60;10;10,00%
+10493;Gudbrandsdalsost;$28,80;10;10,00%
+10494;Gnocchi di nonna Alice;$30,40;30;0,00%
+10495;Tunnbrd;$7,20;10;0,00%
+10495;Jack's New England Clam Chowder;$7,70;20;0,00%
+10495;Original Frankfurter grne Soe;$10,40;5;0,00%
+10496;Gorgonzola Telino;$10,00;20;5,00%
+10497;Gnocchi di nonna Alice;$30,40;14;0,00%
+10497;Mozzarella di Giovanni;$27,80;25;0,00%
+10497;Original Frankfurter grne Soe;$10,40;25;0,00%
+10498;Guaran Fantstica;$4,50;14;0,00%
+10498;Boston Crab Meat;$18,40;5;0,00%
+10498;Singaporean Hokkien Fried Mee;$14,00;30;0,00%
+10499;Rssle Sauerkraut;$45,60;20;0,00%
+10499;Maxilaku;$20,00;25;0,00%
+10500;Genen Shouyu;$15,50;12;5,00%
+10500;Rssle Sauerkraut;$45,60;8;5,00%
+10501;Tourtire;$7,45;20;0,00%
+10502;Rgede sild;$9,50;21;0,00%
+10502;Perth Pasties;$32,80;6;0,00%
+10502;Laughing Lumberjack Lager;$14,00;30;0,00%
+10503;Tofu;$23,25;70;0,00%
+10503;Louisiana Fiery Hot Pepper Sauce;$21,05;20;0,00%
+10504;Chang;$19,00;12;0,00%
+10504;Sir Rodney's Scones;$10,00;12;0,00%
+10504;Perth Pasties;$32,80;10;0,00%
+10504;Sirop d'rable;$28,50;25;0,00%
+10505;Tarte au sucre;$49,30;3;0,00%
+10506;NuNuCa Nu-Nougat-Creme;$14,00;18;10,00%
+10506;Outback Lager;$15,00;14;10,00%
+10507;Ipoh Coffee;$46,00;15;15,00%
+10507;Chocolade;$12,75;15;15,00%
+10508;Konbu;$6,00;10;0,00%
+10508;Chartreuse verte;$18,00;10;0,00%
+10509;Rssle Sauerkraut;$45,60;3;0,00%
+10510;Thringer Rostbratwurst;$123,79;36;0,00%
+10510;Rhnbru Klosterbier;$7,75;36;10,00%
+10511;Chef Anton's Cajun Seasoning;$22,00;50;15,00%
+10511;Uncle Bob's Organic Dried Pears;$30,00;50;15,00%
+10511;Northwoods Cranberry Sauce;$40,00;10;15,00%
+10512;Guaran Fantstica;$4,50;10;15,00%
+10512;Spegesild;$12,00;9;15,00%
+10512;Zaanse koeken;$9,50;6;15,00%
+10512;Camembert Pierrot;$34,00;12;15,00%
+10513;Sir Rodney's Scones;$10,00;40;20,00%
+10513;Mascarpone Fabioli;$32,00;50;20,00%
+10513;Sirop d'rable;$28,50;15;20,00%
+10514;Sir Rodney's Marmalade;$81,00;39;0,00%
+10514;Rssle Sauerkraut;$45,60;35;0,00%
+10514;Gnocchi di nonna Alice;$38,00;70;0,00%
+10514;Louisiana Fiery Hot Pepper Sauce;$21,05;39;0,00%
+10514;Rhnbru Klosterbier;$7,75;50;0,00%
+10515;Mishi Kobe Niku;$97,00;16;15,00%
+10515;Pavlova;$17,45;50;0,00%
+10515;Schoggi Schokolade;$43,90;120;0,00%
+10515;Geitost;$2,50;16;15,00%
+10515;Camembert Pierrot;$34,00;84;15,00%
+10516;Carnarvon Tigers;$62,50;25;10,00%
+10516;Jack's New England Clam Chowder;$9,65;80;10,00%
+10516;Singaporean Hokkien Fried Mee;$14,00;20;0,00%
+10517;Filo Mix;$7,00;6;0,00%
+10517;Raclette Courdavault;$55,00;4;0,00%
+10517;Outback Lager;$15,00;6;0,00%
+10518;Guaran Fantstica;$4,50;5;0,00%
+10518;Cte de Blaye;$263,50;15;0,00%
+10518;Gula Malacca;$19,45;9;0,00%
+10519;Ikura;$31,00;16;5,00%
+10519;Gnocchi di nonna Alice;$38,00;40;0,00%
+10519;Camembert Pierrot;$34,00;10;5,00%
+10520;Guaran Fantstica;$4,50;8;0,00%
+10520;Perth Pasties;$32,80;5;0,00%
+10521;Steeleye Stout;$18,00;3;0,00%
+10521;Jack's New England Clam Chowder;$9,65;10;0,00%
+10521;Scottish Longbreads;$12,50;6;0,00%
+10522;Chai;$18,00;40;20,00%
+10522;Northwoods Cranberry Sauce;$40,00;24;0,00%
+10522;Nord-Ost Matjeshering;$25,89;20;20,00%
+10522;Boston Crab Meat;$18,40;25;20,00%
+10523;Alice Mutton;$39,00;25;10,00%
+10523;Sir Rodney's Marmalade;$81,00;15;10,00%
+10523;Gravad lax;$26,00;18;10,00%
+10523;Jack's New England Clam Chowder;$9,65;6;10,00%
+10524;Ikura;$31,00;2;0,00%
+10524;Nord-Ost Matjeshering;$25,89;10;0,00%
+10524;Ipoh Coffee;$46,00;60;0,00%
+10524;Tourtire;$7,45;15;0,00%
+10525;Inlagd Sill;$19,00;30;0,00%
+10525;Boston Crab Meat;$18,40;15;10,00%
+10526;Chai;$18,00;8;15,00%
+10526;Konbu;$6,00;10;0,00%
+10526;Gnocchi di nonna Alice;$38,00;30;15,00%
+10527;Chef Anton's Cajun Seasoning;$22,00;50;10,00%
+10527;Inlagd Sill;$19,00;30;10,00%
+10528;Queso Cabrales;$21,00;3;0,00%
+10528;Geitost;$2,50;8;20,00%
+10528;Mozzarella di Giovanni;$34,80;9;0,00%
+10529;Pt chinois;$24,00;14;0,00%
+10529;Scottish Longbreads;$12,50;20;0,00%
+10529;Gudbrandsdalsost;$36,00;10;0,00%
+10530;Alice Mutton;$39,00;40;0,00%
+10530;Ipoh Coffee;$46,00;25;0,00%
+10530;Sirop d'rable;$28,50;20;0,00%
+10530;Lakkalikri;$18,00;50;0,00%
+10531;Raclette Courdavault;$55,00;2;0,00%
+10532;Nord-Ost Matjeshering;$25,89;15;0,00%
+10532;Louisiana Hot Spiced Okra;$17,00;24;0,00%
+10533;Chef Anton's Cajun Seasoning;$22,00;50;5,00%
+10533;Mozzarella di Giovanni;$34,80;24;0,00%
+10533;Rd Kaviar;$15,00;24;5,00%
+10534;Nord-Ost Matjeshering;$25,89;10;0,00%
+10534;Boston Crab Meat;$18,40;10;20,00%
+10534;Tourtire;$7,45;10;20,00%
+10535;Queso Cabrales;$21,00;50;10,00%
+10535;Boston Crab Meat;$18,40;10;10,00%
+10535;Ravioli Angelo;$19,50;5;10,00%
+10535;Raclette Courdavault;$55,00;15;10,00%
+10536;Queso Manchego La Pastora;$38,00;15;25,00%
+10536;Gorgonzola Telino;$12,50;20;0,00%
+10536;Geitost;$2,50;30;0,00%
+10536;Camembert Pierrot;$34,00;35;25,00%
+10537;Gorgonzola Telino;$12,50;30;0,00%
+10537;Manjimup Dried Apples;$53,00;6;0,00%
+10537;Escargots de Bourgogne;$13,25;20;0,00%
+10537;Mozzarella di Giovanni;$34,80;21;0,00%
+10537;Rd Kaviar;$15,00;9;0,00%
+10538;Outback Lager;$15,00;7;0,00%
+10538;Mozzarella di Giovanni;$34,80;1;0,00%
+10539;Konbu;$6,00;8;0,00%
+10539;Sir Rodney's Scones;$10,00;15;0,00%
+10539;Geitost;$2,50;15;0,00%
+10539;Maxilaku;$20,00;6;0,00%
+10540;Aniseed Syrup;$10,00;60;0,00%
+10540;Gumbr Gummibrchen;$31,23;40;0,00%
+10540;Cte de Blaye;$263,50;30;0,00%
+10540;Scottish Longbreads;$12,50;35;0,00%
+10541;Guaran Fantstica;$4,50;35;10,00%
+10541;Cte de Blaye;$263,50;4;10,00%
+10541;Louisiana Fiery Hot Pepper Sauce;$21,05;36;10,00%
+10541;Fltemysost;$21,50;9;10,00%
+10542;Queso Cabrales;$21,00;15;5,00%
+10542;Tourtire;$7,45;24;5,00%
+10543;Queso Manchego La Pastora;$38,00;30;15,00%
+10543;Tunnbrd;$9,00;70;15,00%
+10544;Rssle Sauerkraut;$45,60;7;0,00%
+10544;Laughing Lumberjack Lager;$14,00;7;0,00%
+10545;Queso Cabrales;$21,00;10;0,00%
+10546;Uncle Bob's Organic Dried Pears;$30,00;10;0,00%
+10546;Steeleye Stout;$18,00;30;0,00%
+10546;Tarte au sucre;$49,30;40;0,00%
+10547;Mascarpone Fabioli;$32,00;24;15,00%
+10547;Inlagd Sill;$19,00;60;0,00%
+10548;Sasquatch Ale;$14,00;10;25,00%
+10548;Jack's New England Clam Chowder;$9,65;14;0,00%
+10549;Gorgonzola Telino;$12,50;55;15,00%
+10549;Rgede sild;$9,50;100;15,00%
+10549;Manjimup Dried Apples;$53,00;48;15,00%
+10550;Alice Mutton;$39,00;8;10,00%
+10550;Teatime Chocolate Biscuits;$9,20;10;0,00%
+10550;Sir Rodney's Scones;$10,00;6;10,00%
+10550;Sirop d'rable;$28,50;10;10,00%
+10551;Pavlova;$17,45;40;15,00%
+10551;Steeleye Stout;$18,00;20;15,00%
+10551;Gula Malacca;$19,45;40;0,00%
+10552;Gudbrandsdalsost;$36,00;18;0,00%
+10552;Rhnbru Klosterbier;$7,75;30;0,00%
+10553;Queso Cabrales;$21,00;15;0,00%
+10553;Pavlova;$17,45;14;0,00%
+10553;Gustaf's Knckebrd;$21,00;24;0,00%
+10553;Gorgonzola Telino;$12,50;30;0,00%
+10553;Steeleye Stout;$18,00;6;0,00%
+10554;Pavlova;$17,45;30;5,00%
+10554;Tunnbrd;$9,00;20;5,00%
+10554;Tarte au sucre;$49,30;20;5,00%
+10554;Original Frankfurter grne Soe;$13,00;10;5,00%
+10555;Tofu;$23,25;30;20,00%
+10555;Teatime Chocolate Biscuits;$9,20;35;20,00%
+10555;Guaran Fantstica;$4,50;18;20,00%
+10555;Manjimup Dried Apples;$53,00;20;20,00%
+10555;Gnocchi di nonna Alice;$38,00;40;20,00%
+10556;Mozzarella di Giovanni;$34,80;24;0,00%
+10557;Wimmers gute Semmelkndel;$33,25;30;0,00%
+10557;Rhnbru Klosterbier;$7,75;20;0,00%
+10558;Zaanse koeken;$9,50;25;0,00%
+10558;Manjimup Dried Apples;$53,00;20;0,00%
+10558;Filo Mix;$7,00;30;0,00%
+10558;Perth Pasties;$32,80;18;0,00%
+10558;Rd Kaviar;$15,00;3;0,00%
+10559;Jack's New England Clam Chowder;$9,65;12;5,00%
+10559;Pt chinois;$24,00;18;5,00%
+10560;Nord-Ost Matjeshering;$25,89;20;0,00%
+10560;Tarte au sucre;$49,30;15;25,00%
+10561;Gula Malacca;$19,45;10;0,00%
+10561;Manjimup Dried Apples;$53,00;50;0,00%
+10562;Geitost;$2,50;20;10,00%
+10562;Tarte au sucre;$49,30;10;10,00%
+10563;Inlagd Sill;$19,00;25;0,00%
+10563;Filo Mix;$7,00;70;0,00%
+10564;Alice Mutton;$39,00;16;5,00%
+10564;Gorgonzola Telino;$12,50;6;5,00%
+10564;Pt chinois;$24,00;25;5,00%
+10565;Guaran Fantstica;$4,50;25;10,00%
+10565;Wimmers gute Semmelkndel;$33,25;18;10,00%
+10566;Queso Cabrales;$21,00;35;15,00%
+10566;Carnarvon Tigers;$62,50;18;15,00%
+10566;Lakkalikri;$18,00;10;0,00%
+10567;Gorgonzola Telino;$12,50;60;20,00%
+10567;Manjimup Dried Apples;$53,00;3;0,00%
+10567;Raclette Courdavault;$55,00;40;20,00%
+10568;Ikura;$31,00;5;0,00%
+10569;Gorgonzola Telino;$12,50;35;20,00%
+10569;Lakkalikri;$18,00;30;0,00%
+10570;Queso Cabrales;$21,00;15;5,00%
+10570;Gnocchi di nonna Alice;$38,00;60;5,00%
+10571;Tofu;$23,25;11;15,00%
+10571;Singaporean Hokkien Fried Mee;$14,00;28;15,00%
+10572;Pavlova;$17,45;12;10,00%
+10572;Mascarpone Fabioli;$32,00;10;10,00%
+10572;Boston Crab Meat;$18,40;50;0,00%
+10572;Rhnbru Klosterbier;$7,75;15;10,00%
+10573;Alice Mutton;$39,00;18;0,00%
+10573;Sasquatch Ale;$14,00;40;0,00%
+10573;Perth Pasties;$32,80;25;0,00%
+10574;Geitost;$2,50;14;0,00%
+10574;Boston Crab Meat;$18,40;2;0,00%
+10574;Tarte au sucre;$49,30;10;0,00%
+10574;Wimmers gute Semmelkndel;$33,25;6;0,00%
+10575;Raclette Courdavault;$55,00;12;0,00%
+10575;Vegie-spread;$43,90;6;0,00%
+10575;Mozzarella di Giovanni;$34,80;30;0,00%
+10575;Lakkalikri;$18,00;10;0,00%
+10576;Chai;$18,00;10;0,00%
+10576;Gorgonzola Telino;$12,50;20;0,00%
+10576;Gula Malacca;$19,45;21;0,00%
+10577;Chartreuse verte;$18,00;10;0,00%
+10577;Rhnbru Klosterbier;$7,75;20;0,00%
+10577;Original Frankfurter grne Soe;$13,00;18;0,00%
+10578;Steeleye Stout;$18,00;20;0,00%
+10578;Ravioli Angelo;$19,50;6;0,00%
+10579;Genen Shouyu;$15,50;10;0,00%
+10579;Rhnbru Klosterbier;$7,75;21;0,00%
+10580;Tofu;$23,25;15;5,00%
+10580;Jack's New England Clam Chowder;$9,65;9;5,00%
+10580;Louisiana Fiery Hot Pepper Sauce;$21,05;30;5,00%
+10581;Rhnbru Klosterbier;$7,75;50;20,00%
+10582;Ravioli Angelo;$19,50;4;0,00%
+10582;Lakkalikri;$18,00;14;0,00%
+10583;Thringer Rostbratwurst;$123,79;10;0,00%
+10583;Camembert Pierrot;$34,00;24;15,00%
+10583;Gudbrandsdalsost;$36,00;10;15,00%
+10584;Gorgonzola Telino;$12,50;50;5,00%
+10585;Zaanse koeken;$9,50;15;0,00%
+10586;Filo Mix;$7,00;4;15,00%
+10587;Gumbr Gummibrchen;$31,23;6;0,00%
+10587;Steeleye Stout;$18,00;20;0,00%
+10587;Original Frankfurter grne Soe;$13,00;20;0,00%
+10588;Carnarvon Tigers;$62,50;40;20,00%
+10588;Singaporean Hokkien Fried Mee;$14,00;100;20,00%
+10589;Steeleye Stout;$18,00;4;0,00%
+10590;Chai;$18,00;20;0,00%
+10590;Original Frankfurter grne Soe;$13,00;60;5,00%
+10591;Aniseed Syrup;$10,00;14;0,00%
+10591;Uncle Bob's Organic Dried Pears;$30,00;10;0,00%
+10591;Tourtire;$7,45;50;0,00%
+10592;Genen Shouyu;$15,50;25;5,00%
+10592;Gumbr Gummibrchen;$31,23;5;5,00%
+10593;Sir Rodney's Marmalade;$81,00;21;20,00%
+10593;Gudbrandsdalsost;$36,00;20;20,00%
+10593;Lakkalikri;$18,00;4;20,00%
+10594;Filo Mix;$7,00;24;0,00%
+10594;Escargots de Bourgogne;$13,25;30;0,00%
+10595;Steeleye Stout;$18,00;30;25,00%
+10595;Sirop d'rable;$28,50;120;25,00%
+10595;Gudbrandsdalsost;$36,00;65;25,00%
+10596;Gnocchi di nonna Alice;$38,00;5;20,00%
+10596;Vegie-spread;$43,90;24;20,00%
+10596;Rhnbru Klosterbier;$7,75;30;20,00%
+10597;Guaran Fantstica;$4,50;35;20,00%
+10597;Ravioli Angelo;$19,50;20;0,00%
+10597;Louisiana Fiery Hot Pepper Sauce;$21,05;12;20,00%
+10598;Schoggi Schokolade;$43,90;50;0,00%
+10598;Fltemysost;$21,50;9;0,00%
+10599;Tarte au sucre;$49,30;10;0,00%
+10600;Tourtire;$7,45;4;0,00%
+10600;Rd Kaviar;$15,00;30;0,00%
+10601;Konbu;$6,00;60;0,00%
+10601;Raclette Courdavault;$55,00;35;0,00%
+10602;Original Frankfurter grne Soe;$13,00;5;25,00%
+10603;Gustaf's Knckebrd;$21,00;48;0,00%
+10603;Maxilaku;$20,00;25;5,00%
+10604;Chocolade;$12,75;6;10,00%
+10604;Lakkalikri;$18,00;10;10,00%
+10605;Pavlova;$17,45;30;5,00%
+10605;Raclette Courdavault;$55,00;20;5,00%
+10605;Camembert Pierrot;$34,00;70;5,00%
+10605;Fltemysost;$21,50;15;5,00%
+10606;Chef Anton's Cajun Seasoning;$22,00;20;20,00%
+10606;Pt chinois;$24,00;20;20,00%
+10606;Tarte au sucre;$49,30;10;20,00%
+10607;Uncle Bob's Organic Dried Pears;$30,00;45;0,00%
+10607;Alice Mutton;$39,00;100;0,00%
+10607;Geitost;$2,50;14;0,00%
+10607;Boston Crab Meat;$18,40;42;0,00%
+10607;Mozzarella di Giovanni;$34,80;12;0,00%
+10608;Gnocchi di nonna Alice;$38,00;28;0,00%
+10609;Chai;$18,00;3;0,00%
+10609;Ikura;$31,00;10;0,00%
+10609;Sir Rodney's Scones;$10,00;6;0,00%
+10610;Inlagd Sill;$19,00;21;25,00%
+10611;Chai;$18,00;6;0,00%
+10611;Chang;$19,00;10;0,00%
+10611;Camembert Pierrot;$34,00;15;0,00%
+10612;Ikura;$31,00;70;0,00%
+10612;Inlagd Sill;$19,00;55;0,00%
+10612;Maxilaku;$20,00;18;0,00%
+10612;Camembert Pierrot;$34,00;40;0,00%
+10612;Lakkalikri;$18,00;80;0,00%
+10613;Konbu;$6,00;8;10,00%
+10613;Rhnbru Klosterbier;$7,75;40;0,00%
+10614;Queso Cabrales;$21,00;14;0,00%
+10614;Sir Rodney's Scones;$10,00;8;0,00%
+10614;Chartreuse verte;$18,00;5;0,00%
+10615;Pt chinois;$24,00;5;0,00%
+10616;Cte de Blaye;$263,50;15;5,00%
+10616;Gnocchi di nonna Alice;$38,00;14;0,00%
+10616;Outback Lager;$15,00;15;5,00%
+10616;Fltemysost;$21,50;15;5,00%
+10617;Raclette Courdavault;$55,00;30;15,00%
+10618;Grandma's Boysenberry Spread;$25,00;70;0,00%
+10618;Gnocchi di nonna Alice;$38,00;20;0,00%
+10618;Scottish Longbreads;$12,50;15;0,00%
+10619;Sir Rodney's Scones;$10,00;42;0,00%
+10619;Gustaf's Knckebrd;$21,00;40;0,00%
+10620;Guaran Fantstica;$4,50;5;0,00%
+10620;Filo Mix;$7,00;5;0,00%
+10621;Teatime Chocolate Biscuits;$9,20;5;0,00%
+10621;Tunnbrd;$9,00;10;0,00%
+10621;Outback Lager;$15,00;20;0,00%
+10621;Fltemysost;$21,50;15;0,00%
+10622;Chang;$19,00;20;0,00%
+10622;Scottish Longbreads;$12,50;18;20,00%
+10623;Tofu;$23,25;21;0,00%
+10623;Teatime Chocolate Biscuits;$9,20;15;10,00%
+10623;Sir Rodney's Scones;$10,00;25;10,00%
+10623;Guaran Fantstica;$4,50;3;0,00%
+10623;Steeleye Stout;$18,00;30;10,00%
+10624;Rssle Sauerkraut;$45,60;10;0,00%
+10624;Thringer Rostbratwurst;$123,79;6;0,00%
+10624;Gula Malacca;$19,45;10;0,00%
+10625;Tofu;$23,25;3;0,00%
+10625;Singaporean Hokkien Fried Mee;$14,00;5;0,00%
+10625;Camembert Pierrot;$34,00;10;0,00%
+10626;Perth Pasties;$32,80;12;0,00%
+10626;Camembert Pierrot;$34,00;20;0,00%
+10626;Fltemysost;$21,50;20;0,00%
+10627;Tarte au sucre;$49,30;15;0,00%
+10627;Rd Kaviar;$15,00;35;15,00%
+10628;Chai;$18,00;25;0,00%
+10629;Thringer Rostbratwurst;$123,79;20;0,00%
+10629;Wimmers gute Semmelkndel;$33,25;9;0,00%
+10630;Pt chinois;$24,00;12;5,00%
+10630;Lakkalikri;$18,00;35;0,00%
+10631;Rhnbru Klosterbier;$7,75;8;10,00%
+10632;Chang;$19,00;30;5,00%
+10632;Geitost;$2,50;20;5,00%
+10633;Queso Manchego La Pastora;$38,00;36;15,00%
+10633;Konbu;$6,00;13;15,00%
+10633;Gumbr Gummibrchen;$31,23;35;15,00%
+10633;Tarte au sucre;$49,30;80;15,00%
+10634;Uncle Bob's Organic Dried Pears;$30,00;35;0,00%
+10634;Carnarvon Tigers;$62,50;50;0,00%
+10634;Manjimup Dried Apples;$53,00;15;0,00%
+10634;Rhnbru Klosterbier;$7,75;2;0,00%
+10635;Chef Anton's Cajun Seasoning;$22,00;10;10,00%
+10635;Chef Anton's Gumbo Mix;$21,35;15;10,00%
+10635;Gustaf's Knckebrd;$21,00;40;0,00%
+10636;Chef Anton's Cajun Seasoning;$22,00;25;0,00%
+10636;Escargots de Bourgogne;$13,25;6;0,00%
+10637;Queso Cabrales;$21,00;10;0,00%
+10637;Valkoinen suklaa;$16,25;25;5,00%
+10637;Gnocchi di nonna Alice;$38,00;60;5,00%
+10638;Rgede sild;$9,50;20;0,00%
+10638;Louisiana Fiery Hot Pepper Sauce;$21,05;21;0,00%
+10638;Mozzarella di Giovanni;$34,80;60;0,00%
+10639;Carnarvon Tigers;$62,50;8;0,00%
+10640;Gudbrandsdalsost;$36,00;20;25,00%
+10640;Outback Lager;$15,00;15;25,00%
+10641;Chang;$19,00;50;0,00%
+10641;Boston Crab Meat;$18,40;60;0,00%
+10642;Sir Rodney's Scones;$10,00;30;20,00%
+10642;Sirop d'rable;$28,50;20;20,00%
+10643;Rssle Sauerkraut;$45,60;15;25,00%
+10643;Chartreuse verte;$18,00;21;25,00%
+10643;Spegesild;$12,00;2;25,00%
+10644;Carnarvon Tigers;$62,50;4;10,00%
+10644;Ipoh Coffee;$46,00;20;0,00%
+10644;Spegesild;$12,00;21;10,00%
+10645;Carnarvon Tigers;$62,50;20;0,00%
+10645;Inlagd Sill;$19,00;15;0,00%
+10646;Chai;$18,00;15;25,00%
+10646;Ikura;$31,00;18;25,00%
+10646;Fltemysost;$21,50;30;25,00%
+10646;Original Frankfurter grne Soe;$13,00;35;25,00%
+10647;Teatime Chocolate Biscuits;$9,20;30;0,00%
+10647;Chartreuse verte;$18,00;20;0,00%
+10648;Gustaf's Knckebrd;$21,00;15;0,00%
+10648;Guaran Fantstica;$4,50;15;15,00%
+10649;Rssle Sauerkraut;$45,60;20;0,00%
+10649;Mozzarella di Giovanni;$34,80;15;0,00%
+10650;Nord-Ost Matjeshering;$25,89;30;0,00%
+10650;Perth Pasties;$32,80;25;5,00%
+10650;Tourtire;$7,45;30;0,00%
+10651;Teatime Chocolate Biscuits;$9,20;12;25,00%
+10651;Gustaf's Knckebrd;$21,00;20;25,00%
+10652;Nord-Ost Matjeshering;$25,89;2;25,00%
+10652;Singaporean Hokkien Fried Mee;$14,00;20;0,00%
+10653;Pavlova;$17,45;30;10,00%
+10653;Camembert Pierrot;$34,00;20;10,00%
+10654;Chef Anton's Cajun Seasoning;$22,00;12;10,00%
+10654;Chartreuse verte;$18,00;20;10,00%
+10654;Tourtire;$7,45;6;10,00%
+10655;Jack's New England Clam Chowder;$9,65;20;20,00%
+10656;Tofu;$23,25;3;10,00%
+10656;Gula Malacca;$19,45;28;10,00%
+10656;Zaanse koeken;$9,50;6;10,00%
+10657;Genen Shouyu;$15,50;50;0,00%
+10657;Jack's New England Clam Chowder;$9,65;24;0,00%
+10657;Spegesild;$12,00;45;0,00%
+10657;Zaanse koeken;$9,50;10;0,00%
+10657;Gnocchi di nonna Alice;$38,00;45;0,00%
+10657;Camembert Pierrot;$34,00;30;0,00%
+10658;Sir Rodney's Scones;$10,00;60;0,00%
+10658;Boston Crab Meat;$18,40;70;5,00%
+10658;Camembert Pierrot;$34,00;55;5,00%
+10658;Original Frankfurter grne Soe;$13,00;70;5,00%
+10659;Gorgonzola Telino;$12,50;20;5,00%
+10659;Boston Crab Meat;$18,40;24;5,00%
+10659;Outback Lager;$15,00;40;5,00%
+10660;Sir Rodney's Marmalade;$81,00;21;0,00%
+10661;Chartreuse verte;$18,00;3;20,00%
+10661;Escargots de Bourgogne;$13,25;49;20,00%
+10662;Scottish Longbreads;$12,50;10;0,00%
+10663;Boston Crab Meat;$18,40;30;5,00%
+10663;Singaporean Hokkien Fried Mee;$14,00;30;5,00%
+10663;Manjimup Dried Apples;$53,00;20;5,00%
+10664;Ikura;$31,00;24;15,00%
+10664;Gnocchi di nonna Alice;$38,00;12;15,00%
+10664;Louisiana Fiery Hot Pepper Sauce;$21,05;15;15,00%
+10665;Manjimup Dried Apples;$53,00;20;0,00%
+10665;Raclette Courdavault;$55,00;1;0,00%
+10665;Lakkalikri;$18,00;10;0,00%
+10666;Thringer Rostbratwurst;$123,79;36;0,00%
+10666;Louisiana Fiery Hot Pepper Sauce;$21,05;10;0,00%
+10667;Gudbrandsdalsost;$36,00;45;20,00%
+10667;Fltemysost;$21,50;14;20,00%
+10668;Gorgonzola Telino;$12,50;8;10,00%
+10668;Pt chinois;$24,00;4;10,00%
+10668;Wimmers gute Semmelkndel;$33,25;15;10,00%
+10669;Inlagd Sill;$19,00;30;0,00%
+10670;Tunnbrd;$9,00;32;0,00%
+10670;Spegesild;$12,00;60;0,00%
+10670;Laughing Lumberjack Lager;$14,00;25;0,00%
+10670;Rd Kaviar;$15,00;50;0,00%
+10670;Rhnbru Klosterbier;$7,75;25;0,00%
+10671;Pavlova;$17,45;10;0,00%
+10671;Tarte au sucre;$49,30;10;0,00%
+10671;Louisiana Fiery Hot Pepper Sauce;$21,05;12;0,00%
+10672;Cte de Blaye;$263,50;15;10,00%
+10672;Fltemysost;$21,50;12;0,00%
+10673;Pavlova;$17,45;3;0,00%
+10673;Singaporean Hokkien Fried Mee;$14,00;6;0,00%
+10673;Ipoh Coffee;$46,00;6;0,00%
+10674;Tunnbrd;$9,00;5;0,00%
+10675;Tofu;$23,25;30;0,00%
+10675;Perth Pasties;$32,80;10;0,00%
+10675;Escargots de Bourgogne;$13,25;30;0,00%
+10676;Ikura;$31,00;2;0,00%
+10676;Teatime Chocolate Biscuits;$9,20;7;0,00%
+10676;Gula Malacca;$19,45;21;0,00%
+10677;Gumbr Gummibrchen;$31,23;30;15,00%
+10677;Geitost;$2,50;8;15,00%
+10678;Queso Manchego La Pastora;$38,00;100;0,00%
+10678;Geitost;$2,50;30;0,00%
+10678;Jack's New England Clam Chowder;$9,65;120;0,00%
+10678;Tourtire;$7,45;30;0,00%
+10679;Raclette Courdavault;$55,00;12;0,00%
+10680;Pavlova;$17,45;50;25,00%
+10680;Gorgonzola Telino;$12,50;20;25,00%
+10680;Singaporean Hokkien Fried Mee;$14,00;40;25,00%
+10681;Teatime Chocolate Biscuits;$9,20;30;10,00%
+10681;Sir Rodney's Scones;$10,00;12;10,00%
+10681;Wimmers gute Semmelkndel;$33,25;28;0,00%
+10682;Geitost;$2,50;30;0,00%
+10682;Louisiana Hot Spiced Okra;$17,00;4;0,00%
+10682;Rhnbru Klosterbier;$7,75;30;0,00%
+10683;Filo Mix;$7,00;9;0,00%
+10684;Boston Crab Meat;$18,40;20;0,00%
+10684;Zaanse koeken;$9,50;40;0,00%
+10684;Camembert Pierrot;$34,00;30;0,00%
+10685;Ikura;$31,00;20;0,00%
+10685;Jack's New England Clam Chowder;$9,65;4;0,00%
+10685;Zaanse koeken;$9,50;15;0,00%
+10686;Alice Mutton;$39,00;30;20,00%
+10686;Gumbr Gummibrchen;$31,23;15;0,00%
+10687;Mishi Kobe Niku;$97,00;50;25,00%
+10687;Thringer Rostbratwurst;$123,79;10;0,00%
+10687;Inlagd Sill;$19,00;6;25,00%
+10688;Ikura;$31,00;18;10,00%
+10688;Rssle Sauerkraut;$45,60;60;10,00%
+10688;Sasquatch Ale;$14,00;14;0,00%
+10689;Chai;$18,00;35;25,00%
+10690;Gnocchi di nonna Alice;$38,00;20;25,00%
+10690;Original Frankfurter grne Soe;$13,00;30;25,00%
+10691;Chai;$18,00;30;0,00%
+10691;Thringer Rostbratwurst;$123,79;40;0,00%
+10691;Ipoh Coffee;$46,00;40;0,00%
+10691;Gula Malacca;$19,45;24;0,00%
+10691;Tarte au sucre;$49,30;48;0,00%
+10692;Vegie-spread;$43,90;20;0,00%
+10693;Mishi Kobe Niku;$97,00;6;0,00%
+10693;Tourtire;$7,45;60;15,00%
+10693;Gudbrandsdalsost;$36,00;30;15,00%
+10693;Rd Kaviar;$15,00;15;15,00%
+10694;Uncle Bob's Organic Dried Pears;$30,00;90;0,00%
+10694;Raclette Courdavault;$55,00;25;0,00%
+10694;Outback Lager;$15,00;50;0,00%
+10695;Northwoods Cranberry Sauce;$40,00;10;0,00%
+10695;Queso Manchego La Pastora;$38,00;4;0,00%
+10695;Guaran Fantstica;$4,50;20;0,00%
+10696;Alice Mutton;$39,00;20;0,00%
+10696;Spegesild;$12,00;18;0,00%
+10697;Teatime Chocolate Biscuits;$9,20;7;25,00%
+10697;Steeleye Stout;$18,00;9;25,00%
+10697;Escargots de Bourgogne;$13,25;30;25,00%
+10697;Outback Lager;$15,00;30;25,00%
+10698;Queso Cabrales;$21,00;15;0,00%
+10698;Alice Mutton;$39,00;8;5,00%
+10698;Thringer Rostbratwurst;$123,79;12;5,00%
+10698;Louisiana Fiery Hot Pepper Sauce;$21,05;65;5,00%
+10698;Outback Lager;$15,00;8;5,00%
+10699;Zaanse koeken;$9,50;12;0,00%
+10700;Chai;$18,00;5;20,00%
+10700;Sasquatch Ale;$14,00;12;20,00%
+10700;Scottish Longbreads;$12,50;40;20,00%
+10700;Fltemysost;$21,50;60;20,00%
+10701;Raclette Courdavault;$55,00;42;15,00%
+10701;Fltemysost;$21,50;20;15,00%
+10701;Lakkalikri;$18,00;35;15,00%
+10702;Aniseed Syrup;$10,00;6;0,00%
+10702;Lakkalikri;$18,00;15;0,00%
+10703;Chang;$19,00;5;0,00%
+10703;Raclette Courdavault;$55,00;35;0,00%
+10703;Rd Kaviar;$15,00;35;0,00%
+10704;Chef Anton's Cajun Seasoning;$22,00;6;0,00%
+10704;Guaran Fantstica;$4,50;35;0,00%
+10704;Chocolade;$12,75;24;0,00%
+10705;Gorgonzola Telino;$12,50;20;0,00%
+10705;Mascarpone Fabioli;$32,00;4;0,00%
+10706;Pavlova;$17,45;20;0,00%
+10706;Ipoh Coffee;$46,00;24;0,00%
+10706;Raclette Courdavault;$55,00;8;0,00%
+10707;Pt chinois;$24,00;21;0,00%
+10707;Ravioli Angelo;$19,50;40;0,00%
+10707;Outback Lager;$15,00;28;15,00%
+10708;Chef Anton's Gumbo Mix;$21,35;4;0,00%
+10708;Inlagd Sill;$19,00;5;0,00%
+10709;Northwoods Cranberry Sauce;$40,00;40;0,00%
+10709;Manjimup Dried Apples;$53,00;28;0,00%
+10709;Camembert Pierrot;$34,00;10;0,00%
+10710;Teatime Chocolate Biscuits;$9,20;5;0,00%
+10710;Zaanse koeken;$9,50;5;0,00%
+10711;Teatime Chocolate Biscuits;$9,20;12;0,00%
+10711;Jack's New England Clam Chowder;$9,65;42;0,00%
+10711;Perth Pasties;$32,80;120;0,00%
+10712;Perth Pasties;$32,80;3;5,00%
+10712;Gnocchi di nonna Alice;$38,00;30;0,00%
+10713;Ikura;$31,00;18;0,00%
+10713;Gumbr Gummibrchen;$31,23;30;0,00%
+10713;Rgede sild;$9,50;110;0,00%
+10713;Spegesild;$12,00;24;0,00%
+10714;Chang;$19,00;30;25,00%
+10714;Alice Mutton;$39,00;27;25,00%
+10714;Zaanse koeken;$9,50;50;25,00%
+10714;Gnocchi di nonna Alice;$38,00;18;25,00%
+10714;Escargots de Bourgogne;$13,25;12;25,00%
+10715;Ikura;$31,00;21;0,00%
+10715;Fltemysost;$21,50;30;0,00%
+10716;Sir Rodney's Scones;$10,00;5;0,00%
+10716;Manjimup Dried Apples;$53,00;7;0,00%
+10716;Sirop d'rable;$28,50;10;0,00%
+10717;Sir Rodney's Scones;$10,00;32;5,00%
+10717;Tourtire;$7,45;15;0,00%
+10717;Gudbrandsdalsost;$36,00;25;5,00%
+10718;Queso Manchego La Pastora;$38,00;36;0,00%
+10718;Pavlova;$17,45;20;0,00%
+10718;Inlagd Sill;$19,00;40;0,00%
+10718;Tarte au sucre;$49,30;20;0,00%
+10719;Carnarvon Tigers;$62,50;12;25,00%
+10719;Nord-Ost Matjeshering;$25,89;3;25,00%
+10719;Tourtire;$7,45;40;25,00%
+10720;Steeleye Stout;$18,00;21;0,00%
+10720;Fltemysost;$21,50;8;0,00%
+10721;Gula Malacca;$19,45;50;5,00%
+10722;Chang;$19,00;3;0,00%
+10722;Gorgonzola Telino;$12,50;50;0,00%
+10722;Scottish Longbreads;$12,50;45;0,00%
+10722;Rhnbru Klosterbier;$7,75;42;0,00%
+10723;Gumbr Gummibrchen;$31,23;15;0,00%
+10724;Ikura;$31,00;16;0,00%
+10724;Sirop d'rable;$28,50;5;0,00%
+10725;Jack's New England Clam Chowder;$9,65;12;0,00%
+10725;Filo Mix;$7,00;4;0,00%
+10725;Pt chinois;$24,00;6;0,00%
+10726;Chef Anton's Cajun Seasoning;$22,00;25;0,00%
+10726;Queso Cabrales;$21,00;5;0,00%
+10727;Alice Mutton;$39,00;20;5,00%
+10727;Gnocchi di nonna Alice;$38,00;10;5,00%
+10727;Raclette Courdavault;$55,00;10;5,00%
+10728;Nord-Ost Matjeshering;$25,89;15;0,00%
+10728;Boston Crab Meat;$18,40;6;0,00%
+10728;Pt chinois;$24,00;12;0,00%
+10728;Camembert Pierrot;$34,00;15;0,00%
+10729;Chai;$18,00;50;0,00%
+10729;Sir Rodney's Scones;$10,00;30;0,00%
+10729;Valkoinen suklaa;$16,25;40;0,00%
+10730;Pavlova;$17,45;15;5,00%
+10730;Gorgonzola Telino;$12,50;3;5,00%
+10730;Louisiana Fiery Hot Pepper Sauce;$21,05;10;5,00%
+10731;Sir Rodney's Scones;$10,00;40;5,00%
+10731;Manjimup Dried Apples;$53,00;30;5,00%
+10732;Lakkalikri;$18,00;20;0,00%
+10733;Tofu;$23,25;16;0,00%
+10733;Rssle Sauerkraut;$45,60;20;0,00%
+10733;Filo Mix;$7,00;25;0,00%
+10734;Grandma's Boysenberry Spread;$25,00;30;0,00%
+10734;Nord-Ost Matjeshering;$25,89;15;0,00%
+10734;Lakkalikri;$18,00;20;0,00%
+10735;Sirop d'rable;$28,50;20;10,00%
+10735;Original Frankfurter grne Soe;$13,00;2;10,00%
+10736;Louisiana Fiery Hot Pepper Sauce;$21,05;40;0,00%
+10736;Rhnbru Klosterbier;$7,75;20;0,00%
+10737;Konbu;$6,00;4;0,00%
+10737;Jack's New England Clam Chowder;$9,65;12;0,00%
+10738;Pavlova;$17,45;3;0,00%
+10739;Inlagd Sill;$19,00;6;0,00%
+10739;Filo Mix;$7,00;18;0,00%
+10740;Rssle Sauerkraut;$45,60;5;20,00%
+10740;Steeleye Stout;$18,00;35;20,00%
+10740;Rgede sild;$9,50;40;20,00%
+10740;Gnocchi di nonna Alice;$38,00;14;20,00%
+10741;Chang;$19,00;15;20,00%
+10742;Aniseed Syrup;$10,00;20;0,00%
+10742;Camembert Pierrot;$34,00;50;0,00%
+10742;Mozzarella di Giovanni;$34,80;35;0,00%
+10743;Spegesild;$12,00;28;5,00%
+10744;Boston Crab Meat;$18,40;50;20,00%
+10745;Carnarvon Tigers;$62,50;24;0,00%
+10745;Gula Malacca;$19,45;16;0,00%
+10745;Raclette Courdavault;$55,00;45;0,00%
+10745;Mozzarella di Giovanni;$34,80;7;0,00%
+10746;Konbu;$6,00;6;0,00%
+10746;Singaporean Hokkien Fried Mee;$14,00;28;0,00%
+10746;Tarte au sucre;$49,30;9;0,00%
+10746;Gudbrandsdalsost;$36,00;40;0,00%
+10747;Gorgonzola Telino;$12,50;8;0,00%
+10747;Jack's New England Clam Chowder;$9,65;35;0,00%
+10747;Vegie-spread;$43,90;9;0,00%
+10747;Gudbrandsdalsost;$36,00;30;0,00%
+10748;Tunnbrd;$9,00;44;0,00%
+10748;Boston Crab Meat;$18,40;40;0,00%
+10748;Gnocchi di nonna Alice;$38,00;28;0,00%
+10749;Gnocchi di nonna Alice;$38,00;15;0,00%
+10749;Raclette Courdavault;$55,00;6;0,00%
+10749;Lakkalikri;$18,00;10;0,00%
+10750;Tofu;$23,25;5;15,00%
+10750;Rgede sild;$9,50;40;15,00%
+10750;Raclette Courdavault;$55,00;25;15,00%
+10751;Gumbr Gummibrchen;$31,23;12;10,00%
+10751;Nord-Ost Matjeshering;$25,89;30;0,00%
+10751;Valkoinen suklaa;$16,25;20;10,00%
+10751;Rd Kaviar;$15,00;15;0,00%
+10752;Chai;$18,00;8;0,00%
+10752;Gudbrandsdalsost;$36,00;3;0,00%
+10753;Rgede sild;$9,50;4;0,00%
+10753;Longlife Tofu;$10,00;5;0,00%
+10754;Boston Crab Meat;$18,40;3;0,00%
+10755;Zaanse koeken;$9,50;30;25,00%
+10755;Gnocchi di nonna Alice;$38,00;30;25,00%
+10755;Ravioli Angelo;$19,50;14;25,00%
+10755;Gudbrandsdalsost;$36,00;25;25,00%
+10756;Carnarvon Tigers;$62,50;21;20,00%
+10756;Inlagd Sill;$19,00;20;20,00%
+10756;Scottish Longbreads;$12,50;6;20,00%
+10756;Gudbrandsdalsost;$36,00;20;20,00%
+10757;Sasquatch Ale;$14,00;30;0,00%
+10757;Raclette Courdavault;$55,00;7;0,00%
+10757;Tarte au sucre;$49,30;30;0,00%
+10757;Wimmers gute Semmelkndel;$33,25;24;0,00%
+10758;Gumbr Gummibrchen;$31,23;20;0,00%
+10758;Filo Mix;$7,00;60;0,00%
+10758;Outback Lager;$15,00;40;0,00%
+10759;Mascarpone Fabioli;$32,00;10;0,00%
+10760;NuNuCa Nu-Nougat-Creme;$14,00;12;25,00%
+10760;Schoggi Schokolade;$43,90;40;0,00%
+10760;Ipoh Coffee;$46,00;30;25,00%
+10761;NuNuCa Nu-Nougat-Creme;$14,00;35;25,00%
+10761;Rhnbru Klosterbier;$7,75;18;0,00%
+10762;Chartreuse verte;$18,00;16;0,00%
+10762;Zaanse koeken;$9,50;30;0,00%
+10762;Manjimup Dried Apples;$53,00;28;0,00%
+10762;Gnocchi di nonna Alice;$38,00;60;0,00%
+10763;Sir Rodney's Scones;$10,00;40;0,00%
+10763;Gustaf's Knckebrd;$21,00;6;0,00%
+10763;Guaran Fantstica;$4,50;20;0,00%
+10764;Aniseed Syrup;$10,00;20;10,00%
+10764;Chartreuse verte;$18,00;130;10,00%
+10765;Louisiana Fiery Hot Pepper Sauce;$21,05;80;10,00%
+10766;Chang;$19,00;40;0,00%
+10766;Uncle Bob's Organic Dried Pears;$30,00;35;0,00%
+10766;Scottish Longbreads;$12,50;40;0,00%
+10767;Singaporean Hokkien Fried Mee;$14,00;2;0,00%
+10768;Gustaf's Knckebrd;$21,00;4;0,00%
+10768;Gorgonzola Telino;$12,50;50;0,00%
+10768;Camembert Pierrot;$34,00;15;0,00%
+10768;Fltemysost;$21,50;12;0,00%
+10769;Jack's New England Clam Chowder;$9,65;30;5,00%
+10769;Filo Mix;$7,00;15;5,00%
+10769;Sirop d'rable;$28,50;20;0,00%
+10769;Tarte au sucre;$49,30;15;0,00%
+10770;Queso Cabrales;$21,00;15;25,00%
+10771;Fltemysost;$21,50;16;0,00%
+10772;Thringer Rostbratwurst;$123,79;18;0,00%
+10772;Raclette Courdavault;$55,00;25;0,00%
+10773;Alice Mutton;$39,00;33;0,00%
+10773;Gorgonzola Telino;$12,50;70;20,00%
+10773;Rhnbru Klosterbier;$7,75;7;20,00%
+10774;Gorgonzola Telino;$12,50;2;25,00%
+10774;Louisiana Hot Spiced Okra;$17,00;50;0,00%
+10775;Ikura;$31,00;6;0,00%
+10775;Laughing Lumberjack Lager;$14,00;3;0,00%
+10776;Gorgonzola Telino;$12,50;16;5,00%
+10776;Singaporean Hokkien Fried Mee;$14,00;12;5,00%
+10776;Rgede sild;$9,50;27;5,00%
+10776;Manjimup Dried Apples;$53,00;120;5,00%
+10777;Singaporean Hokkien Fried Mee;$14,00;20;20,00%
+10778;Jack's New England Clam Chowder;$9,65;10;0,00%
+10779;Pavlova;$17,45;20;0,00%
+10779;Tarte au sucre;$49,30;20;0,00%
+10780;Outback Lager;$15,00;35;0,00%
+10780;Original Frankfurter grne Soe;$13,00;15;0,00%
+10781;Tourtire;$7,45;3;20,00%
+10781;Gnocchi di nonna Alice;$38,00;20;20,00%
+10781;Longlife Tofu;$10,00;35;0,00%
+10782;Gorgonzola Telino;$12,50;1;0,00%
+10783;Gorgonzola Telino;$12,50;10;0,00%
+10783;Cte de Blaye;$263,50;5;0,00%
+10784;Inlagd Sill;$19,00;30;0,00%
+10784;Chartreuse verte;$18,00;2;15,00%
+10784;Mozzarella di Giovanni;$34,80;30;15,00%
+10785;Ikura;$31,00;10;0,00%
+10785;Rhnbru Klosterbier;$7,75;10;0,00%
+10786;Northwoods Cranberry Sauce;$40,00;30;20,00%
+10786;Nord-Ost Matjeshering;$25,89;15;20,00%
+10786;Rhnbru Klosterbier;$7,75;42;20,00%
+10787;Chang;$19,00;15;5,00%
+10787;Thringer Rostbratwurst;$123,79;20;5,00%
+10788;Teatime Chocolate Biscuits;$9,20;50;5,00%
+10788;Rhnbru Klosterbier;$7,75;40;5,00%
+10789;Carnarvon Tigers;$62,50;30;0,00%
+10789;Steeleye Stout;$18,00;15;0,00%
+10789;Vegie-spread;$43,90;30;0,00%
+10789;Scottish Longbreads;$12,50;18;0,00%
+10790;Uncle Bob's Organic Dried Pears;$30,00;3;15,00%
+10790;Gnocchi di nonna Alice;$38,00;20;15,00%
+10791;Thringer Rostbratwurst;$123,79;14;5,00%
+10791;Jack's New England Clam Chowder;$9,65;20;5,00%
+10792;Chang;$19,00;10;0,00%
+10792;Tourtire;$7,45;3;0,00%
+10792;Scottish Longbreads;$12,50;15;0,00%
+10793;Jack's New England Clam Chowder;$9,65;14;0,00%
+10793;Filo Mix;$7,00;8;0,00%
+10794;Tofu;$23,25;15;20,00%
+10794;Tourtire;$7,45;6;20,00%
+10795;Pavlova;$17,45;65;0,00%
+10795;Alice Mutton;$39,00;35;25,00%
+10796;Gumbr Gummibrchen;$31,23;21;20,00%
+10796;Gula Malacca;$19,45;10;0,00%
+10796;Wimmers gute Semmelkndel;$33,25;35;20,00%
+10796;Gudbrandsdalsost;$36,00;24;20,00%
+10797;Queso Cabrales;$21,00;20;0,00%
+10798;Tarte au sucre;$49,30;2;0,00%
+10798;Mozzarella di Giovanni;$34,80;10;0,00%
+10799;Konbu;$6,00;20;15,00%
+10799;Guaran Fantstica;$4,50;20;15,00%
+10799;Raclette Courdavault;$55,00;25;0,00%
+10800;Queso Cabrales;$21,00;50;10,00%
+10800;Manjimup Dried Apples;$53,00;10;10,00%
+10800;Tourtire;$7,45;7;10,00%
+10801;Alice Mutton;$39,00;40;25,00%
+10801;Thringer Rostbratwurst;$123,79;20;25,00%
+10802;Nord-Ost Matjeshering;$25,89;25;25,00%
+10802;Manjimup Dried Apples;$53,00;30;25,00%
+10802;Pt chinois;$24,00;60;25,00%
+10802;Tarte au sucre;$49,30;5;25,00%
+10803;Teatime Chocolate Biscuits;$9,20;24;5,00%
+10803;NuNuCa Nu-Nougat-Creme;$14,00;15;5,00%
+10803;Raclette Courdavault;$55,00;15;5,00%
+10804;Ikura;$31,00;36;0,00%
+10804;Rssle Sauerkraut;$45,60;24;0,00%
+10804;Maxilaku;$20,00;4;15,00%
+10805;Sasquatch Ale;$14,00;10;0,00%
+10805;Cte de Blaye;$263,50;10;0,00%
+10806;Chang;$19,00;20;25,00%
+10806;Louisiana Fiery Hot Pepper Sauce;$21,05;2;0,00%
+10806;Longlife Tofu;$10,00;15;25,00%
+10807;Boston Crab Meat;$18,40;1;0,00%
+10808;Gnocchi di nonna Alice;$38,00;20;15,00%
+10808;Lakkalikri;$18,00;50;15,00%
+10809;Filo Mix;$7,00;20;0,00%
+10810;Konbu;$6,00;7;0,00%
+10810;NuNuCa Nu-Nougat-Creme;$14,00;5;0,00%
+10810;Outback Lager;$15,00;5;0,00%
+10811;Teatime Chocolate Biscuits;$9,20;15;0,00%
+10811;Tunnbrd;$9,00;18;0,00%
+10811;Boston Crab Meat;$18,40;30;0,00%
+10812;Gorgonzola Telino;$12,50;16;10,00%
+10812;Mozzarella di Giovanni;$34,80;40;10,00%
+10812;Original Frankfurter grne Soe;$13,00;20;0,00%
+10813;Chang;$19,00;12;20,00%
+10813;Spegesild;$12,00;35;0,00%
+10814;Jack's New England Clam Chowder;$9,65;20;0,00%
+10814;Ipoh Coffee;$46,00;20;15,00%
+10814;Chocolade;$12,75;8;15,00%
+10814;Sirop d'rable;$28,50;30;15,00%
+10815;Geitost;$2,50;16;0,00%
+10816;Cte de Blaye;$263,50;30;5,00%
+10816;Tarte au sucre;$49,30;20;5,00%
+10817;Gumbr Gummibrchen;$31,23;40;15,00%
+10817;Cte de Blaye;$263,50;30;0,00%
+10817;Boston Crab Meat;$18,40;60;15,00%
+10817;Tarte au sucre;$49,30;25;15,00%
+10818;Mascarpone Fabioli;$32,00;20;0,00%
+10818;Jack's New England Clam Chowder;$9,65;20;0,00%
+10819;Ipoh Coffee;$46,00;7;0,00%
+10819;Rhnbru Klosterbier;$7,75;20;0,00%
+10820;Gnocchi di nonna Alice;$38,00;30;0,00%
+10821;Steeleye Stout;$18,00;20;0,00%
+10821;Manjimup Dried Apples;$53,00;6;0,00%
+10822;Tarte au sucre;$49,30;3;0,00%
+10822;Outback Lager;$15,00;6;0,00%
+10823;Queso Cabrales;$21,00;20;10,00%
+10823;Ravioli Angelo;$19,50;15;0,00%
+10823;Raclette Courdavault;$55,00;40;10,00%
+10823;Original Frankfurter grne Soe;$13,00;15;10,00%
+10824;Jack's New England Clam Chowder;$9,65;12;0,00%
+10824;Outback Lager;$15,00;9;0,00%
+10825;Gumbr Gummibrchen;$31,23;12;0,00%
+10825;Perth Pasties;$32,80;20;0,00%
+10826;Gorgonzola Telino;$12,50;35;0,00%
+10826;Ravioli Angelo;$19,50;15;0,00%
+10827;Ikura;$31,00;15;0,00%
+10827;Chartreuse verte;$18,00;21;0,00%
+10828;Sir Rodney's Marmalade;$81,00;5;0,00%
+10828;Cte de Blaye;$263,50;2;0,00%
+10829;Chang;$19,00;10;0,00%
+10829;Northwoods Cranberry Sauce;$40,00;20;0,00%
+10829;Konbu;$6,00;10;0,00%
+10829;Camembert Pierrot;$34,00;21;0,00%
+10830;Grandma's Boysenberry Spread;$25,00;6;0,00%
+10830;Chartreuse verte;$18,00;28;0,00%
+10830;Camembert Pierrot;$34,00;30;0,00%
+10830;Scottish Longbreads;$12,50;24;0,00%
+10831;Teatime Chocolate Biscuits;$9,20;2;0,00%
+10831;Steeleye Stout;$18,00;8;0,00%
+10831;Cte de Blaye;$263,50;8;0,00%
+10831;Ipoh Coffee;$46,00;9;0,00%
+10832;Konbu;$6,00;3;20,00%
+10832;NuNuCa Nu-Nougat-Creme;$14,00;10;20,00%
+10832;Gula Malacca;$19,45;16;20,00%
+10832;Wimmers gute Semmelkndel;$33,25;3;0,00%
+10833;Uncle Bob's Organic Dried Pears;$30,00;20;10,00%
+10833;Gorgonzola Telino;$12,50;9;10,00%
+10833;Perth Pasties;$32,80;9;10,00%
+10834;Thringer Rostbratwurst;$123,79;8;5,00%
+10834;Nord-Ost Matjeshering;$25,89;20;5,00%
+10835;Raclette Courdavault;$55,00;15;0,00%
+10835;Original Frankfurter grne Soe;$13,00;2;20,00%
+10836;Gustaf's Knckebrd;$21,00;52;0,00%
+10836;Steeleye Stout;$18,00;6;0,00%
+10836;Ravioli Angelo;$19,50;24;0,00%
+10836;Camembert Pierrot;$34,00;60;0,00%
+10836;Wimmers gute Semmelkndel;$33,25;30;0,00%
+10837;Konbu;$6,00;6;0,00%
+10837;Boston Crab Meat;$18,40;25;0,00%
+10837;Zaanse koeken;$9,50;40;25,00%
+10837;Lakkalikri;$18,00;21;25,00%
+10838;Chai;$18,00;4;25,00%
+10838;Carnarvon Tigers;$62,50;25;25,00%
+10838;Inlagd Sill;$19,00;50;25,00%
+10839;Escargots de Bourgogne;$13,25;30;10,00%
+10839;Mozzarella di Giovanni;$34,80;15;10,00%
+10840;NuNuCa Nu-Nougat-Creme;$14,00;6;20,00%
+10840;Chartreuse verte;$18,00;10;20,00%
+10841;Ikura;$31,00;16;0,00%
+10841;Gnocchi di nonna Alice;$38,00;30;0,00%
+10841;Raclette Courdavault;$55,00;50;0,00%
+10841;Original Frankfurter grne Soe;$13,00;15;0,00%
+10842;Queso Cabrales;$21,00;15;0,00%
+10842;Ipoh Coffee;$46,00;5;0,00%
+10842;Scottish Longbreads;$12,50;20;0,00%
+10842;Outback Lager;$15,00;12;0,00%
+10843;Manjimup Dried Apples;$53,00;4;25,00%
+10844;Gustaf's Knckebrd;$21,00;35;0,00%
+10845;Tunnbrd;$9,00;70;10,00%
+10845;Steeleye Stout;$18,00;25;10,00%
+10845;Singaporean Hokkien Fried Mee;$14,00;42;10,00%
+10845;Escargots de Bourgogne;$13,25;60;10,00%
+10845;Wimmers gute Semmelkndel;$33,25;48;0,00%
+10846;Chef Anton's Cajun Seasoning;$22,00;21;0,00%
+10846;Outback Lager;$15,00;30;0,00%
+10846;Longlife Tofu;$10,00;20;0,00%
+10847;Chai;$18,00;80;20,00%
+10847;Teatime Chocolate Biscuits;$9,20;12;20,00%
+10847;Gravad lax;$26,00;60;20,00%
+10847;Rgede sild;$9,50;36;20,00%
+10847;Camembert Pierrot;$34,00;45;20,00%
+10847;Fltemysost;$21,50;55;20,00%
+10848;Chef Anton's Gumbo Mix;$21,35;30;0,00%
+10848;Mishi Kobe Niku;$97,00;3;0,00%
+10849;Aniseed Syrup;$10,00;49;0,00%
+10849;Gumbr Gummibrchen;$31,23;18;15,00%
+10850;NuNuCa Nu-Nougat-Creme;$14,00;20;15,00%
+10850;Geitost;$2,50;4;15,00%
+10850;Outback Lager;$15,00;30;15,00%
+10851;Chang;$19,00;5;5,00%
+10851;NuNuCa Nu-Nougat-Creme;$14,00;10;5,00%
+10851;Ravioli Angelo;$19,50;10;5,00%
+10851;Raclette Courdavault;$55,00;42;5,00%
+10852;Chang;$19,00;15;0,00%
+10852;Alice Mutton;$39,00;6;0,00%
+10852;Tarte au sucre;$49,30;50;0,00%
+10853;Carnarvon Tigers;$62,50;10;0,00%
+10854;Ikura;$31,00;100;15,00%
+10854;Konbu;$6,00;65;15,00%
+10855;Pavlova;$17,45;50;0,00%
+10855;Gorgonzola Telino;$12,50;14;0,00%
+10855;Gnocchi di nonna Alice;$38,00;24;0,00%
+10855;Louisiana Fiery Hot Pepper Sauce;$21,05;15;15,00%
+10856;Chang;$19,00;20;0,00%
+10856;Singaporean Hokkien Fried Mee;$14,00;20;0,00%
+10857;Aniseed Syrup;$10,00;30;0,00%
+10857;Gumbr Gummibrchen;$31,23;35;25,00%
+10857;Thringer Rostbratwurst;$123,79;10;25,00%
+10858;Uncle Bob's Organic Dried Pears;$30,00;5;0,00%
+10858;Schoggi Schokolade;$43,90;10;0,00%
+10858;Outback Lager;$15,00;4;0,00%
+10859;Guaran Fantstica;$4,50;40;25,00%
+10859;Tourtire;$7,45;35;25,00%
+10859;Wimmers gute Semmelkndel;$33,25;30;25,00%
+10860;Manjimup Dried Apples;$53,00;3;0,00%
+10860;Lakkalikri;$18,00;20;0,00%
+10861;Alice Mutton;$39,00;42;0,00%
+10861;Carnarvon Tigers;$62,50;20;0,00%
+10861;Sir Rodney's Scones;$10,00;40;0,00%
+10861;Geitost;$2,50;35;0,00%
+10861;Tarte au sucre;$49,30;3;0,00%
+10862;Queso Cabrales;$21,00;25;0,00%
+10862;Filo Mix;$7,00;8;0,00%
+10863;Chai;$18,00;20;15,00%
+10863;Escargots de Bourgogne;$13,25;12;15,00%
+10864;Steeleye Stout;$18,00;4;0,00%
+10864;Laughing Lumberjack Lager;$14,00;15;0,00%
+10865;Cte de Blaye;$263,50;60;5,00%
+10865;Chartreuse verte;$18,00;80;5,00%
+10866;Chang;$19,00;21;25,00%
+10866;Guaran Fantstica;$4,50;6;25,00%
+10866;Nord-Ost Matjeshering;$25,89;40;25,00%
+10867;Perth Pasties;$32,80;3;0,00%
+10868;Gumbr Gummibrchen;$31,23;20;0,00%
+10868;Steeleye Stout;$18,00;30;0,00%
+10868;Maxilaku;$20,00;42;10,00%
+10869;Chai;$18,00;40;0,00%
+10869;Queso Cabrales;$21,00;10;0,00%
+10869;Tunnbrd;$9,00;50;0,00%
+10869;Scottish Longbreads;$12,50;20;0,00%
+10870;Steeleye Stout;$18,00;3;0,00%
+10870;Manjimup Dried Apples;$53,00;2;0,00%
+10871;Grandma's Boysenberry Spread;$25,00;50;5,00%
+10871;Pavlova;$17,45;12;5,00%
+10871;Alice Mutton;$39,00;16;5,00%
+10872;Pt chinois;$24,00;10;5,00%
+10872;Tarte au sucre;$49,30;20;5,00%
+10872;Wimmers gute Semmelkndel;$33,25;15;5,00%
+10872;Louisiana Fiery Hot Pepper Sauce;$21,05;21;5,00%
+10873;Sir Rodney's Scones;$10,00;20;0,00%
+10873;Rssle Sauerkraut;$45,60;3;0,00%
+10874;Ikura;$31,00;10;0,00%
+10875;Teatime Chocolate Biscuits;$9,20;25;0,00%
+10875;Zaanse koeken;$9,50;21;10,00%
+10875;Maxilaku;$20,00;15;0,00%
+10876;Spegesild;$12,00;21;0,00%
+10876;Wimmers gute Semmelkndel;$33,25;20;0,00%
+10877;Pavlova;$17,45;30;25,00%
+10877;Carnarvon Tigers;$62,50;25;0,00%
+10878;Sir Rodney's Marmalade;$81,00;20;5,00%
+10879;Boston Crab Meat;$18,40;12;0,00%
+10879;Louisiana Fiery Hot Pepper Sauce;$21,05;10;0,00%
+10879;Lakkalikri;$18,00;10;0,00%
+10880;Tunnbrd;$9,00;30;20,00%
+10880;Sirop d'rable;$28,50;30;20,00%
+10880;Outback Lager;$15,00;50;20,00%
+10881;Rd Kaviar;$15,00;10;0,00%
+10882;Singaporean Hokkien Fried Mee;$14,00;25;0,00%
+10882;Maxilaku;$20,00;20;15,00%
+10882;Tourtire;$7,45;32;15,00%
+10883;Guaran Fantstica;$4,50;8;0,00%
+10884;Sir Rodney's Scones;$10,00;40;5,00%
+10884;Gnocchi di nonna Alice;$38,00;21;5,00%
+10884;Louisiana Fiery Hot Pepper Sauce;$21,05;12;5,00%
+10885;Chang;$19,00;20;0,00%
+10885;Guaran Fantstica;$4,50;12;0,00%
+10885;Outback Lager;$15,00;30;0,00%
+10885;Original Frankfurter grne Soe;$13,00;25;0,00%
+10886;Ikura;$31,00;70;0,00%
+10886;Gorgonzola Telino;$12,50;35;0,00%
+10886;Original Frankfurter grne Soe;$13,00;40;0,00%
+10887;NuNuCa Nu-Nougat-Creme;$14,00;5;0,00%
+10888;Chang;$19,00;20;0,00%
+10888;Scottish Longbreads;$12,50;18;0,00%
+10889;Queso Cabrales;$21,00;40;0,00%
+10889;Cte de Blaye;$263,50;40;0,00%
+10890;Alice Mutton;$39,00;15;0,00%
+10890;Sasquatch Ale;$14,00;10;0,00%
+10890;Jack's New England Clam Chowder;$9,65;14;0,00%
+10891;Nord-Ost Matjeshering;$25,89;15;5,00%
+10892;Raclette Courdavault;$55,00;40;5,00%
+10893;Northwoods Cranberry Sauce;$40,00;30;0,00%
+10893;Guaran Fantstica;$4,50;10;0,00%
+10893;Thringer Rostbratwurst;$123,79;24;0,00%
+10893;Nord-Ost Matjeshering;$25,89;35;0,00%
+10893;Inlagd Sill;$19,00;20;0,00%
+10894;Konbu;$6,00;28;5,00%
+10894;Gudbrandsdalsost;$36,00;50;5,00%
+10894;Rhnbru Klosterbier;$7,75;120;5,00%
+10895;Guaran Fantstica;$4,50;110;0,00%
+10895;Chartreuse verte;$18,00;45;0,00%
+10895;Boston Crab Meat;$18,40;91;0,00%
+10895;Camembert Pierrot;$34,00;100;0,00%
+10896;Rgede sild;$9,50;15;0,00%
+10896;Gnocchi di nonna Alice;$38,00;16;0,00%
+10897;Thringer Rostbratwurst;$123,79;80;0,00%
+10897;Nord-Ost Matjeshering;$25,89;36;0,00%
+10898;Konbu;$6,00;5;0,00%
+10899;Chartreuse verte;$18,00;8;15,00%
+10900;Outback Lager;$15,00;3;25,00%
+10901;Jack's New England Clam Chowder;$9,65;30;0,00%
+10901;Fltemysost;$21,50;30;0,00%
+10902;Pt chinois;$24,00;30;15,00%
+10902;Tarte au sucre;$49,30;6;15,00%
+10903;Konbu;$6,00;40;0,00%
+10903;Louisiana Fiery Hot Pepper Sauce;$21,05;21;0,00%
+10903;Scottish Longbreads;$12,50;20;0,00%
+10904;Escargots de Bourgogne;$13,25;15;0,00%
+10904;Tarte au sucre;$49,30;35;0,00%
+10905;Chai;$18,00;20;5,00%
+10906;Sirop d'rable;$28,50;15;0,00%
+10907;Rhnbru Klosterbier;$7,75;14;0,00%
+10908;Uncle Bob's Organic Dried Pears;$30,00;20;5,00%
+10908;Filo Mix;$7,00;14;5,00%
+10909;Uncle Bob's Organic Dried Pears;$30,00;12;0,00%
+10909;Pavlova;$17,45;15;0,00%
+10909;Jack's New England Clam Chowder;$9,65;5;0,00%
+10910;Teatime Chocolate Biscuits;$9,20;12;0,00%
+10910;Maxilaku;$20,00;10;0,00%
+10910;Sirop d'rable;$28,50;5;0,00%
+10911;Chai;$18,00;10;0,00%
+10911;Alice Mutton;$39,00;12;0,00%
+10911;Laughing Lumberjack Lager;$14,00;15;0,00%
+10912;Queso Cabrales;$21,00;40;25,00%
+10912;Thringer Rostbratwurst;$123,79;60;25,00%
+10913;Chef Anton's Cajun Seasoning;$22,00;30;25,00%
+10913;Geitost;$2,50;40;25,00%
+10913;Escargots de Bourgogne;$13,25;15;0,00%
+10914;Fltemysost;$21,50;25;0,00%
+10915;Alice Mutton;$39,00;10;0,00%
+10915;Geitost;$2,50;30;0,00%
+10915;Tourtire;$7,45;10;0,00%
+10916;Pavlova;$17,45;6;0,00%
+10916;Mascarpone Fabioli;$32,00;6;0,00%
+10916;Ravioli Angelo;$19,50;20;0,00%
+10917;Nord-Ost Matjeshering;$25,89;1;0,00%
+10917;Camembert Pierrot;$34,00;10;0,00%
+10918;Chai;$18,00;60;25,00%
+10918;Camembert Pierrot;$34,00;25;25,00%
+10919;Pavlova;$17,45;24;0,00%
+10919;NuNuCa Nu-Nougat-Creme;$14,00;24;0,00%
+10919;Boston Crab Meat;$18,40;20;0,00%
+10920;Valkoinen suklaa;$16,25;24;0,00%
+10921;Steeleye Stout;$18,00;10;0,00%
+10921;Vegie-spread;$43,90;40;0,00%
+10922;Alice Mutton;$39,00;15;0,00%
+10922;Guaran Fantstica;$4,50;35;0,00%
+10923;Singaporean Hokkien Fried Mee;$14,00;10;20,00%
+10923;Ipoh Coffee;$46,00;10;20,00%
+10923;Laughing Lumberjack Lager;$14,00;24;20,00%
+10924;Ikura;$31,00;20;10,00%
+10924;Rssle Sauerkraut;$45,60;30;10,00%
+10924;Rhnbru Klosterbier;$7,75;6;0,00%
+10925;Inlagd Sill;$19,00;25;15,00%
+10925;Filo Mix;$7,00;12;15,00%
+10926;Queso Cabrales;$21,00;2;0,00%
+10926;Konbu;$6,00;10;0,00%
+10926;Teatime Chocolate Biscuits;$9,20;7;0,00%
+10926;Mozzarella di Giovanni;$34,80;10;0,00%
+10927;Sir Rodney's Marmalade;$81,00;5;0,00%
+10927;Filo Mix;$7,00;5;0,00%
+10927;Lakkalikri;$18,00;20;0,00%
+10928;Zaanse koeken;$9,50;5;0,00%
+10928;Lakkalikri;$18,00;5;0,00%
+10929;Sir Rodney's Scones;$10,00;60;0,00%
+10929;Rhnbru Klosterbier;$7,75;49;0,00%
+10929;Original Frankfurter grne Soe;$13,00;15;0,00%
+10930;Sir Rodney's Scones;$10,00;36;0,00%
+10930;Schoggi Schokolade;$43,90;25;0,00%
+10930;Pt chinois;$24,00;25;20,00%
+10930;Escargots de Bourgogne;$13,25;30;20,00%
+10931;Konbu;$6,00;42;15,00%
+10931;Ravioli Angelo;$19,50;30;0,00%
+10932;Pavlova;$17,45;30;10,00%
+10932;Tarte au sucre;$49,30;14;10,00%
+10932;Mozzarella di Giovanni;$34,80;16;0,00%
+10932;Rhnbru Klosterbier;$7,75;20;10,00%
+10933;Perth Pasties;$32,80;2;0,00%
+10933;Sirop d'rable;$28,50;30;0,00%
+10934;Grandma's Boysenberry Spread;$25,00;20;0,00%
+10935;Chai;$18,00;21;0,00%
+10935;Carnarvon Tigers;$62,50;4;25,00%
+10935;Tunnbrd;$9,00;8;25,00%
+10936;Inlagd Sill;$19,00;30;20,00%
+10937;Rssle Sauerkraut;$45,60;8;0,00%
+10937;Sasquatch Ale;$14,00;20;0,00%
+10938;Konbu;$6,00;20;25,00%
+10938;Ipoh Coffee;$46,00;24;25,00%
+10938;Camembert Pierrot;$34,00;49;25,00%
+10938;Fltemysost;$21,50;35;25,00%
+10939;Chang;$19,00;10;15,00%
+10939;Laughing Lumberjack Lager;$14,00;40;15,00%
+10940;Uncle Bob's Organic Dried Pears;$30,00;8;0,00%
+10940;Konbu;$6,00;20;0,00%
+10941;Gorgonzola Telino;$12,50;44;25,00%
+10941;Tarte au sucre;$49,30;30;25,00%
+10941;Scottish Longbreads;$12,50;80;25,00%
+10941;Mozzarella di Giovanni;$34,80;50;0,00%
+10942;Maxilaku;$20,00;28;0,00%
+10943;Konbu;$6,00;15;0,00%
+10943;Gustaf's Knckebrd;$21,00;21;0,00%
+10943;Spegesild;$12,00;15;0,00%
+10944;Queso Cabrales;$21,00;5;25,00%
+10944;Gula Malacca;$19,45;18;25,00%
+10944;Gnocchi di nonna Alice;$38,00;18;0,00%
+10945;Konbu;$6,00;20;0,00%
+10945;Gorgonzola Telino;$12,50;10;0,00%
+10946;Ikura;$31,00;25;0,00%
+10946;Guaran Fantstica;$4,50;25;0,00%
+10946;Original Frankfurter grne Soe;$13,00;40;0,00%
+10947;Raclette Courdavault;$55,00;4;0,00%
+10948;Valkoinen suklaa;$16,25;9;0,00%
+10948;Manjimup Dried Apples;$53,00;40;0,00%
+10948;Pt chinois;$24,00;4;0,00%
+10949;Grandma's Boysenberry Spread;$25,00;12;0,00%
+10949;Ikura;$31,00;30;0,00%
+10949;Alice Mutton;$39,00;6;0,00%
+10949;Tarte au sucre;$49,30;60;0,00%
+10950;Chef Anton's Cajun Seasoning;$22,00;5;0,00%
+10951;Geitost;$2,50;15;5,00%
+10951;Jack's New England Clam Chowder;$9,65;6;5,00%
+10951;Rhnbru Klosterbier;$7,75;50;5,00%
+10952;Grandma's Boysenberry Spread;$25,00;16;5,00%
+10952;Rssle Sauerkraut;$45,60;2;0,00%
+10953;Sir Rodney's Marmalade;$81,00;50;5,00%
+10953;Gorgonzola Telino;$12,50;50;5,00%
+10954;Pavlova;$17,45;28;15,00%
+10954;Gorgonzola Telino;$12,50;25;15,00%
+10954;Rgede sild;$9,50;30;0,00%
+10954;Camembert Pierrot;$34,00;24;15,00%
+10955;Rhnbru Klosterbier;$7,75;12;20,00%
+10956;Sir Rodney's Scones;$10,00;12;0,00%
+10956;Zaanse koeken;$9,50;14;0,00%
+10956;Manjimup Dried Apples;$53,00;8;0,00%
+10957;Nord-Ost Matjeshering;$25,89;30;0,00%
+10957;Steeleye Stout;$18,00;40;0,00%
+10957;Wimmers gute Semmelkndel;$33,25;8;0,00%
+10958;Chef Anton's Gumbo Mix;$21,35;20;0,00%
+10958;Uncle Bob's Organic Dried Pears;$30,00;6;0,00%
+10958;Mozzarella di Giovanni;$34,80;5;0,00%
+10959;Rhnbru Klosterbier;$7,75;20;15,00%
+10960;Guaran Fantstica;$4,50;10;25,00%
+10960;Jack's New England Clam Chowder;$9,65;24;0,00%
+10961;Filo Mix;$7,00;6;5,00%
+10961;Lakkalikri;$18,00;60;0,00%
+10962;Uncle Bob's Organic Dried Pears;$30,00;45;0,00%
+10962;Konbu;$6,00;77;0,00%
+10962;Perth Pasties;$32,80;20;0,00%
+10962;Gudbrandsdalsost;$36,00;9;0,00%
+10962;Lakkalikri;$18,00;44;0,00%
+10963;Camembert Pierrot;$34,00;2;15,00%
+10964;Carnarvon Tigers;$62,50;6;0,00%
+10964;Cte de Blaye;$263,50;5;0,00%
+10964;Gudbrandsdalsost;$36,00;10;0,00%
+10965;Manjimup Dried Apples;$53,00;16;0,00%
+10966;Gravad lax;$26,00;8;0,00%
+10966;Gnocchi di nonna Alice;$38,00;12;15,00%
+10966;Tarte au sucre;$49,30;12;15,00%
+10967;Teatime Chocolate Biscuits;$9,20;12;0,00%
+10967;Maxilaku;$20,00;40;0,00%
+10968;Queso Manchego La Pastora;$38,00;30;0,00%
+10968;Guaran Fantstica;$4,50;30;0,00%
+10968;Wimmers gute Semmelkndel;$33,25;4;0,00%
+10969;Spegesild;$12,00;9;0,00%
+10970;Filo Mix;$7,00;40;20,00%
+10971;Thringer Rostbratwurst;$123,79;14;0,00%
+10972;Alice Mutton;$39,00;6;0,00%
+10972;Geitost;$2,50;7;0,00%
+10973;Gumbr Gummibrchen;$31,23;5;0,00%
+10973;Jack's New England Clam Chowder;$9,65;6;0,00%
+10973;Rhnbru Klosterbier;$7,75;10;0,00%
+10974;Vegie-spread;$43,90;10;0,00%
+10975;Northwoods Cranberry Sauce;$40,00;16;0,00%
+10975;Rhnbru Klosterbier;$7,75;10;0,00%
+10976;Rssle Sauerkraut;$45,60;20;0,00%
+10977;Chartreuse verte;$18,00;30;0,00%
+10977;Zaanse koeken;$9,50;30;0,00%
+10977;Manjimup Dried Apples;$53,00;10;0,00%
+10977;Vegie-spread;$43,90;20;0,00%
+10978;Northwoods Cranberry Sauce;$40,00;20;15,00%
+10978;Sir Rodney's Scones;$10,00;40;15,00%
+10978;Boston Crab Meat;$18,40;10;0,00%
+10978;Gula Malacca;$19,45;6;15,00%
+10979;Uncle Bob's Organic Dried Pears;$30,00;18;0,00%
+10979;Queso Manchego La Pastora;$38,00;20;0,00%
+10979;Guaran Fantstica;$4,50;80;0,00%
+10979;Schoggi Schokolade;$43,90;30;0,00%
+10979;Gorgonzola Telino;$12,50;24;0,00%
+10979;Vegie-spread;$43,90;35;0,00%
+10980;Rhnbru Klosterbier;$7,75;40;20,00%
+10981;Cte de Blaye;$263,50;60;0,00%
+10982;Uncle Bob's Organic Dried Pears;$30,00;20;0,00%
+10982;Ipoh Coffee;$46,00;9;0,00%
+10983;Konbu;$6,00;84;15,00%
+10983;Ravioli Angelo;$19,50;15;0,00%
+10984;Pavlova;$17,45;55;0,00%
+10984;Guaran Fantstica;$4,50;20;0,00%
+10984;Inlagd Sill;$19,00;40;0,00%
+10985;Pavlova;$17,45;36;10,00%
+10985;Carnarvon Tigers;$62,50;8;10,00%
+10985;Mascarpone Fabioli;$32,00;35;10,00%
+10986;Queso Cabrales;$21,00;30;0,00%
+10986;Sir Rodney's Marmalade;$81,00;15;0,00%
+10986;Lakkalikri;$18,00;10;0,00%
+10986;Original Frankfurter grne Soe;$13,00;15;0,00%
+10987;Uncle Bob's Organic Dried Pears;$30,00;60;0,00%
+10987;Ipoh Coffee;$46,00;6;0,00%
+10987;Mozzarella di Giovanni;$34,80;20;0,00%
+10988;Uncle Bob's Organic Dried Pears;$30,00;60;0,00%
+10988;Tarte au sucre;$49,30;40;10,00%
+10989;Grandma's Boysenberry Spread;$25,00;40;0,00%
+10989;Queso Cabrales;$21,00;15;0,00%
+10989;Jack's New England Clam Chowder;$9,65;4;0,00%
+10990;Sir Rodney's Scones;$10,00;65;0,00%
+10990;Sasquatch Ale;$14,00;60;15,00%
+10990;Pt chinois;$24,00;65;15,00%
+10990;Sirop d'rable;$28,50;66;15,00%
+10991;Chang;$19,00;50;20,00%
+10991;Outback Lager;$15,00;20;20,00%
+10991;Lakkalikri;$18,00;90;20,00%
+10992;Mozzarella di Giovanni;$34,80;2;0,00%
+10993;Thringer Rostbratwurst;$123,79;50;25,00%
+10993;Jack's New England Clam Chowder;$9,65;35;25,00%
+10994;Raclette Courdavault;$55,00;18;5,00%
+10995;Manjimup Dried Apples;$53,00;20;0,00%
+10995;Camembert Pierrot;$34,00;4;0,00%
+10996;Singaporean Hokkien Fried Mee;$14,00;40;0,00%
+10997;Mascarpone Fabioli;$32,00;50;0,00%
+10997;Spegesild;$12,00;20;25,00%
+10997;Filo Mix;$7,00;20;25,00%
+10998;Guaran Fantstica;$4,50;12;0,00%
+10998;Sirop d'rable;$28,50;7;0,00%
+10998;Longlife Tofu;$10,00;20;0,00%
+10998;Rhnbru Klosterbier;$7,75;30;0,00%
+10999;Jack's New England Clam Chowder;$9,65;20;5,00%
+10999;Manjimup Dried Apples;$53,00;15;5,00%
+10999;Original Frankfurter grne Soe;$13,00;21;5,00%
+11000;Chef Anton's Cajun Seasoning;$22,00;25;25,00%
+11000;Guaran Fantstica;$4,50;30;25,00%
+11000;Original Frankfurter grne Soe;$13,00;30;0,00%
+11001;Uncle Bob's Organic Dried Pears;$30,00;60;0,00%
+11001;Gustaf's Knckebrd;$21,00;25;0,00%
+11001;Spegesild;$12,00;25;0,00%
+11001;Pt chinois;$24,00;6;0,00%
+11002;Konbu;$6,00;56;0,00%
+11002;Steeleye Stout;$18,00;15;15,00%
+11002;Singaporean Hokkien Fried Mee;$14,00;24;15,00%
+11002;Pt chinois;$24,00;40;0,00%
+11003;Chai;$18,00;4;0,00%
+11003;Boston Crab Meat;$18,40;10;0,00%
+11003;Filo Mix;$7,00;10;0,00%
+11004;Gumbr Gummibrchen;$31,23;6;0,00%
+11004;Lakkalikri;$18,00;6;0,00%
+11005;Chai;$18,00;2;0,00%
+11005;Raclette Courdavault;$55,00;10;0,00%
+11006;Chai;$18,00;8;0,00%
+11006;Thringer Rostbratwurst;$123,79;2;25,00%
+11007;Northwoods Cranberry Sauce;$40,00;30;0,00%
+11007;Thringer Rostbratwurst;$123,79;10;0,00%
+11007;Singaporean Hokkien Fried Mee;$14,00;14;0,00%
+11008;Rssle Sauerkraut;$45,60;70;5,00%
+11008;Sasquatch Ale;$14,00;90;5,00%
+11008;Fltemysost;$21,50;21;0,00%
+11009;Guaran Fantstica;$4,50;12;0,00%
+11009;Inlagd Sill;$19,00;18;25,00%
+11009;Camembert Pierrot;$34,00;9;0,00%
+11010;Uncle Bob's Organic Dried Pears;$30,00;20;0,00%
+11010;Guaran Fantstica;$4,50;10;0,00%
+11011;Escargots de Bourgogne;$13,25;40;5,00%
+11011;Fltemysost;$21,50;20;0,00%
+11012;Teatime Chocolate Biscuits;$9,20;50;5,00%
+11012;Camembert Pierrot;$34,00;36;5,00%
+11012;Fltemysost;$21,50;60;5,00%
+11013;Tunnbrd;$9,00;10;0,00%
+11013;Singaporean Hokkien Fried Mee;$14,00;4;0,00%
+11013;Rgede sild;$9,50;20;0,00%
+11013;Scottish Longbreads;$12,50;2;0,00%
+11014;Jack's New England Clam Chowder;$9,65;28;10,00%
+11015;Nord-Ost Matjeshering;$25,89;15;0,00%
+11015;Original Frankfurter grne Soe;$13,00;18;0,00%
+11016;Gorgonzola Telino;$12,50;15;0,00%
+11016;Inlagd Sill;$19,00;16;0,00%
+11017;Aniseed Syrup;$10,00;25;0,00%
+11017;Raclette Courdavault;$55,00;110;0,00%
+11017;Outback Lager;$15,00;30;0,00%
+11018;Queso Manchego La Pastora;$38,00;20;0,00%
+11018;Carnarvon Tigers;$62,50;10;0,00%
+11018;Gnocchi di nonna Alice;$38,00;5;0,00%
+11019;Spegesild;$12,00;3;0,00%
+11019;Maxilaku;$20,00;2;0,00%
+11020;Ikura;$31,00;24;15,00%
+11021;Chang;$19,00;11;25,00%
+11021;Sir Rodney's Marmalade;$81,00;15;0,00%
+11021;Gumbr Gummibrchen;$31,23;63;0,00%
+11021;Manjimup Dried Apples;$53,00;44;25,00%
+11021;Mozzarella di Giovanni;$34,80;35;0,00%
+11022;Teatime Chocolate Biscuits;$9,20;35;0,00%
+11022;Gudbrandsdalsost;$36,00;30;0,00%
+11023;Uncle Bob's Organic Dried Pears;$30,00;4;0,00%
+11023;Ipoh Coffee;$46,00;30;0,00%
+11024;Gumbr Gummibrchen;$31,23;12;0,00%
+11024;Geitost;$2,50;30;0,00%
+11024;Louisiana Fiery Hot Pepper Sauce;$21,05;21;0,00%
+11024;Fltemysost;$21,50;50;0,00%
+11025;Chai;$18,00;10;10,00%
+11025;Konbu;$6,00;20;10,00%
+11026;Carnarvon Tigers;$62,50;8;0,00%
+11026;Manjimup Dried Apples;$53,00;10;0,00%
+11027;Guaran Fantstica;$4,50;30;25,00%
+11027;Tarte au sucre;$49,30;21;25,00%
+11028;Pt chinois;$24,00;35;0,00%
+11028;Raclette Courdavault;$55,00;24;0,00%
+11029;Gnocchi di nonna Alice;$38,00;20;0,00%
+11029;Vegie-spread;$43,90;12;0,00%
+11030;Chang;$19,00;100;25,00%
+11030;Chef Anton's Gumbo Mix;$21,35;70;0,00%
+11030;Thringer Rostbratwurst;$123,79;60;25,00%
+11030;Raclette Courdavault;$55,00;100;25,00%
+11031;Chai;$18,00;45;0,00%
+11031;Konbu;$6,00;80;0,00%
+11031;Guaran Fantstica;$4,50;21;0,00%
+11031;Wimmers gute Semmelkndel;$33,25;20;0,00%
+11031;Fltemysost;$21,50;16;0,00%
+11032;Inlagd Sill;$19,00;35;0,00%
+11032;Cte de Blaye;$263,50;25;0,00%
+11032;Raclette Courdavault;$55,00;30;0,00%
+11033;Perth Pasties;$32,80;70;10,00%
+11033;Gudbrandsdalsost;$36,00;36;10,00%
+11034;Sir Rodney's Scones;$10,00;15;10,00%
+11034;Gula Malacca;$19,45;12;0,00%
+11034;Sirop d'rable;$28,50;6;0,00%
+11035;Chai;$18,00;10;0,00%
+11035;Steeleye Stout;$18,00;60;0,00%
+11035;Singaporean Hokkien Fried Mee;$14,00;30;0,00%
+11035;Tourtire;$7,45;10;0,00%
+11036;Konbu;$6,00;7;0,00%
+11036;Raclette Courdavault;$55,00;30;0,00%
+11037;Outback Lager;$15,00;4;0,00%
+11038;Boston Crab Meat;$18,40;5;20,00%
+11038;Filo Mix;$7,00;2;0,00%
+11038;Fltemysost;$21,50;30;0,00%
+11039;Rssle Sauerkraut;$45,60;20;0,00%
+11039;Steeleye Stout;$18,00;24;0,00%
+11039;Maxilaku;$20,00;60;0,00%
+11039;Ravioli Angelo;$19,50;28;0,00%
+11040;Sir Rodney's Scones;$10,00;20;0,00%
+11041;Chang;$19,00;30;20,00%
+11041;Vegie-spread;$43,90;30;0,00%
+11042;Gula Malacca;$19,45;15;0,00%
+11042;Sirop d'rable;$28,50;4;0,00%
+11043;Queso Cabrales;$21,00;10;0,00%
+11044;Tarte au sucre;$49,30;12;0,00%
+11045;Geitost;$2,50;15;0,00%
+11045;Manjimup Dried Apples;$53,00;24;0,00%
+11046;Queso Manchego La Pastora;$38,00;20;5,00%
+11046;Mascarpone Fabioli;$32,00;15;5,00%
+11046;Steeleye Stout;$18,00;18;5,00%
+11047;Chai;$18,00;25;25,00%
+11047;Chef Anton's Gumbo Mix;$21,35;30;25,00%
+11048;Scottish Longbreads;$12,50;42;0,00%
+11049;Chang;$19,00;10;20,00%
+11049;Queso Manchego La Pastora;$38,00;4;20,00%
+11050;Lakkalikri;$18,00;50;10,00%
+11051;Guaran Fantstica;$4,50;10;20,00%
+11052;Ipoh Coffee;$46,00;30;20,00%
+11052;Sirop d'rable;$28,50;10;20,00%
+11053;Carnarvon Tigers;$62,50;35;20,00%
+11053;Mascarpone Fabioli;$32,00;20;0,00%
+11053;Wimmers gute Semmelkndel;$33,25;25;20,00%
+11054;Geitost;$2,50;10;0,00%
+11054;Laughing Lumberjack Lager;$14,00;20;0,00%
+11055;Guaran Fantstica;$4,50;15;0,00%
+11055;NuNuCa Nu-Nougat-Creme;$14,00;15;0,00%
+11055;Manjimup Dried Apples;$53,00;20;0,00%
+11055;Ravioli Angelo;$19,50;20;0,00%
+11056;Uncle Bob's Organic Dried Pears;$30,00;40;0,00%
+11056;Pt chinois;$24,00;35;0,00%
+11056;Camembert Pierrot;$34,00;50;0,00%
+11057;Outback Lager;$15,00;3;0,00%
+11058;Sir Rodney's Scones;$10,00;3;0,00%
+11058;Camembert Pierrot;$34,00;21;0,00%
+11058;Sirop d'rable;$28,50;4;0,00%
+11059;Konbu;$6,00;30;0,00%
+11059;Alice Mutton;$39,00;12;0,00%
+11059;Camembert Pierrot;$34,00;35;0,00%
+11060;Camembert Pierrot;$34,00;4;0,00%
+11060;Original Frankfurter grne Soe;$13,00;10;0,00%
+11061;Camembert Pierrot;$34,00;15;0,00%
+11062;Perth Pasties;$32,80;10;20,00%
+11062;Outback Lager;$15,00;12;20,00%
+11063;Sasquatch Ale;$14,00;30;0,00%
+11063;Boston Crab Meat;$18,40;40;10,00%
+11063;Jack's New England Clam Chowder;$9,65;30;10,00%
+11064;Alice Mutton;$39,00;77;10,00%
+11064;Jack's New England Clam Chowder;$9,65;12;0,00%
+11064;Perth Pasties;$32,80;25;10,00%
+11064;Pt chinois;$24,00;4;10,00%
+11064;Scottish Longbreads;$12,50;55;0,00%
+11065;Nord-Ost Matjeshering;$25,89;4;25,00%
+11065;Tourtire;$7,45;20;25,00%
+11066;Pavlova;$17,45;3;0,00%
+11066;Teatime Chocolate Biscuits;$9,20;42;0,00%
+11066;Sasquatch Ale;$14,00;35;0,00%
+11067;Jack's New England Clam Chowder;$9,65;9;0,00%
+11068;Rssle Sauerkraut;$45,60;8;15,00%
+11068;Ipoh Coffee;$46,00;36;15,00%
+11068;Original Frankfurter grne Soe;$13,00;28;15,00%
+11069;Chartreuse verte;$18,00;20;0,00%
+11070;Chai;$18,00;40;15,00%
+11070;Chang;$19,00;20;15,00%
+11070;Pavlova;$17,45;30;15,00%
+11070;Gorgonzola Telino;$12,50;20;0,00%
+11071;Uncle Bob's Organic Dried Pears;$30,00;15;5,00%
+11071;Konbu;$6,00;10;5,00%
+11072;Chang;$19,00;8;0,00%
+11072;Jack's New England Clam Chowder;$9,65;40;0,00%
+11072;Valkoinen suklaa;$16,25;22;0,00%
+11072;Wimmers gute Semmelkndel;$33,25;130;0,00%
+11073;Queso Cabrales;$21,00;10;0,00%
+11073;Guaran Fantstica;$4,50;20;0,00%
+11074;Pavlova;$17,45;14;5,00%
+11075;Chang;$19,00;10;15,00%
+11075;Spegesild;$12,00;30;15,00%
+11075;Lakkalikri;$18,00;2;15,00%
+11076;Grandma's Boysenberry Spread;$25,00;20;25,00%
+11076;Tofu;$23,25;20;25,00%
+11076;Teatime Chocolate Biscuits;$9,20;10;25,00%
+11077;Chang;$19,00;24;20,00%
+11077;Aniseed Syrup;$10,00;4;0,00%
+11077;Chef Anton's Cajun Seasoning;$22,00;1;0,00%
+11077;Grandma's Boysenberry Spread;$25,00;1;2,00%
+11077;Uncle Bob's Organic Dried Pears;$30,00;1;5,00%
+11077;Northwoods Cranberry Sauce;$40,00;2;10,00%
+11077;Ikura;$31,00;1;0,00%
+11077;Queso Manchego La Pastora;$38,00;2;5,00%
+11077;Konbu;$6,00;4;0,00%
+11077;Tofu;$23,25;1;3,00%
+11077;Pavlova;$17,45;2;3,00%
+11077;Sir Rodney's Marmalade;$81,00;1;4,00%
+11077;Tunnbrd;$9,00;2;0,00%
+11077;Mascarpone Fabioli;$32,00;1;0,00%
+11077;Chartreuse verte;$18,00;2;5,00%
+11077;Jack's New England Clam Chowder;$9,65;3;0,00%
+11077;Spegesild;$12,00;3;2,00%
+11077;Filo Mix;$7,00;2;0,00%
+11077;Pt chinois;$24,00;2;0,00%
+11077;Camembert Pierrot;$34,00;2;6,00%
+11077;Wimmers gute Semmelkndel;$33,25;2;3,00%
+11077;Louisiana Hot Spiced Okra;$17,00;1;0,00%
+11077;Rd Kaviar;$15,00;2;1,00%
+11077;Rhnbru Klosterbier;$7,75;4;0,00%
+11077;Original Frankfurter grne Soe;$13,00;2;0,00%

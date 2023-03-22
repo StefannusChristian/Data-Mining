@@ -1,0 +1,78 @@
+ProductID;Product Name;Supplier;Category;Quantity Per Unit;Unit Price;Units In Stock;Units On Order;Reorder Level;Discontinued
+1;Chai;Exotic Liquids;Beverages;10 boxes x 20 bags;$18,00;39;0;10;FALSE
+2;Chang;Exotic Liquids;Beverages;24 - 12 oz bottles;$19,00;17;40;25;FALSE
+3;Aniseed Syrup;Exotic Liquids;Condiments;12 - 550 ml bottles;$10,00;13;70;25;FALSE
+4;Chef Anton's Cajun Seasoning;New Orleans Cajun Delights;Condiments;48 - 6 oz jars;$22,00;53;0;0;FALSE
+5;Chef Anton's Gumbo Mix;New Orleans Cajun Delights;Condiments;36 boxes;$21,35;0;0;0;TRUE
+6;Grandma's Boysenberry Spread;Grandma Kelly's Homestead;Condiments;12 - 8 oz jars;$25,00;120;0;25;FALSE
+7;Uncle Bob's Organic Dried Pears;Grandma Kelly's Homestead;Produce;12 - 1 lb pkgs.;$30,00;15;0;10;FALSE
+8;Northwoods Cranberry Sauce;Grandma Kelly's Homestead;Condiments;12 - 12 oz jars;$40,00;6;0;0;FALSE
+9;Mishi Kobe Niku;Tokyo Traders;Meat/Poultry;18 - 500 g pkgs.;$97,00;29;0;0;TRUE
+10;Ikura;Tokyo Traders;Seafood;12 - 200 ml jars;$31,00;31;0;0;FALSE
+11;Queso Cabrales;Cooperativa de Quesos 'Las Cabras';Dairy Products;1 kg pkg.;$21,00;22;30;30;FALSE
+12;Queso Manchego La Pastora;Cooperativa de Quesos 'Las Cabras';Dairy Products;10 - 500 g pkgs.;$38,00;86;0;0;FALSE
+13;Konbu;Mayumi's;Seafood;2 kg box;$6,00;24;0;5;FALSE
+14;Tofu;Mayumi's;Produce;40 - 100 g pkgs.;$23,25;35;0;0;FALSE
+15;Genen Shouyu;Mayumi's;Condiments;24 - 250 ml bottles;$15,50;39;0;5;FALSE
+16;Pavlova;Pavlova, Ltd.;Confections;32 - 500 g boxes;$17,45;29;0;10;FALSE
+17;Alice Mutton;Pavlova, Ltd.;Meat/Poultry;20 - 1 kg tins;$39,00;0;0;0;TRUE
+18;Carnarvon Tigers;Pavlova, Ltd.;Seafood;16 kg pkg.;$62,50;42;0;0;FALSE
+19;Teatime Chocolate Biscuits;Specialty Biscuits, Ltd.;Confections;10 boxes x 12 pieces;$9,20;25;0;5;FALSE
+20;Sir Rodney's Marmalade;Specialty Biscuits, Ltd.;Confections;30 gift boxes;$81,00;40;0;0;FALSE
+21;Sir Rodney's Scones;Specialty Biscuits, Ltd.;Confections;24 pkgs. x 4 pieces;$10,00;3;40;5;FALSE
+22;Gustaf's Knckebrd;PB Knckebrd AB;Grains/Cereals;24 - 500 g pkgs.;$21,00;104;0;25;FALSE
+23;Tunnbrd;PB Knckebrd AB;Grains/Cereals;12 - 250 g pkgs.;$9,00;61;0;25;FALSE
+24;Guaran Fantstica;Refrescos Americanas LTDA;Beverages;12 - 355 ml cans;$4,50;20;0;0;TRUE
+25;NuNuCa Nu-Nougat-Creme;Heli Swaren GmbH & Co. KG;Confections;20 - 450 g glasses;$14,00;76;0;30;FALSE
+26;Gumbr Gummibrchen;Heli Swaren GmbH & Co. KG;Confections;100 - 250 g bags;$31,23;15;0;0;FALSE
+27;Schoggi Schokolade;Heli Swaren GmbH & Co. KG;Confections;100 - 100 g pieces;$43,90;49;0;30;FALSE
+28;Rssle Sauerkraut;Plutzer Lebensmittelgromrkte AG;Produce;25 - 825 g cans;$45,60;26;0;0;TRUE
+29;Thringer Rostbratwurst;Plutzer Lebensmittelgromrkte AG;Meat/Poultry;50 bags x 30 sausgs.;$123,79;0;0;0;TRUE
+30;Nord-Ost Matjeshering;Nord-Ost-Fisch Handelsgesellschaft mbH;Seafood;10 - 200 g glasses;$25,89;10;0;15;FALSE
+31;Gorgonzola Telino;Formaggi Fortini s.r.l.;Dairy Products;12 - 100 g pkgs;$12,50;0;70;20;FALSE
+32;Mascarpone Fabioli;Formaggi Fortini s.r.l.;Dairy Products;24 - 200 g pkgs.;$32,00;9;40;25;FALSE
+33;Geitost;Norske Meierier;Dairy Products;500 g;$2,50;112;0;20;FALSE
+34;Sasquatch Ale;Bigfoot Breweries;Beverages;24 - 12 oz bottles;$14,00;111;0;15;FALSE
+35;Steeleye Stout;Bigfoot Breweries;Beverages;24 - 12 oz bottles;$18,00;20;0;15;FALSE
+36;Inlagd Sill;Svensk Sjfda AB;Seafood;24 - 250 g  jars;$19,00;112;0;20;FALSE
+37;Gravad lax;Svensk Sjfda AB;Seafood;12 - 500 g pkgs.;$26,00;11;50;25;FALSE
+38;Cte de Blaye;Aux joyeux ecclsiastiques;Beverages;12 - 75 cl bottles;$263,50;17;0;15;FALSE
+39;Chartreuse verte;Aux joyeux ecclsiastiques;Beverages;750 cc per bottle;$18,00;69;0;5;FALSE
+40;Boston Crab Meat;New England Seafood Cannery;Seafood;24 - 4 oz tins;$18,40;123;0;30;FALSE
+41;Jack's New England Clam Chowder;New England Seafood Cannery;Seafood;12 - 12 oz cans;$9,65;85;0;10;FALSE
+42;Singaporean Hokkien Fried Mee;Leka Trading;Grains/Cereals;32 - 1 kg pkgs.;$14,00;26;0;0;TRUE
+43;Ipoh Coffee;Leka Trading;Beverages;16 - 500 g tins;$46,00;17;10;25;FALSE
+44;Gula Malacca;Leka Trading;Condiments;20 - 2 kg bags;$19,45;27;0;15;FALSE
+45;Rgede sild;Lyngbysild;Seafood;1k pkg.;$9,50;5;70;15;FALSE
+46;Spegesild;Lyngbysild;Seafood;4 - 450 g glasses;$12,00;95;0;0;FALSE
+47;Zaanse koeken;Zaanse Snoepfabriek;Confections;10 - 4 oz boxes;$9,50;36;0;0;FALSE
+48;Chocolade;Zaanse Snoepfabriek;Confections;10 pkgs.;$12,75;15;70;25;FALSE
+49;Maxilaku;Karkki Oy;Confections;24 - 50 g pkgs.;$20,00;10;60;15;FALSE
+50;Valkoinen suklaa;Karkki Oy;Confections;12 - 100 g bars;$16,25;65;0;30;FALSE
+51;Manjimup Dried Apples;G'day, Mate;Produce;50 - 300 g pkgs.;$53,00;20;0;10;FALSE
+52;Filo Mix;G'day, Mate;Grains/Cereals;16 - 2 kg boxes;$7,00;38;0;25;FALSE
+53;Perth Pasties;G'day, Mate;Meat/Poultry;48 pieces;$32,80;0;0;0;TRUE
+54;Tourtire;Ma Maison;Meat/Poultry;16 pies;$7,45;21;0;10;FALSE
+55;Pt chinois;Ma Maison;Meat/Poultry;24 boxes x 2 pies;$24,00;115;0;20;FALSE
+56;Gnocchi di nonna Alice;Pasta Buttini s.r.l.;Grains/Cereals;24 - 250 g pkgs.;$38,00;21;10;30;FALSE
+57;Ravioli Angelo;Pasta Buttini s.r.l.;Grains/Cereals;24 - 250 g pkgs.;$19,50;36;0;20;FALSE
+58;Escargots de Bourgogne;Escargots Nouveaux;Seafood;24 pieces;$13,25;62;0;20;FALSE
+59;Raclette Courdavault;Gai pturage;Dairy Products;5 kg pkg.;$55,00;79;0;0;FALSE
+60;Camembert Pierrot;Gai pturage;Dairy Products;15 - 300 g rounds;$34,00;19;0;0;FALSE
+61;Sirop d'rable;Forts d'rables;Condiments;24 - 500 ml bottles;$28,50;113;0;25;FALSE
+62;Tarte au sucre;Forts d'rables;Confections;48 pies;$49,30;17;0;0;FALSE
+63;Vegie-spread;Pavlova, Ltd.;Condiments;15 - 625 g jars;$43,90;24;0;5;FALSE
+64;Wimmers gute Semmelkndel;Plutzer Lebensmittelgromrkte AG;Grains/Cereals;20 bags x 4 pieces;$33,25;22;80;30;FALSE
+65;Louisiana Fiery Hot Pepper Sauce;New Orleans Cajun Delights;Condiments;32 - 8 oz bottles;$21,05;76;0;0;FALSE
+66;Louisiana Hot Spiced Okra;New Orleans Cajun Delights;Condiments;24 - 8 oz jars;$17,00;4;100;20;FALSE
+67;Laughing Lumberjack Lager;Bigfoot Breweries;Beverages;24 - 12 oz bottles;$14,00;52;0;10;FALSE
+68;Scottish Longbreads;Specialty Biscuits, Ltd.;Confections;10 boxes x 8 pieces;$12,50;6;10;15;FALSE
+69;Gudbrandsdalsost;Norske Meierier;Dairy Products;10 kg pkg.;$36,00;26;0;15;FALSE
+70;Outback Lager;Pavlova, Ltd.;Beverages;24 - 355 ml bottles;$15,00;15;10;30;FALSE
+71;Fltemysost;Norske Meierier;Dairy Products;10 - 500 g pkgs.;$21,50;26;0;0;FALSE
+72;Mozzarella di Giovanni;Formaggi Fortini s.r.l.;Dairy Products;24 - 200 g pkgs.;$34,80;14;0;0;FALSE
+73;Rd Kaviar;Svensk Sjfda AB;Seafood;24 - 150 g jars;$15,00;101;0;5;FALSE
+74;Longlife Tofu;Tokyo Traders;Produce;5 kg pkg.;$10,00;4;20;5;FALSE
+75;Rhnbru Klosterbier;Plutzer Lebensmittelgromrkte AG;Beverages;24 - 0.5 l bottles;$7,75;125;0;25;FALSE
+76;Lakkalikri;Karkki Oy;Beverages;500 ml;$18,00;57;0;20;FALSE
+77;Original Frankfurter grne Soe;Plutzer Lebensmittelgromrkte AG;Condiments;12 boxes;$13,00;32;0;15;FALSE

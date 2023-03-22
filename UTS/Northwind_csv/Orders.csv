@@ -1,0 +1,878 @@
+Order ID;Customer;Employee;Order Date;Required Date;Shipped Date;Ship Via;Freight;Ship Name;Ship Address;Ship City;Ship Region;Ship Postal Code;Ship Country
+10248;Vins et alcools Chevalier;Buchanan, Steven;04-Aug-94;01-Sep-94;16-Aug-94;Federal Shipping;Rp32;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;;51100;France
+10249;Toms Spezialitten;Suyama, Michael;05-Aug-94;16-Sep-94;10-Aug-94;Speedy Express;Rp12;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10250;Hanari Carnes;Peacock, Margaret;08-Aug-94;05-Sep-94;12-Aug-94;United Package;Rp66;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10251;Victuailles en stock;Leverling, Janet;08-Aug-94;05-Sep-94;15-Aug-94;Speedy Express;Rp41;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10252;Suprmes dlices;Peacock, Margaret;09-Aug-94;06-Sep-94;11-Aug-94;United Package;Rp51;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10253;Hanari Carnes;Leverling, Janet;10-Aug-94;24-Aug-94;16-Aug-94;United Package;Rp58;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10254;Chop-suey Chinese;Buchanan, Steven;11-Aug-94;08-Sep-94;23-Aug-94;United Package;Rp23;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10255;Richter Supermarkt;Dodsworth, Anne;12-Aug-94;09-Sep-94;15-Aug-94;Federal Shipping;Rp148;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10256;Wellington Importadora;Leverling, Janet;15-Aug-94;12-Sep-94;17-Aug-94;United Package;Rp14;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10257;HILARIN-Abastos;Peacock, Margaret;16-Aug-94;13-Sep-94;22-Aug-94;Federal Shipping;Rp82;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10258;Ernst Handel;Davolio, Nancy;17-Aug-94;14-Sep-94;23-Aug-94;Speedy Express;Rp141;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10259;Centro comercial Moctezuma;Peacock, Margaret;18-Aug-94;15-Sep-94;25-Aug-94;Federal Shipping;Rp3;Centro comercial Moctezuma;Sierras de Granada 9993;Mxico D.F.;;5022;Mexico
+10260;Ottilies Kseladen;Peacock, Margaret;19-Aug-94;16-Sep-94;29-Aug-94;Speedy Express;Rp55;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10261;Que Delcia;Peacock, Margaret;19-Aug-94;16-Sep-94;30-Aug-94;United Package;Rp3;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10262;Rattlesnake Canyon Grocery;Callahan, Laura;22-Aug-94;19-Sep-94;25-Aug-94;Federal Shipping;Rp48;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10263;Ernst Handel;Dodsworth, Anne;23-Aug-94;20-Sep-94;31-Aug-94;Federal Shipping;Rp146;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10264;Folk och f HB;Suyama, Michael;24-Aug-94;21-Sep-94;23-Sep-94;Federal Shipping;Rp4;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10265;Blondel pre et fils;Fuller, Andrew;25-Aug-94;22-Sep-94;12-Sep-94;Speedy Express;Rp55;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10266;Wartian Herkku;Leverling, Janet;26-Aug-94;07-Oct-94;31-Aug-94;Federal Shipping;Rp26;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10267;Frankenversand;Peacock, Margaret;29-Aug-94;26-Sep-94;06-Sep-94;Speedy Express;Rp209;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10268;GROSELLA-Restaurante;Callahan, Laura;30-Aug-94;27-Sep-94;02-Sep-94;Federal Shipping;Rp66;GROSELLA-Restaurante;5 Ave. Los Palos Grandes;Caracas;DF;1081;Venezuela
+10269;White Clover Markets;Buchanan, Steven;31-Aug-94;14-Sep-94;09-Sep-94;Speedy Express;Rp5;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10270;Wartian Herkku;Davolio, Nancy;01-Sep-94;29-Sep-94;02-Sep-94;Speedy Express;Rp137;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10271;Split Rail Beer & Ale;Suyama, Michael;01-Sep-94;29-Sep-94;30-Sep-94;United Package;Rp5;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10272;Rattlesnake Canyon Grocery;Suyama, Michael;02-Sep-94;30-Sep-94;06-Sep-94;United Package;Rp98;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10273;QUICK-Stop;Leverling, Janet;05-Sep-94;03-Oct-94;12-Sep-94;Federal Shipping;Rp76;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10274;Vins et alcools Chevalier;Suyama, Michael;06-Sep-94;04-Oct-94;16-Sep-94;Speedy Express;Rp6;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;;51100;France
+10275;Magazzini Alimentari Riuniti;Davolio, Nancy;07-Sep-94;05-Oct-94;09-Sep-94;Speedy Express;Rp27;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10276;Tortuga Restaurante;Callahan, Laura;08-Sep-94;22-Sep-94;14-Sep-94;Federal Shipping;Rp14;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10277;Morgenstern Gesundkost;Fuller, Andrew;09-Sep-94;07-Oct-94;13-Sep-94;Federal Shipping;Rp126;Morgenstern Gesundkost;Heerstr. 22;Leipzig;;4179;Germany
+10278;Berglunds snabbkp;Callahan, Laura;12-Sep-94;10-Oct-94;16-Sep-94;United Package;Rp93;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10279;Lehmanns Marktstand;Callahan, Laura;13-Sep-94;11-Oct-94;16-Sep-94;United Package;Rp26;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10280;Berglunds snabbkp;Fuller, Andrew;14-Sep-94;12-Oct-94;13-Oct-94;Speedy Express;Rp9;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10281;Romero y tomillo;Peacock, Margaret;14-Sep-94;28-Sep-94;21-Sep-94;Speedy Express;Rp3;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10282;Romero y tomillo;Peacock, Margaret;15-Sep-94;13-Oct-94;21-Sep-94;Speedy Express;Rp13;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10283;LILA-Supermercado;Leverling, Janet;16-Sep-94;14-Oct-94;23-Sep-94;Federal Shipping;Rp85;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10284;Lehmanns Marktstand;Peacock, Margaret;19-Sep-94;17-Oct-94;27-Sep-94;Speedy Express;Rp77;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10285;QUICK-Stop;Davolio, Nancy;20-Sep-94;18-Oct-94;26-Sep-94;United Package;Rp77;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10286;QUICK-Stop;Callahan, Laura;21-Sep-94;19-Oct-94;30-Sep-94;Federal Shipping;Rp229;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10287;Ricardo Adocicados;Callahan, Laura;22-Sep-94;20-Oct-94;28-Sep-94;Federal Shipping;Rp13;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10288;Reggiani Caseifici;Peacock, Margaret;23-Sep-94;21-Oct-94;04-Oct-94;Speedy Express;Rp7;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10289;B's Beverages;King, Robert;26-Sep-94;24-Oct-94;28-Sep-94;Federal Shipping;Rp23;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10290;Comrcio Mineiro;Callahan, Laura;27-Sep-94;25-Oct-94;04-Oct-94;Speedy Express;Rp80;Comrcio Mineiro;Av. dos Lusadas, 23;So Paulo;SP;05432-043;Brazil
+10291;Que Delcia;Suyama, Michael;27-Sep-94;25-Oct-94;05-Oct-94;United Package;Rp6;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10292;Tradio Hipermercados;Davolio, Nancy;28-Sep-94;26-Oct-94;03-Oct-94;United Package;Rp1;Tradio Hipermercados;Av. Ins de Castro, 414;So Paulo;SP;05634-030;Brazil
+10293;Tortuga Restaurante;Davolio, Nancy;29-Sep-94;27-Oct-94;12-Oct-94;Federal Shipping;Rp21;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10294;Rattlesnake Canyon Grocery;Peacock, Margaret;30-Sep-94;28-Oct-94;06-Oct-94;United Package;Rp147;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10295;Vins et alcools Chevalier;Fuller, Andrew;03-Oct-94;31-Oct-94;11-Oct-94;United Package;Rp1;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;;51100;France
+10296;LILA-Supermercado;Suyama, Michael;04-Oct-94;01-Nov-94;12-Oct-94;Speedy Express;Rp0;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10297;Blondel pre et fils;Buchanan, Steven;05-Oct-94;16-Nov-94;11-Oct-94;United Package;Rp6;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10298;Hungry Owl All-Night Grocers;Suyama, Michael;06-Oct-94;03-Nov-94;12-Oct-94;United Package;Rp168;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10299;Ricardo Adocicados;Peacock, Margaret;07-Oct-94;04-Nov-94;14-Oct-94;United Package;Rp30;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10300;Magazzini Alimentari Riuniti;Fuller, Andrew;10-Oct-94;07-Nov-94;19-Oct-94;United Package;Rp18;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10301;Die Wandernde Kuh;Callahan, Laura;10-Oct-94;07-Nov-94;18-Oct-94;United Package;Rp45;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10302;Suprmes dlices;Peacock, Margaret;11-Oct-94;08-Nov-94;09-Nov-94;United Package;Rp6;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10303;Godos Cocina Tpica;King, Robert;12-Oct-94;09-Nov-94;19-Oct-94;United Package;Rp108;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10304;Tortuga Restaurante;Davolio, Nancy;13-Oct-94;10-Nov-94;18-Oct-94;United Package;Rp64;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10305;Old World Delicatessen;Callahan, Laura;14-Oct-94;11-Nov-94;09-Nov-94;Federal Shipping;Rp258;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10306;Romero y tomillo;Davolio, Nancy;17-Oct-94;14-Nov-94;24-Oct-94;Federal Shipping;Rp8;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10307;Lonesome Pine Restaurant;Fuller, Andrew;18-Oct-94;15-Nov-94;26-Oct-94;United Package;Rp1;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10308;Ana Trujillo Emparedados y helados;King, Robert;19-Oct-94;16-Nov-94;25-Oct-94;Federal Shipping;Rp2;Ana Trujillo Emparedados y helados;Avda. de la Constitucin 2222;Mxico D.F.;;5021;Mexico
+10309;Hungry Owl All-Night Grocers;Leverling, Janet;20-Oct-94;17-Nov-94;23-Nov-94;Speedy Express;Rp47;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10310;The Big Cheese;Callahan, Laura;21-Oct-94;18-Nov-94;28-Oct-94;United Package;Rp18;The Big Cheese;"89 Jefferson Way
+Suite 2";Portland;OR;97201;USA
+10311;Du monde entier;Davolio, Nancy;21-Oct-94;04-Nov-94;27-Oct-94;Federal Shipping;Rp25;Du monde entier;67, rue des Cinquante Otages;Nantes;;44000;France
+10312;Die Wandernde Kuh;Fuller, Andrew;24-Oct-94;21-Nov-94;03-Nov-94;United Package;Rp40;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10313;QUICK-Stop;Fuller, Andrew;25-Oct-94;22-Nov-94;04-Nov-94;United Package;Rp2;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10314;Rattlesnake Canyon Grocery;Davolio, Nancy;26-Oct-94;23-Nov-94;04-Nov-94;United Package;Rp74;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10315;Island Trading;Peacock, Margaret;27-Oct-94;24-Nov-94;03-Nov-94;United Package;Rp42;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10316;Rattlesnake Canyon Grocery;Davolio, Nancy;28-Oct-94;25-Nov-94;08-Nov-94;Federal Shipping;Rp150;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10317;Lonesome Pine Restaurant;Suyama, Michael;31-Oct-94;28-Nov-94;10-Nov-94;Speedy Express;Rp13;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10318;Island Trading;Callahan, Laura;01-Nov-94;29-Nov-94;04-Nov-94;United Package;Rp5;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10319;Tortuga Restaurante;King, Robert;02-Nov-94;30-Nov-94;11-Nov-94;Federal Shipping;Rp65;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10320;Wartian Herkku;Buchanan, Steven;03-Nov-94;17-Nov-94;18-Nov-94;Federal Shipping;Rp35;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10321;Island Trading;Leverling, Janet;03-Nov-94;01-Dec-94;11-Nov-94;United Package;Rp3;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10322;Pericles Comidas clsicas;King, Robert;04-Nov-94;02-Dec-94;23-Nov-94;Federal Shipping;Rp0;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10323;Kniglich Essen;Peacock, Margaret;07-Nov-94;05-Dec-94;14-Nov-94;Speedy Express;Rp5;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10324;Save-a-lot Markets;Dodsworth, Anne;08-Nov-94;06-Dec-94;10-Nov-94;Speedy Express;Rp214;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10325;Kniglich Essen;Davolio, Nancy;09-Nov-94;23-Nov-94;14-Nov-94;Federal Shipping;Rp65;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10326;Blido Comidas preparadas;Peacock, Margaret;10-Nov-94;08-Dec-94;14-Nov-94;United Package;Rp78;Blido Comidas preparadas;C/ Araquil, 67;Madrid;;28023;Spain
+10327;Folk och f HB;Fuller, Andrew;11-Nov-94;09-Dec-94;14-Nov-94;Speedy Express;Rp63;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10328;Furia Bacalhau e Frutos do Mar;Peacock, Margaret;14-Nov-94;12-Dec-94;17-Nov-94;Federal Shipping;Rp87;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10329;Split Rail Beer & Ale;Peacock, Margaret;15-Nov-94;27-Dec-94;23-Nov-94;United Package;Rp192;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10330;LILA-Supermercado;Leverling, Janet;16-Nov-94;14-Dec-94;28-Nov-94;Speedy Express;Rp13;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10331;Bon app';Dodsworth, Anne;16-Nov-94;28-Dec-94;21-Nov-94;Speedy Express;Rp10;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10332;Mre Paillarde;Leverling, Janet;17-Nov-94;29-Dec-94;21-Nov-94;United Package;Rp53;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10333;Wartian Herkku;Buchanan, Steven;18-Nov-94;16-Dec-94;25-Nov-94;Federal Shipping;Rp1;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10334;Victuailles en stock;Callahan, Laura;21-Nov-94;19-Dec-94;28-Nov-94;United Package;Rp9;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10335;Hungry Owl All-Night Grocers;King, Robert;22-Nov-94;20-Dec-94;24-Nov-94;United Package;Rp42;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10336;Princesa Isabel Vinhos;King, Robert;23-Nov-94;21-Dec-94;25-Nov-94;United Package;Rp16;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10337;Frankenversand;Peacock, Margaret;24-Nov-94;22-Dec-94;29-Nov-94;Federal Shipping;Rp108;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10338;Old World Delicatessen;Peacock, Margaret;25-Nov-94;23-Dec-94;29-Nov-94;Federal Shipping;Rp84;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10339;Mre Paillarde;Fuller, Andrew;28-Nov-94;26-Dec-94;05-Dec-94;United Package;Rp16;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10340;Bon app';Davolio, Nancy;29-Nov-94;27-Dec-94;09-Dec-94;Federal Shipping;Rp166;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10341;Simons bistro;King, Robert;29-Nov-94;27-Dec-94;06-Dec-94;Federal Shipping;Rp27;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+10342;Frankenversand;Peacock, Margaret;30-Nov-94;14-Dec-94;05-Dec-94;United Package;Rp55;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10343;Lehmanns Marktstand;Peacock, Margaret;01-Dec-94;29-Dec-94;07-Dec-94;Speedy Express;Rp110;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10344;White Clover Markets;Peacock, Margaret;02-Dec-94;30-Dec-94;06-Dec-94;United Package;Rp23;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10345;QUICK-Stop;Fuller, Andrew;05-Dec-94;02-Jan-95;12-Dec-94;United Package;Rp249;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10346;Rattlesnake Canyon Grocery;Leverling, Janet;06-Dec-94;17-Jan-95;09-Dec-94;Federal Shipping;Rp142;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10347;Familia Arquibaldo;Peacock, Margaret;07-Dec-94;04-Jan-95;09-Dec-94;Federal Shipping;Rp3;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10348;Die Wandernde Kuh;Peacock, Margaret;08-Dec-94;05-Jan-95;16-Dec-94;United Package;Rp1;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10349;Split Rail Beer & Ale;King, Robert;09-Dec-94;06-Jan-95;16-Dec-94;Speedy Express;Rp9;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10350;La maison d'Asie;Suyama, Michael;12-Dec-94;09-Jan-95;03-Jan-95;United Package;Rp64;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10351;Ernst Handel;Davolio, Nancy;12-Dec-94;09-Jan-95;21-Dec-94;Speedy Express;Rp162;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10352;Furia Bacalhau e Frutos do Mar;Leverling, Janet;13-Dec-94;27-Dec-94;19-Dec-94;Federal Shipping;Rp1;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10353;Piccolo und mehr;King, Robert;14-Dec-94;11-Jan-95;26-Dec-94;Federal Shipping;Rp361;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10354;Pericles Comidas clsicas;Callahan, Laura;15-Dec-94;12-Jan-95;21-Dec-94;Federal Shipping;Rp54;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10355;Around the Horn;Suyama, Michael;16-Dec-94;13-Jan-95;21-Dec-94;Speedy Express;Rp42;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10356;Die Wandernde Kuh;Suyama, Michael;19-Dec-94;16-Jan-95;28-Dec-94;United Package;Rp37;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10357;LILA-Supermercado;Davolio, Nancy;20-Dec-94;17-Jan-95;02-Jan-95;Federal Shipping;Rp35;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10358;La maison d'Asie;Buchanan, Steven;21-Dec-94;18-Jan-95;28-Dec-94;Speedy Express;Rp20;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10359;Seven Seas Imports;Buchanan, Steven;22-Dec-94;19-Jan-95;27-Dec-94;Federal Shipping;Rp288;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10360;Blondel pre et fils;Peacock, Margaret;23-Dec-94;20-Jan-95;02-Jan-95;Federal Shipping;Rp132;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10361;QUICK-Stop;Davolio, Nancy;23-Dec-94;20-Jan-95;03-Jan-95;United Package;Rp183;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10362;Bon app';Leverling, Janet;26-Dec-94;23-Jan-95;29-Dec-94;Speedy Express;Rp96;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10363;Drachenblut Delikatessen;Peacock, Margaret;27-Dec-94;24-Jan-95;04-Jan-95;Federal Shipping;Rp31;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+10364;Eastern Connection;Davolio, Nancy;27-Dec-94;07-Feb-95;04-Jan-95;Speedy Express;Rp72;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10365;Antonio Moreno Taquera;Leverling, Janet;28-Dec-94;25-Jan-95;02-Jan-95;United Package;Rp22;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10366;Galera del gastrnomo;Callahan, Laura;29-Dec-94;09-Feb-95;30-Jan-95;United Package;Rp10;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10367;Vaffeljernet;King, Robert;29-Dec-94;26-Jan-95;02-Jan-95;Federal Shipping;Rp14;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10368;Ernst Handel;Fuller, Andrew;30-Dec-94;27-Jan-95;02-Jan-95;United Package;Rp102;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10369;Split Rail Beer & Ale;Callahan, Laura;02-Jan-95;30-Jan-95;09-Jan-95;United Package;Rp196;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10370;Chop-suey Chinese;Suyama, Michael;03-Jan-95;31-Jan-95;27-Jan-95;United Package;Rp1;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10371;La maison d'Asie;Davolio, Nancy;03-Jan-95;31-Jan-95;24-Jan-95;Speedy Express;Rp0;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10372;Queen Cozinha;Buchanan, Steven;04-Jan-95;01-Feb-95;09-Jan-95;United Package;Rp891;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10373;Hungry Owl All-Night Grocers;Peacock, Margaret;05-Jan-95;02-Feb-95;11-Jan-95;Federal Shipping;Rp124;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10374;Wolski  Zajazd;Davolio, Nancy;05-Jan-95;02-Feb-95;09-Jan-95;Federal Shipping;Rp4;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10375;Hungry Coyote Import Store;Leverling, Janet;06-Jan-95;03-Feb-95;09-Jan-95;United Package;Rp20;Hungry Coyote Import Store;"City Center Plaza
+516 Main St.";Elgin;OR;97827;USA
+10376;Mre Paillarde;Davolio, Nancy;09-Jan-95;06-Feb-95;13-Jan-95;United Package;Rp20;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10377;Seven Seas Imports;Davolio, Nancy;09-Jan-95;06-Feb-95;13-Jan-95;Federal Shipping;Rp22;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10378;Folk och f HB;Buchanan, Steven;10-Jan-95;07-Feb-95;19-Jan-95;Federal Shipping;Rp5;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10379;Que Delcia;Fuller, Andrew;11-Jan-95;08-Feb-95;13-Jan-95;Speedy Express;Rp45;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10380;Hungry Owl All-Night Grocers;Callahan, Laura;12-Jan-95;09-Feb-95;16-Feb-95;Federal Shipping;Rp35;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10381;LILA-Supermercado;Leverling, Janet;12-Jan-95;09-Feb-95;13-Jan-95;Federal Shipping;Rp8;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10382;Ernst Handel;Peacock, Margaret;13-Jan-95;10-Feb-95;16-Jan-95;Speedy Express;Rp95;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10383;Around the Horn;Callahan, Laura;16-Jan-95;13-Feb-95;18-Jan-95;Federal Shipping;Rp34;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10384;Berglunds snabbkp;Leverling, Janet;16-Jan-95;13-Feb-95;20-Jan-95;Federal Shipping;Rp169;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10385;Split Rail Beer & Ale;Davolio, Nancy;17-Jan-95;14-Feb-95;23-Jan-95;United Package;Rp31;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10386;Familia Arquibaldo;Dodsworth, Anne;18-Jan-95;01-Feb-95;25-Jan-95;Federal Shipping;Rp14;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10387;Sant Gourmet;Davolio, Nancy;18-Jan-95;15-Feb-95;20-Jan-95;United Package;Rp94;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10388;Seven Seas Imports;Fuller, Andrew;19-Jan-95;16-Feb-95;20-Jan-95;Speedy Express;Rp35;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10389;Bottom-Dollar Markets;Peacock, Margaret;20-Jan-95;17-Feb-95;24-Jan-95;United Package;Rp47;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10390;Ernst Handel;Suyama, Michael;23-Jan-95;20-Feb-95;26-Jan-95;Speedy Express;Rp126;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10391;Drachenblut Delikatessen;Leverling, Janet;23-Jan-95;20-Feb-95;31-Jan-95;Federal Shipping;Rp5;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+10392;Piccolo und mehr;Fuller, Andrew;24-Jan-95;21-Feb-95;01-Feb-95;Federal Shipping;Rp122;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10393;Save-a-lot Markets;Davolio, Nancy;25-Jan-95;22-Feb-95;03-Feb-95;Federal Shipping;Rp127;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10394;Hungry Coyote Import Store;Davolio, Nancy;25-Jan-95;22-Feb-95;03-Feb-95;Federal Shipping;Rp30;Hungry Coyote Import Store;"City Center Plaza
+516 Main St.";Elgin;OR;97827;USA
+10395;HILARIN-Abastos;Suyama, Michael;26-Jan-95;23-Feb-95;03-Feb-95;Speedy Express;Rp184;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10396;Frankenversand;Davolio, Nancy;27-Jan-95;10-Feb-95;06-Feb-95;Federal Shipping;Rp135;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10397;Princesa Isabel Vinhos;Buchanan, Steven;27-Jan-95;24-Feb-95;02-Feb-95;Speedy Express;Rp60;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10398;Save-a-lot Markets;Fuller, Andrew;30-Jan-95;27-Feb-95;09-Feb-95;Federal Shipping;Rp89;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10399;Vaffeljernet;Callahan, Laura;31-Jan-95;14-Feb-95;08-Feb-95;Federal Shipping;Rp27;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10400;Eastern Connection;Davolio, Nancy;01-Feb-95;01-Mar-95;16-Feb-95;Federal Shipping;Rp84;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10401;Rattlesnake Canyon Grocery;Davolio, Nancy;01-Feb-95;01-Mar-95;10-Feb-95;Speedy Express;Rp13;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10402;Ernst Handel;Callahan, Laura;02-Feb-95;16-Mar-95;10-Feb-95;United Package;Rp68;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10403;Ernst Handel;Peacock, Margaret;03-Feb-95;03-Mar-95;09-Feb-95;Federal Shipping;Rp74;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10404;Magazzini Alimentari Riuniti;Fuller, Andrew;03-Feb-95;03-Mar-95;08-Feb-95;Speedy Express;Rp156;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10405;LINO-Delicateses;Davolio, Nancy;06-Feb-95;06-Mar-95;22-Feb-95;Speedy Express;Rp35;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10406;Queen Cozinha;King, Robert;07-Feb-95;21-Mar-95;13-Feb-95;Speedy Express;Rp108;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10407;Ottilies Kseladen;Fuller, Andrew;07-Feb-95;07-Mar-95;02-Mar-95;United Package;Rp91;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10408;Folies gourmandes;Callahan, Laura;08-Feb-95;08-Mar-95;14-Feb-95;Speedy Express;Rp11;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10409;Ocano Atlntico Ltda.;Leverling, Janet;09-Feb-95;09-Mar-95;14-Feb-95;Speedy Express;Rp30;Ocano Atlntico Ltda.;"Ing. Gustavo Moncada 8585
+Piso 20-A";Buenos Aires;;1010;Argentina
+10410;Bottom-Dollar Markets;Leverling, Janet;10-Feb-95;10-Mar-95;15-Feb-95;Federal Shipping;Rp2;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10411;Bottom-Dollar Markets;Dodsworth, Anne;10-Feb-95;10-Mar-95;21-Feb-95;Federal Shipping;Rp24;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10412;Wartian Herkku;Callahan, Laura;13-Feb-95;13-Mar-95;15-Feb-95;United Package;Rp4;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10413;La maison d'Asie;Leverling, Janet;14-Feb-95;14-Mar-95;16-Feb-95;United Package;Rp96;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10414;Familia Arquibaldo;Fuller, Andrew;14-Feb-95;14-Mar-95;17-Feb-95;Federal Shipping;Rp21;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10415;Hungry Coyote Import Store;Leverling, Janet;15-Feb-95;15-Mar-95;24-Feb-95;Speedy Express;Rp0;Hungry Coyote Import Store;"City Center Plaza
+516 Main St.";Elgin;OR;97827;USA
+10416;Wartian Herkku;Callahan, Laura;16-Feb-95;16-Mar-95;27-Feb-95;Federal Shipping;Rp23;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10417;Simons bistro;Peacock, Margaret;16-Feb-95;16-Mar-95;28-Feb-95;Federal Shipping;Rp70;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+10418;QUICK-Stop;Peacock, Margaret;17-Feb-95;17-Mar-95;24-Feb-95;Speedy Express;Rp18;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10419;Richter Supermarkt;Peacock, Margaret;20-Feb-95;20-Mar-95;02-Mar-95;United Package;Rp137;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10420;Wellington Importadora;Leverling, Janet;21-Feb-95;21-Mar-95;27-Feb-95;Speedy Express;Rp44;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10421;Que Delcia;Callahan, Laura;21-Feb-95;04-Apr-95;27-Feb-95;Speedy Express;Rp99;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10422;Franchi S.p.A.;Fuller, Andrew;22-Feb-95;22-Mar-95;03-Mar-95;Speedy Express;Rp3;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+10423;Gourmet Lanchonetes;Suyama, Michael;23-Feb-95;09-Mar-95;27-Mar-95;Federal Shipping;Rp25;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10424;Mre Paillarde;King, Robert;23-Feb-95;23-Mar-95;27-Feb-95;United Package;Rp371;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10425;La maison d'Asie;Suyama, Michael;24-Feb-95;24-Mar-95;17-Mar-95;United Package;Rp8;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10426;Galera del gastrnomo;Peacock, Margaret;27-Feb-95;27-Mar-95;09-Mar-95;Speedy Express;Rp19;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10427;Piccolo und mehr;Peacock, Margaret;27-Feb-95;27-Mar-95;03-Apr-95;United Package;Rp31;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10428;Reggiani Caseifici;King, Robert;28-Feb-95;28-Mar-95;07-Mar-95;Speedy Express;Rp11;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10429;Hungry Owl All-Night Grocers;Leverling, Janet;01-Mar-95;12-Apr-95;10-Mar-95;United Package;Rp57;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10430;Ernst Handel;Peacock, Margaret;02-Mar-95;16-Mar-95;06-Mar-95;Speedy Express;Rp459;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10431;Bottom-Dollar Markets;Peacock, Margaret;02-Mar-95;16-Mar-95;10-Mar-95;United Package;Rp44;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10432;Split Rail Beer & Ale;Leverling, Janet;03-Mar-95;17-Mar-95;10-Mar-95;United Package;Rp4;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10433;Princesa Isabel Vinhos;Leverling, Janet;06-Mar-95;03-Apr-95;04-Apr-95;Federal Shipping;Rp74;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10434;Folk och f HB;Leverling, Janet;06-Mar-95;03-Apr-95;16-Mar-95;United Package;Rp18;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10435;Consolidated Holdings;Callahan, Laura;07-Mar-95;18-Apr-95;10-Mar-95;United Package;Rp9;Consolidated Holdings;"Berkeley Gardens
+12  Brewery";London;;WX1 6LT;UK
+10436;Blondel pre et fils;Leverling, Janet;08-Mar-95;05-Apr-95;14-Mar-95;United Package;Rp157;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10437;Wartian Herkku;Callahan, Laura;08-Mar-95;05-Apr-95;15-Mar-95;Speedy Express;Rp20;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10438;Toms Spezialitten;Leverling, Janet;09-Mar-95;06-Apr-95;17-Mar-95;United Package;Rp8;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10439;Mre Paillarde;Suyama, Michael;10-Mar-95;07-Apr-95;13-Mar-95;Federal Shipping;Rp4;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10440;Save-a-lot Markets;Peacock, Margaret;13-Mar-95;10-Apr-95;31-Mar-95;United Package;Rp87;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10441;Old World Delicatessen;Leverling, Janet;13-Mar-95;24-Apr-95;14-Apr-95;United Package;Rp73;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10442;Ernst Handel;Leverling, Janet;14-Mar-95;11-Apr-95;21-Mar-95;United Package;Rp48;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10443;Reggiani Caseifici;Callahan, Laura;15-Mar-95;12-Apr-95;17-Mar-95;Speedy Express;Rp14;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10444;Berglunds snabbkp;Leverling, Janet;15-Mar-95;12-Apr-95;24-Mar-95;Federal Shipping;Rp4;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10445;Berglunds snabbkp;Leverling, Janet;16-Mar-95;13-Apr-95;23-Mar-95;Speedy Express;Rp9;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10446;Toms Spezialitten;Suyama, Michael;17-Mar-95;14-Apr-95;22-Mar-95;Speedy Express;Rp15;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10447;Ricardo Adocicados;Peacock, Margaret;17-Mar-95;14-Apr-95;07-Apr-95;United Package;Rp69;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10448;Rancho grande;Peacock, Margaret;20-Mar-95;17-Apr-95;27-Mar-95;United Package;Rp39;Rancho grande;Av. del Libertador 900;Buenos Aires;;1010;Argentina
+10449;Blondel pre et fils;Leverling, Janet;21-Mar-95;18-Apr-95;30-Mar-95;United Package;Rp53;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10450;Victuailles en stock;Callahan, Laura;22-Mar-95;19-Apr-95;11-Apr-95;United Package;Rp7;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10451;QUICK-Stop;Peacock, Margaret;22-Mar-95;05-Apr-95;12-Apr-95;Federal Shipping;Rp189;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10452;Save-a-lot Markets;Callahan, Laura;23-Mar-95;20-Apr-95;29-Mar-95;Speedy Express;Rp140;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10453;Around the Horn;Davolio, Nancy;24-Mar-95;21-Apr-95;29-Mar-95;United Package;Rp25;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10454;La maison d'Asie;Peacock, Margaret;24-Mar-95;21-Apr-95;28-Mar-95;Federal Shipping;Rp3;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10455;Wartian Herkku;Callahan, Laura;27-Mar-95;08-May-95;03-Apr-95;United Package;Rp180;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10456;Kniglich Essen;Callahan, Laura;28-Mar-95;09-May-95;31-Mar-95;United Package;Rp8;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10457;Kniglich Essen;Fuller, Andrew;28-Mar-95;25-Apr-95;03-Apr-95;Speedy Express;Rp12;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10458;Suprmes dlices;King, Robert;29-Mar-95;26-Apr-95;04-Apr-95;Federal Shipping;Rp147;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10459;Victuailles en stock;Peacock, Margaret;30-Mar-95;27-Apr-95;31-Mar-95;United Package;Rp25;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10460;Folk och f HB;Callahan, Laura;31-Mar-95;28-Apr-95;03-Apr-95;Speedy Express;Rp16;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10461;LILA-Supermercado;Davolio, Nancy;31-Mar-95;28-Apr-95;05-Apr-95;Federal Shipping;Rp149;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10462;Consolidated Holdings;Fuller, Andrew;03-Apr-95;01-May-95;18-Apr-95;Speedy Express;Rp6;Consolidated Holdings;"Berkeley Gardens
+12  Brewery";London;;WX1 6LT;UK
+10463;Suprmes dlices;Buchanan, Steven;04-Apr-95;02-May-95;06-Apr-95;Federal Shipping;Rp15;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10464;Furia Bacalhau e Frutos do Mar;Peacock, Margaret;04-Apr-95;02-May-95;14-Apr-95;United Package;Rp89;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10465;Vaffeljernet;Davolio, Nancy;05-Apr-95;03-May-95;14-Apr-95;Federal Shipping;Rp145;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10466;Comrcio Mineiro;Peacock, Margaret;06-Apr-95;04-May-95;13-Apr-95;Speedy Express;Rp12;Comrcio Mineiro;Av. dos Lusadas, 23;So Paulo;SP;05432-043;Brazil
+10467;Magazzini Alimentari Riuniti;Callahan, Laura;06-Apr-95;04-May-95;11-Apr-95;United Package;Rp5;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10468;Kniglich Essen;Leverling, Janet;07-Apr-95;05-May-95;12-Apr-95;Federal Shipping;Rp44;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10469;White Clover Markets;Davolio, Nancy;10-Apr-95;08-May-95;14-Apr-95;Speedy Express;Rp60;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10470;Bon app';Peacock, Margaret;11-Apr-95;09-May-95;14-Apr-95;United Package;Rp65;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10471;B's Beverages;Fuller, Andrew;11-Apr-95;09-May-95;18-Apr-95;Federal Shipping;Rp46;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10472;Seven Seas Imports;Callahan, Laura;12-Apr-95;10-May-95;19-Apr-95;Speedy Express;Rp4;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10473;Island Trading;Davolio, Nancy;13-Apr-95;27-Apr-95;21-Apr-95;Federal Shipping;Rp16;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10474;Pericles Comidas clsicas;Buchanan, Steven;13-Apr-95;11-May-95;21-Apr-95;United Package;Rp83;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10475;Suprmes dlices;Dodsworth, Anne;14-Apr-95;12-May-95;05-May-95;Speedy Express;Rp69;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10476;HILARIN-Abastos;Callahan, Laura;17-Apr-95;15-May-95;24-Apr-95;Federal Shipping;Rp4;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10477;Princesa Isabel Vinhos;Buchanan, Steven;17-Apr-95;15-May-95;25-Apr-95;United Package;Rp13;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10478;Victuailles en stock;Fuller, Andrew;18-Apr-95;02-May-95;26-Apr-95;Federal Shipping;Rp5;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10479;Rattlesnake Canyon Grocery;Leverling, Janet;19-Apr-95;17-May-95;21-Apr-95;Federal Shipping;Rp709;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10480;Folies gourmandes;Suyama, Michael;20-Apr-95;18-May-95;24-Apr-95;United Package;Rp1;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10481;Ricardo Adocicados;Callahan, Laura;20-Apr-95;18-May-95;25-Apr-95;United Package;Rp64;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10482;Lazy K Kountry Store;Davolio, Nancy;21-Apr-95;19-May-95;11-May-95;Federal Shipping;Rp7;Lazy K Kountry Store;12 Orchestra Terrace;Walla Walla;WA;99362;USA
+10483;White Clover Markets;King, Robert;24-Apr-95;22-May-95;26-May-95;United Package;Rp15;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10484;B's Beverages;Leverling, Janet;24-Apr-95;22-May-95;02-May-95;Federal Shipping;Rp7;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10485;LINO-Delicateses;Peacock, Margaret;25-Apr-95;09-May-95;01-May-95;United Package;Rp64;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10486;HILARIN-Abastos;Davolio, Nancy;26-Apr-95;24-May-95;03-May-95;United Package;Rp31;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10487;Queen Cozinha;Fuller, Andrew;26-Apr-95;24-May-95;28-Apr-95;United Package;Rp71;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10488;Frankenversand;Callahan, Laura;27-Apr-95;25-May-95;03-May-95;United Package;Rp5;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10489;Piccolo und mehr;Suyama, Michael;28-Apr-95;26-May-95;10-May-95;United Package;Rp5;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10490;HILARIN-Abastos;King, Robert;01-May-95;29-May-95;04-May-95;United Package;Rp210;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10491;Furia Bacalhau e Frutos do Mar;Callahan, Laura;01-May-95;29-May-95;09-May-95;Federal Shipping;Rp17;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10492;Bottom-Dollar Markets;Leverling, Janet;02-May-95;30-May-95;12-May-95;Speedy Express;Rp63;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10493;La maison d'Asie;Peacock, Margaret;03-May-95;31-May-95;11-May-95;Federal Shipping;Rp11;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10494;Comrcio Mineiro;Peacock, Margaret;03-May-95;31-May-95;10-May-95;United Package;Rp66;Comrcio Mineiro;Av. dos Lusadas, 23;So Paulo;SP;05432-043;Brazil
+10495;Laughing Bacchus Wine Cellars;Leverling, Janet;04-May-95;01-Jun-95;12-May-95;Federal Shipping;Rp5;Laughing Bacchus Wine Cellars;2319 Elm St.;Vancouver;BC;V3F 2K1;Canada
+10496;Tradio Hipermercados;King, Robert;05-May-95;02-Jun-95;08-May-95;United Package;Rp47;Tradio Hipermercados;Av. Ins de Castro, 414;So Paulo;SP;05634-030;Brazil
+10497;Lehmanns Marktstand;King, Robert;05-May-95;02-Jun-95;08-May-95;Speedy Express;Rp36;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10498;HILARIN-Abastos;Callahan, Laura;08-May-95;05-Jun-95;12-May-95;United Package;Rp30;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10499;LILA-Supermercado;Peacock, Margaret;09-May-95;06-Jun-95;17-May-95;United Package;Rp102;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10500;La maison d'Asie;Suyama, Michael;10-May-95;07-Jun-95;18-May-95;Speedy Express;Rp43;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10501;Blauer See Delikatessen;Dodsworth, Anne;10-May-95;07-Jun-95;17-May-95;Federal Shipping;Rp9;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10502;Pericles Comidas clsicas;Fuller, Andrew;11-May-95;08-Jun-95;30-May-95;Speedy Express;Rp69;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10503;Hungry Owl All-Night Grocers;Suyama, Michael;12-May-95;09-Jun-95;17-May-95;United Package;Rp17;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10504;White Clover Markets;Peacock, Margaret;12-May-95;09-Jun-95;19-May-95;Federal Shipping;Rp59;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10505;Mre Paillarde;Leverling, Janet;15-May-95;12-Jun-95;22-May-95;Federal Shipping;Rp7;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10506;Kniglich Essen;Dodsworth, Anne;16-May-95;13-Jun-95;02-Jun-95;United Package;Rp21;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10507;Antonio Moreno Taquera;King, Robert;16-May-95;13-Jun-95;23-May-95;Speedy Express;Rp47;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10508;Ottilies Kseladen;Davolio, Nancy;17-May-95;14-Jun-95;13-Jun-95;United Package;Rp5;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10509;Blauer See Delikatessen;Peacock, Margaret;18-May-95;15-Jun-95;30-May-95;Speedy Express;Rp0;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10510;Save-a-lot Markets;Suyama, Michael;19-May-95;16-Jun-95;29-May-95;Federal Shipping;Rp368;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10511;Bon app';Peacock, Margaret;19-May-95;16-Jun-95;22-May-95;Federal Shipping;Rp351;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10512;Familia Arquibaldo;King, Robert;22-May-95;19-Jun-95;25-May-95;United Package;Rp4;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10513;Die Wandernde Kuh;King, Robert;23-May-95;04-Jul-95;29-May-95;Speedy Express;Rp106;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10514;Ernst Handel;Leverling, Janet;23-May-95;20-Jun-95;16-Jun-95;United Package;Rp790;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10515;QUICK-Stop;Fuller, Andrew;24-May-95;07-Jun-95;23-Jun-95;Speedy Express;Rp204;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10516;Hungry Owl All-Night Grocers;Fuller, Andrew;25-May-95;22-Jun-95;01-Jun-95;Federal Shipping;Rp63;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10517;North/South;Leverling, Janet;25-May-95;22-Jun-95;30-May-95;Federal Shipping;Rp32;North/South;"South House
+300 Queensbridge";London;;SW7 1RZ;UK
+10518;Tortuga Restaurante;Peacock, Margaret;26-May-95;09-Jun-95;05-Jun-95;United Package;Rp218;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10519;Chop-suey Chinese;Suyama, Michael;29-May-95;26-Jun-95;01-Jun-95;Federal Shipping;Rp92;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10520;Sant Gourmet;King, Robert;30-May-95;27-Jun-95;01-Jun-95;Speedy Express;Rp13;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10521;Cactus Comidas para llevar;Callahan, Laura;30-May-95;27-Jun-95;02-Jun-95;United Package;Rp17;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+10522;Lehmanns Marktstand;Peacock, Margaret;31-May-95;28-Jun-95;06-Jun-95;Speedy Express;Rp45;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10523;Seven Seas Imports;King, Robert;01-Jun-95;29-Jun-95;30-Jun-95;United Package;Rp78;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10524;Berglunds snabbkp;Davolio, Nancy;01-Jun-95;29-Jun-95;07-Jun-95;United Package;Rp245;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10525;Bon app';Davolio, Nancy;02-Jun-95;30-Jun-95;23-Jun-95;United Package;Rp11;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10526;Wartian Herkku;Peacock, Margaret;05-Jun-95;03-Jul-95;15-Jun-95;United Package;Rp59;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10527;QUICK-Stop;King, Robert;05-Jun-95;03-Jul-95;07-Jun-95;Speedy Express;Rp42;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10528;Great Lakes Food Market;Suyama, Michael;06-Jun-95;20-Jun-95;09-Jun-95;United Package;Rp3;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10529;Maison Dewey;Buchanan, Steven;07-Jun-95;05-Jul-95;09-Jun-95;United Package;Rp67;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10530;Piccolo und mehr;Leverling, Janet;08-Jun-95;06-Jul-95;12-Jun-95;United Package;Rp339;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10531;Ocano Atlntico Ltda.;King, Robert;08-Jun-95;06-Jul-95;19-Jun-95;Speedy Express;Rp8;Ocano Atlntico Ltda.;"Ing. Gustavo Moncada 8585
+Piso 20-A";Buenos Aires;;1010;Argentina
+10532;Eastern Connection;King, Robert;09-Jun-95;07-Jul-95;12-Jun-95;Federal Shipping;Rp74;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10533;Folk och f HB;Callahan, Laura;12-Jun-95;10-Jul-95;22-Jun-95;Speedy Express;Rp188;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10534;Lehmanns Marktstand;Callahan, Laura;12-Jun-95;10-Jul-95;14-Jun-95;United Package;Rp28;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10535;Antonio Moreno Taquera;Peacock, Margaret;13-Jun-95;11-Jul-95;21-Jun-95;Speedy Express;Rp16;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10536;Lehmanns Marktstand;Leverling, Janet;14-Jun-95;12-Jul-95;07-Jul-95;United Package;Rp59;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10537;Richter Supermarkt;Davolio, Nancy;14-Jun-95;28-Jun-95;19-Jun-95;Speedy Express;Rp79;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10538;B's Beverages;Dodsworth, Anne;15-Jun-95;13-Jul-95;16-Jun-95;Federal Shipping;Rp5;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10539;B's Beverages;Suyama, Michael;16-Jun-95;14-Jul-95;23-Jun-95;Federal Shipping;Rp12;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10540;QUICK-Stop;Leverling, Janet;19-Jun-95;17-Jul-95;14-Jul-95;Federal Shipping;Rp1.008;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10541;Hanari Carnes;Fuller, Andrew;19-Jun-95;17-Jul-95;29-Jun-95;Speedy Express;Rp69;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10542;Kniglich Essen;Davolio, Nancy;20-Jun-95;18-Jul-95;26-Jun-95;Federal Shipping;Rp11;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10543;LILA-Supermercado;Callahan, Laura;21-Jun-95;19-Jul-95;23-Jun-95;United Package;Rp48;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10544;Lonesome Pine Restaurant;Peacock, Margaret;21-Jun-95;19-Jul-95;30-Jun-95;Speedy Express;Rp25;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10545;Lazy K Kountry Store;Callahan, Laura;22-Jun-95;20-Jul-95;27-Jul-95;United Package;Rp12;Lazy K Kountry Store;12 Orchestra Terrace;Walla Walla;WA;99362;USA
+10546;Victuailles en stock;Davolio, Nancy;23-Jun-95;21-Jul-95;27-Jun-95;Federal Shipping;Rp195;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10547;Seven Seas Imports;Leverling, Janet;23-Jun-95;21-Jul-95;03-Jul-95;United Package;Rp178;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10548;Toms Spezialitten;Leverling, Janet;26-Jun-95;24-Jul-95;03-Jul-95;United Package;Rp1;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10549;QUICK-Stop;Buchanan, Steven;27-Jun-95;11-Jul-95;30-Jun-95;Speedy Express;Rp171;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10550;Godos Cocina Tpica;King, Robert;28-Jun-95;26-Jul-95;07-Jul-95;Federal Shipping;Rp4;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10551;Furia Bacalhau e Frutos do Mar;Peacock, Margaret;28-Jun-95;09-Aug-95;07-Jul-95;Federal Shipping;Rp73;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10552;HILARIN-Abastos;Fuller, Andrew;29-Jun-95;27-Jul-95;06-Jul-95;Speedy Express;Rp83;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10553;Wartian Herkku;Fuller, Andrew;30-Jun-95;28-Jul-95;04-Jul-95;United Package;Rp149;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10554;Ottilies Kseladen;Peacock, Margaret;30-Jun-95;28-Jul-95;06-Jul-95;Federal Shipping;Rp121;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10555;Save-a-lot Markets;Suyama, Michael;03-Jul-95;31-Jul-95;05-Jul-95;Federal Shipping;Rp252;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10556;Simons bistro;Fuller, Andrew;04-Jul-95;15-Aug-95;14-Jul-95;Speedy Express;Rp10;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+10557;Lehmanns Marktstand;Dodsworth, Anne;04-Jul-95;18-Jul-95;07-Jul-95;United Package;Rp97;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10558;Around the Horn;Davolio, Nancy;05-Jul-95;02-Aug-95;11-Jul-95;United Package;Rp73;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10559;Blondel pcre et fils;Suyama, Michael;06-Jul-95;03-Aug-95;14-Jul-95;Speedy Express;Rp8;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10560;Frankenversand;Callahan, Laura;07-Jul-95;04-Aug-95;10-Jul-95;Speedy Express;Rp37;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10561;Folk och f HB;Fuller, Andrew;07-Jul-95;04-Aug-95;10-Jul-95;United Package;Rp242;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10562;Reggiani Caseifici;Davolio, Nancy;10-Jul-95;07-Aug-95;13-Jul-95;Speedy Express;Rp23;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10563;Ricardo Adocicados;Fuller, Andrew;11-Jul-95;22-Aug-95;25-Jul-95;United Package;Rp60;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10564;Rattlesnake Canyon Grocery;Peacock, Margaret;11-Jul-95;08-Aug-95;17-Jul-95;Federal Shipping;Rp14;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10565;Mre Paillarde;Callahan, Laura;12-Jul-95;09-Aug-95;19-Jul-95;United Package;Rp7;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10566;Blondel pre et fils;Dodsworth, Anne;13-Jul-95;10-Aug-95;19-Jul-95;Speedy Express;Rp88;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10567;Hungry Owl All-Night Grocers;Davolio, Nancy;13-Jul-95;10-Aug-95;18-Jul-95;Speedy Express;Rp34;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10568;Galera del gastrnomo;Leverling, Janet;14-Jul-95;11-Aug-95;09-Aug-95;Federal Shipping;Rp7;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10569;Rattlesnake Canyon Grocery;Buchanan, Steven;17-Jul-95;14-Aug-95;11-Aug-95;Speedy Express;Rp59;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10570;Mre Paillarde;Leverling, Janet;18-Jul-95;15-Aug-95;20-Jul-95;Federal Shipping;Rp189;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10571;Ernst Handel;Callahan, Laura;18-Jul-95;29-Aug-95;04-Aug-95;Federal Shipping;Rp26;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10572;Berglunds snabbkp;Leverling, Janet;19-Jul-95;16-Aug-95;26-Jul-95;United Package;Rp116;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10573;Antonio Moreno Taquera;King, Robert;20-Jul-95;17-Aug-95;21-Jul-95;Federal Shipping;Rp85;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10574;Trail's Head Gourmet Provisioners;Peacock, Margaret;20-Jul-95;17-Aug-95;31-Jul-95;United Package;Rp38;Trail's Head Gourmet Provisioners;722 DaVinci Blvd.;Kirkland;WA;98034;USA
+10575;Morgenstern Gesundkost;Buchanan, Steven;21-Jul-95;04-Aug-95;31-Jul-95;Speedy Express;Rp127;Morgenstern Gesundkost;Heerstr. 22;Leipzig;;4179;Germany
+10576;Tortuga Restaurante;Leverling, Janet;24-Jul-95;07-Aug-95;31-Jul-95;Federal Shipping;Rp19;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10577;Trail's Head Gourmet Provisioners;Dodsworth, Anne;24-Jul-95;04-Sep-95;31-Jul-95;United Package;Rp25;Trail's Head Gourmet Provisioners;722 DaVinci Blvd.;Kirkland;WA;98034;USA
+10578;B's Beverages;Peacock, Margaret;25-Jul-95;22-Aug-95;25-Aug-95;Federal Shipping;Rp30;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10579;Let's Stop N Shop;Davolio, Nancy;26-Jul-95;23-Aug-95;04-Aug-95;United Package;Rp14;Let's Stop N Shop;"87 Polk St.
+Suite 5";San Francisco;CA;94117;USA
+10580;Ottilies Kseladen;Peacock, Margaret;27-Jul-95;24-Aug-95;01-Aug-95;Federal Shipping;Rp76;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10581;Familia Arquibaldo;Leverling, Janet;27-Jul-95;24-Aug-95;02-Aug-95;Speedy Express;Rp3;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10582;Blauer See Delikatessen;Leverling, Janet;28-Jul-95;25-Aug-95;14-Aug-95;United Package;Rp28;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10583;Wartian Herkku;Fuller, Andrew;31-Jul-95;28-Aug-95;04-Aug-95;United Package;Rp7;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10584;Blondel pre et fils;Peacock, Margaret;31-Jul-95;28-Aug-95;04-Aug-95;Speedy Express;Rp59;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10585;Wellington Importadora;King, Robert;01-Aug-95;29-Aug-95;10-Aug-95;Speedy Express;Rp13;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10586;Reggiani Caseifici;Dodsworth, Anne;02-Aug-95;30-Aug-95;09-Aug-95;Speedy Express;Rp0;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10587;Que Delcia;Davolio, Nancy;02-Aug-95;30-Aug-95;09-Aug-95;Speedy Express;Rp63;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10588;QUICK-Stop;Fuller, Andrew;03-Aug-95;31-Aug-95;10-Aug-95;Federal Shipping;Rp195;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10589;Great Lakes Food Market;Callahan, Laura;04-Aug-95;01-Sep-95;14-Aug-95;United Package;Rp4;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10590;Mre Paillarde;Peacock, Margaret;07-Aug-95;04-Sep-95;14-Aug-95;Federal Shipping;Rp45;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10591;Vaffeljernet;Davolio, Nancy;07-Aug-95;21-Aug-95;16-Aug-95;Speedy Express;Rp56;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10592;Lehmanns Marktstand;Leverling, Janet;08-Aug-95;05-Sep-95;16-Aug-95;Speedy Express;Rp32;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10593;Lehmanns Marktstand;King, Robert;09-Aug-95;06-Sep-95;13-Sep-95;United Package;Rp174;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10594;Old World Delicatessen;Leverling, Janet;09-Aug-95;06-Sep-95;16-Aug-95;United Package;Rp5;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10595;Ernst Handel;Fuller, Andrew;10-Aug-95;07-Sep-95;14-Aug-95;Speedy Express;Rp97;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10596;White Clover Markets;Callahan, Laura;11-Aug-95;08-Sep-95;12-Sep-95;Speedy Express;Rp16;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10597;Piccolo und mehr;King, Robert;11-Aug-95;08-Sep-95;18-Aug-95;Federal Shipping;Rp35;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10598;Rattlesnake Canyon Grocery;Davolio, Nancy;14-Aug-95;11-Sep-95;18-Aug-95;Federal Shipping;Rp44;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10599;B's Beverages;Suyama, Michael;15-Aug-95;26-Sep-95;21-Aug-95;Federal Shipping;Rp30;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10600;Hungry Coyote Import Store;Peacock, Margaret;16-Aug-95;13-Sep-95;21-Aug-95;Speedy Express;Rp45;Hungry Coyote Import Store;"City Center Plaza
+516 Main St.";Elgin;OR;97827;USA
+10601;HILARIN-Abastos;King, Robert;16-Aug-95;27-Sep-95;22-Aug-95;Speedy Express;Rp58;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10602;Vaffeljernet;Callahan, Laura;17-Aug-95;14-Sep-95;22-Aug-95;United Package;Rp3;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10603;Save-a-lot Markets;Callahan, Laura;18-Aug-95;15-Sep-95;08-Sep-95;United Package;Rp49;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10604;Furia Bacalhau e Frutos do Mar;Davolio, Nancy;18-Aug-95;15-Sep-95;29-Aug-95;Speedy Express;Rp7;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10605;Mre Paillarde;Davolio, Nancy;21-Aug-95;18-Sep-95;29-Aug-95;United Package;Rp379;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10606;Tradio Hipermercados;Peacock, Margaret;22-Aug-95;19-Sep-95;31-Aug-95;Federal Shipping;Rp79;Tradio Hipermercados;Av. Ins de Castro, 414;So Paulo;SP;05634-030;Brazil
+10607;Save-a-lot Markets;Buchanan, Steven;22-Aug-95;19-Sep-95;25-Aug-95;Speedy Express;Rp200;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10608;Toms Spezialitten;Peacock, Margaret;23-Aug-95;20-Sep-95;01-Sep-95;United Package;Rp28;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10609;Du monde entier;King, Robert;24-Aug-95;21-Sep-95;30-Aug-95;United Package;Rp2;Du monde entier;67, rue des Cinquante Otages;Nantes;;44000;France
+10610;La maison d'Asie;Callahan, Laura;25-Aug-95;22-Sep-95;06-Sep-95;Speedy Express;Rp27;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10611;Wolski  Zajazd;Suyama, Michael;25-Aug-95;22-Sep-95;01-Sep-95;United Package;Rp81;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10612;Save-a-lot Markets;Davolio, Nancy;28-Aug-95;25-Sep-95;01-Sep-95;United Package;Rp544;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10613;HILARIN-Abastos;Peacock, Margaret;29-Aug-95;26-Sep-95;01-Sep-95;United Package;Rp8;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10614;Blauer See Delikatessen;Callahan, Laura;29-Aug-95;26-Sep-95;01-Sep-95;Federal Shipping;Rp2;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10615;Wilman Kala;Fuller, Andrew;30-Aug-95;27-Sep-95;06-Sep-95;Federal Shipping;Rp1;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+10616;Great Lakes Food Market;Davolio, Nancy;31-Aug-95;28-Sep-95;05-Sep-95;United Package;Rp117;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10617;Great Lakes Food Market;Peacock, Margaret;31-Aug-95;28-Sep-95;04-Sep-95;United Package;Rp19;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10618;Mre Paillarde;Davolio, Nancy;01-Sep-95;13-Oct-95;08-Sep-95;Speedy Express;Rp155;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10619;Mre Paillarde;Leverling, Janet;04-Sep-95;02-Oct-95;07-Sep-95;Federal Shipping;Rp91;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10620;Laughing Bacchus Wine Cellars;Fuller, Andrew;05-Sep-95;03-Oct-95;14-Sep-95;Federal Shipping;Rp1;Laughing Bacchus Wine Cellars;2319 Elm St.;Vancouver;BC;V3F 2K1;Canada
+10621;Island Trading;Peacock, Margaret;05-Sep-95;03-Oct-95;11-Sep-95;United Package;Rp24;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10622;Ricardo Adocicados;Peacock, Margaret;06-Sep-95;04-Oct-95;11-Sep-95;Federal Shipping;Rp51;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10623;Frankenversand;Callahan, Laura;07-Sep-95;05-Oct-95;12-Sep-95;United Package;Rp97;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10624;The Cracker Box;Peacock, Margaret;07-Sep-95;05-Oct-95;19-Sep-95;United Package;Rp95;The Cracker Box;55 Grizzly Peak Rd.;Butte;MT;59801;USA
+10625;Ana Trujillo Emparedados y helados;Leverling, Janet;08-Sep-95;06-Oct-95;14-Sep-95;Speedy Express;Rp44;Ana Trujillo Emparedados y helados;Avda. de la Constitucin 2222;Mxico D.F.;;5021;Mexico
+10626;Berglunds snabbkp;Davolio, Nancy;11-Sep-95;09-Oct-95;20-Sep-95;United Package;Rp139;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10627;Save-a-lot Markets;Callahan, Laura;11-Sep-95;23-Oct-95;21-Sep-95;Federal Shipping;Rp107;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10628;Blondel pre et fils;Peacock, Margaret;12-Sep-95;10-Oct-95;20-Sep-95;Federal Shipping;Rp30;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10629;Godos Cocina Tpica;Peacock, Margaret;12-Sep-95;10-Oct-95;20-Sep-95;Federal Shipping;Rp85;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10630;Kniglich Essen;Davolio, Nancy;13-Sep-95;11-Oct-95;19-Sep-95;United Package;Rp32;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10631;La maison d'Asie;Callahan, Laura;14-Sep-95;12-Oct-95;15-Sep-95;Speedy Express;Rp1;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10632;Die Wandernde Kuh;Callahan, Laura;14-Sep-95;12-Oct-95;19-Sep-95;Speedy Express;Rp41;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10633;Ernst Handel;King, Robert;15-Sep-95;13-Oct-95;18-Sep-95;Federal Shipping;Rp478;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10634;Folies gourmandes;Peacock, Margaret;15-Sep-95;13-Oct-95;21-Sep-95;Federal Shipping;Rp487;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10635;Magazzini Alimentari Riuniti;Callahan, Laura;18-Sep-95;16-Oct-95;21-Sep-95;Federal Shipping;Rp47;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10636;Wartian Herkku;Peacock, Margaret;19-Sep-95;17-Oct-95;26-Sep-95;Speedy Express;Rp1;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10637;Queen Cozinha;Suyama, Michael;19-Sep-95;17-Oct-95;26-Sep-95;Speedy Express;Rp201;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10638;LINO-Delicateses;Leverling, Janet;20-Sep-95;18-Oct-95;02-Oct-95;Speedy Express;Rp158;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10639;Sant Gourmet;King, Robert;20-Sep-95;18-Oct-95;27-Sep-95;Federal Shipping;Rp39;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10640;Die Wandernde Kuh;Peacock, Margaret;21-Sep-95;19-Oct-95;28-Sep-95;Speedy Express;Rp24;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10641;HILARIN-Abastos;Peacock, Margaret;22-Sep-95;20-Oct-95;26-Sep-95;United Package;Rp180;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10642;Simons bistro;King, Robert;22-Sep-95;20-Oct-95;06-Oct-95;Federal Shipping;Rp42;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+10643;Alfreds Futterkiste;Suyama, Michael;25-Sep-95;23-Oct-95;03-Oct-95;Speedy Express;Rp29;Alfreds Futterkiste;Obere Str. 57;Berlin;;12209;Germany
+10644;Wellington Importadora;Leverling, Janet;25-Sep-95;23-Oct-95;02-Oct-95;United Package;Rp0;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10645;Hanari Carnes;Peacock, Margaret;26-Sep-95;24-Oct-95;03-Oct-95;Speedy Express;Rp12;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10646;Hungry Owl All-Night Grocers;Dodsworth, Anne;27-Sep-95;08-Nov-95;04-Oct-95;Federal Shipping;Rp142;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10647;Que Delcia;Peacock, Margaret;27-Sep-95;11-Oct-95;04-Oct-95;United Package;Rp46;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10648;Ricardo Adocicados;Buchanan, Steven;28-Sep-95;09-Nov-95;10-Oct-95;United Package;Rp14;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10649;Maison Dewey;Buchanan, Steven;28-Sep-95;26-Oct-95;29-Sep-95;Federal Shipping;Rp6;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10650;Familia Arquibaldo;Buchanan, Steven;29-Sep-95;27-Oct-95;04-Oct-95;Federal Shipping;Rp177;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10651;Die Wandernde Kuh;Callahan, Laura;02-Oct-95;30-Oct-95;12-Oct-95;United Package;Rp21;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10652;Gourmet Lanchonetes;Peacock, Margaret;02-Oct-95;30-Oct-95;09-Oct-95;United Package;Rp7;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10653;Frankenversand;Davolio, Nancy;03-Oct-95;31-Oct-95;20-Oct-95;Speedy Express;Rp93;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10654;Berglunds snabbkp;Buchanan, Steven;03-Oct-95;31-Oct-95;12-Oct-95;Speedy Express;Rp55;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10655;Reggiani Caseifici;Davolio, Nancy;04-Oct-95;01-Nov-95;12-Oct-95;United Package;Rp4;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10656;Great Lakes Food Market;Suyama, Michael;05-Oct-95;02-Nov-95;11-Oct-95;Speedy Express;Rp57;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10657;Save-a-lot Markets;Fuller, Andrew;05-Oct-95;02-Nov-95;16-Oct-95;United Package;Rp353;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10658;QUICK-Stop;Peacock, Margaret;06-Oct-95;03-Nov-95;09-Oct-95;Speedy Express;Rp364;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10659;Queen Cozinha;King, Robert;06-Oct-95;03-Nov-95;11-Oct-95;United Package;Rp106;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10660;Hungry Coyote Import Store;Callahan, Laura;09-Oct-95;06-Nov-95;15-Nov-95;Speedy Express;Rp111;Hungry Coyote Import Store;"City Center Plaza
+516 Main St.";Elgin;OR;97827;USA
+10661;Hungry Owl All-Night Grocers;King, Robert;10-Oct-95;07-Nov-95;16-Oct-95;Federal Shipping;Rp18;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10662;Lonesome Pine Restaurant;Leverling, Janet;10-Oct-95;07-Nov-95;19-Oct-95;United Package;Rp1;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10663;Bon app';Fuller, Andrew;11-Oct-95;25-Oct-95;03-Nov-95;United Package;Rp113;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10664;Furia Bacalhau e Frutos do Mar;Davolio, Nancy;11-Oct-95;08-Nov-95;20-Oct-95;Federal Shipping;Rp1;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10665;Lonesome Pine Restaurant;Davolio, Nancy;12-Oct-95;09-Nov-95;18-Oct-95;United Package;Rp26;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10666;Richter Supermarkt;King, Robert;13-Oct-95;10-Nov-95;23-Oct-95;United Package;Rp232;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10667;Ernst Handel;King, Robert;13-Oct-95;10-Nov-95;20-Oct-95;Speedy Express;Rp78;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10668;Die Wandernde Kuh;Davolio, Nancy;16-Oct-95;13-Nov-95;24-Oct-95;United Package;Rp47;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10669;Simons bistro;Fuller, Andrew;16-Oct-95;13-Nov-95;23-Oct-95;Speedy Express;Rp24;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+10670;Frankenversand;Peacock, Margaret;17-Oct-95;14-Nov-95;19-Oct-95;Speedy Express;Rp203;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10671;France restauration;Davolio, Nancy;18-Oct-95;15-Nov-95;25-Oct-95;Speedy Express;Rp30;France restauration;54, rue Royale;Nantes;;44000;France
+10672;Berglunds snabbkp;Dodsworth, Anne;18-Oct-95;01-Nov-95;27-Oct-95;United Package;Rp96;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10673;Wilman Kala;Fuller, Andrew;19-Oct-95;16-Nov-95;20-Oct-95;Speedy Express;Rp23;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+10674;Island Trading;Peacock, Margaret;19-Oct-95;16-Nov-95;31-Oct-95;United Package;Rp1;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10675;Frankenversand;Buchanan, Steven;20-Oct-95;17-Nov-95;24-Oct-95;United Package;Rp32;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10676;Tortuga Restaurante;Fuller, Andrew;23-Oct-95;20-Nov-95;30-Oct-95;United Package;Rp2;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10677;Antonio Moreno Taquera;Davolio, Nancy;23-Oct-95;20-Nov-95;27-Oct-95;Federal Shipping;Rp4;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10678;Save-a-lot Markets;King, Robert;24-Oct-95;21-Nov-95;16-Nov-95;Federal Shipping;Rp389;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10679;Blondel pre et fils;Callahan, Laura;24-Oct-95;21-Nov-95;31-Oct-95;Federal Shipping;Rp28;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10680;Old World Delicatessen;Davolio, Nancy;25-Oct-95;22-Nov-95;27-Oct-95;Speedy Express;Rp27;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10681;Great Lakes Food Market;Leverling, Janet;26-Oct-95;23-Nov-95;31-Oct-95;Federal Shipping;Rp76;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10682;Antonio Moreno Taquera;Leverling, Janet;26-Oct-95;23-Nov-95;01-Nov-95;United Package;Rp36;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10683;Du monde entier;Fuller, Andrew;27-Oct-95;24-Nov-95;01-Nov-95;Speedy Express;Rp4;Du monde entier;67, rue des Cinquante Otages;Nantes;;44000;France
+10684;Ottilies Kseladen;Leverling, Janet;27-Oct-95;24-Nov-95;31-Oct-95;Speedy Express;Rp146;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10685;Gourmet Lanchonetes;Peacock, Margaret;30-Oct-95;13-Nov-95;03-Nov-95;United Package;Rp34;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10686;Piccolo und mehr;Fuller, Andrew;31-Oct-95;28-Nov-95;08-Nov-95;Speedy Express;Rp97;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10687;Hungry Owl All-Night Grocers;Dodsworth, Anne;31-Oct-95;28-Nov-95;30-Nov-95;United Package;Rp296;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10688;Vaffeljernet;Peacock, Margaret;01-Nov-95;15-Nov-95;07-Nov-95;United Package;Rp299;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10689;Berglunds snabbkp;Davolio, Nancy;01-Nov-95;29-Nov-95;07-Nov-95;United Package;Rp13;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10690;Hanari Carnes;Davolio, Nancy;02-Nov-95;30-Nov-95;03-Nov-95;Speedy Express;Rp16;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10691;QUICK-Stop;Fuller, Andrew;03-Nov-95;15-Dec-95;22-Nov-95;United Package;Rp810;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10692;Alfreds Futterkiste;Peacock, Margaret;03-Nov-95;01-Dec-95;13-Nov-95;United Package;Rp61;Alfred's Futterkiste;Obere Str. 57;Berlin;;12209;Germany
+10693;White Clover Markets;Leverling, Janet;06-Nov-95;20-Nov-95;10-Nov-95;Federal Shipping;Rp139;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10694;QUICK-Stop;Callahan, Laura;06-Nov-95;04-Dec-95;09-Nov-95;Federal Shipping;Rp398;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10695;Wilman Kala;King, Robert;07-Nov-95;19-Dec-95;14-Nov-95;Speedy Express;Rp17;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+10696;White Clover Markets;Callahan, Laura;08-Nov-95;20-Dec-95;14-Nov-95;Federal Shipping;Rp103;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10697;LINO-Delicateses;Leverling, Janet;08-Nov-95;06-Dec-95;14-Nov-95;Speedy Express;Rp46;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10698;Ernst Handel;Peacock, Margaret;09-Nov-95;07-Dec-95;17-Nov-95;Speedy Express;Rp272;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10699;Morgenstern Gesundkost;Leverling, Janet;09-Nov-95;07-Dec-95;13-Nov-95;Federal Shipping;Rp1;Morgenstern Gesundkost;Heerstr. 22;Leipzig;;4179;Germany
+10700;Save-a-lot Markets;Leverling, Janet;10-Nov-95;08-Dec-95;16-Nov-95;Speedy Express;Rp65;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10701;Hungry Owl All-Night Grocers;Suyama, Michael;13-Nov-95;27-Nov-95;15-Nov-95;Federal Shipping;Rp220;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10702;Alfreds Futterkiste;Peacock, Margaret;13-Nov-95;25-Dec-95;21-Nov-95;Speedy Express;Rp24;Alfred's Futterkiste;Obere Str. 57;Berlin;;12209;Germany
+10703;Folk och f HB;Suyama, Michael;14-Nov-95;12-Dec-95;20-Nov-95;United Package;Rp152;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10704;Queen Cozinha;Suyama, Michael;14-Nov-95;12-Dec-95;08-Dec-95;Speedy Express;Rp5;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10705;HILARIN-Abastos;Dodsworth, Anne;15-Nov-95;13-Dec-95;19-Dec-95;United Package;Rp4;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10706;Old World Delicatessen;Callahan, Laura;16-Nov-95;14-Dec-95;21-Nov-95;Federal Shipping;Rp136;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10707;Around the Horn;Peacock, Margaret;16-Nov-95;30-Nov-95;23-Nov-95;Federal Shipping;Rp22;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10708;The Big Cheese;Suyama, Michael;17-Nov-95;29-Dec-95;06-Dec-95;United Package;Rp3;The Big Cheese;"89 Jefferson Way
+Suite 2";Portland;OR;97201;USA
+10709;Gourmet Lanchonetes;Davolio, Nancy;17-Nov-95;15-Dec-95;21-Dec-95;Federal Shipping;Rp211;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10710;Franchi S.p.A.;Davolio, Nancy;20-Nov-95;18-Dec-95;23-Nov-95;Speedy Express;Rp5;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+10711;Save-a-lot Markets;Buchanan, Steven;21-Nov-95;02-Jan-96;29-Nov-95;United Package;Rp52;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10712;Hungry Owl All-Night Grocers;Leverling, Janet;21-Nov-95;19-Dec-95;01-Dec-95;Speedy Express;Rp90;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10713;Save-a-lot Markets;Davolio, Nancy;22-Nov-95;20-Dec-95;24-Nov-95;Speedy Express;Rp167;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10714;Save-a-lot Markets;Buchanan, Steven;22-Nov-95;20-Dec-95;27-Nov-95;Federal Shipping;Rp24;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10715;Bon app';Leverling, Janet;23-Nov-95;07-Dec-95;29-Nov-95;Speedy Express;Rp63;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10716;Rancho grande;Peacock, Margaret;24-Nov-95;22-Dec-95;27-Nov-95;United Package;Rp23;Rancho grande;Av. del Libertador 900;Buenos Aires;;1010;Argentina
+10717;Frankenversand;Davolio, Nancy;24-Nov-95;22-Dec-95;29-Nov-95;United Package;Rp59;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10718;Kniglich Essen;Davolio, Nancy;27-Nov-95;25-Dec-95;29-Nov-95;Federal Shipping;Rp171;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10719;Let's Stop N Shop;Callahan, Laura;27-Nov-95;25-Dec-95;06-Dec-95;United Package;Rp51;Let's Stop N Shop;"87 Polk St.
+Suite 5";San Francisco;CA;94117;USA
+10720;Que Delcia;Callahan, Laura;28-Nov-95;12-Dec-95;06-Dec-95;United Package;Rp10;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10721;QUICK-Stop;Buchanan, Steven;29-Nov-95;27-Dec-95;01-Dec-95;Federal Shipping;Rp49;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10722;Save-a-lot Markets;Callahan, Laura;29-Nov-95;10-Jan-96;05-Dec-95;Speedy Express;Rp75;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10723;White Clover Markets;Leverling, Janet;30-Nov-95;28-Dec-95;26-Dec-95;Speedy Express;Rp22;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10724;Mre Paillarde;Callahan, Laura;30-Nov-95;11-Jan-96;06-Dec-95;United Package;Rp58;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10725;Familia Arquibaldo;Peacock, Margaret;01-Dec-95;29-Dec-95;06-Dec-95;Federal Shipping;Rp11;Familia Arquibaldo;Rua Ors, 92;So Paulo;SP;05442-030;Brazil
+10726;Eastern Connection;Peacock, Margaret;04-Dec-95;18-Dec-95;05-Jan-96;Speedy Express;Rp17;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10727;Reggiani Caseifici;Fuller, Andrew;04-Dec-95;01-Jan-96;05-Jan-96;Speedy Express;Rp90;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10728;Queen Cozinha;Peacock, Margaret;05-Dec-95;02-Jan-96;12-Dec-95;United Package;Rp58;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10729;LINO-Delicateses;Callahan, Laura;05-Dec-95;16-Jan-96;15-Dec-95;Federal Shipping;Rp141;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10730;Bon app';Buchanan, Steven;06-Dec-95;03-Jan-96;15-Dec-95;Speedy Express;Rp20;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10731;Chop-suey Chinese;King, Robert;07-Dec-95;04-Jan-96;15-Dec-95;Speedy Express;Rp97;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10732;Bon app';Leverling, Janet;07-Dec-95;04-Jan-96;08-Dec-95;Speedy Express;Rp17;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10733;Berglunds snabbkp;Davolio, Nancy;08-Dec-95;05-Jan-96;11-Dec-95;Federal Shipping;Rp110;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10734;Gourmet Lanchonetes;Fuller, Andrew;08-Dec-95;05-Jan-96;13-Dec-95;Federal Shipping;Rp2;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10735;Let's Stop N Shop;Suyama, Michael;11-Dec-95;08-Jan-96;22-Dec-95;United Package;Rp46;Let's Stop N Shop;"87 Polk St.
+Suite 5";San Francisco;CA;94117;USA
+10736;Hungry Owl All-Night Grocers;Dodsworth, Anne;12-Dec-95;09-Jan-96;22-Dec-95;United Package;Rp44;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10737;Vins et alcools Chevalier;Fuller, Andrew;12-Dec-95;09-Jan-96;19-Dec-95;United Package;Rp8;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;;51100;France
+10738;Spcialits du monde;Fuller, Andrew;13-Dec-95;10-Jan-96;19-Dec-95;Speedy Express;Rp3;Spcialits du monde;25, rue Lauriston;Paris;;75016;France
+10739;Vins et alcools Chevalier;Leverling, Janet;13-Dec-95;10-Jan-96;18-Dec-95;Federal Shipping;Rp11;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;;51100;France
+10740;White Clover Markets;Peacock, Margaret;14-Dec-95;11-Jan-96;26-Dec-95;United Package;Rp82;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10741;Around the Horn;Peacock, Margaret;15-Dec-95;29-Dec-95;19-Dec-95;Federal Shipping;Rp11;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10742;Bottom-Dollar Markets;Leverling, Janet;15-Dec-95;12-Jan-96;19-Dec-95;Federal Shipping;Rp244;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10743;Around the Horn;Davolio, Nancy;18-Dec-95;15-Jan-96;22-Dec-95;United Package;Rp24;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10744;Vaffeljernet;Suyama, Michael;18-Dec-95;15-Jan-96;25-Dec-95;Speedy Express;Rp69;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10745;QUICK-Stop;Dodsworth, Anne;19-Dec-95;16-Jan-96;28-Dec-95;Speedy Express;Rp4;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10746;Chop-suey Chinese;Davolio, Nancy;20-Dec-95;17-Jan-96;22-Dec-95;Federal Shipping;Rp31;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10747;Piccolo und mehr;Suyama, Michael;20-Dec-95;17-Jan-96;27-Dec-95;Speedy Express;Rp117;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10748;Save-a-lot Markets;Leverling, Janet;21-Dec-95;18-Jan-96;29-Dec-95;Speedy Express;Rp233;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10749;Island Trading;Peacock, Margaret;21-Dec-95;18-Jan-96;19-Jan-96;United Package;Rp62;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10750;Wartian Herkku;Dodsworth, Anne;22-Dec-95;19-Jan-96;25-Dec-95;Speedy Express;Rp79;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10751;Richter Supermarkt;Leverling, Janet;25-Dec-95;22-Jan-96;03-Jan-96;Federal Shipping;Rp131;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10752;North/South;Fuller, Andrew;25-Dec-95;22-Jan-96;29-Dec-95;Federal Shipping;Rp1;North/South;"South House
+300 Queensbridge";London;;SW7 1RZ;UK
+10753;Franchi S.p.A.;Leverling, Janet;26-Dec-95;23-Jan-96;28-Dec-95;Speedy Express;Rp8;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+10754;Magazzini Alimentari Riuniti;Suyama, Michael;26-Dec-95;23-Jan-96;28-Dec-95;Federal Shipping;Rp2;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10755;Bon app';Peacock, Margaret;27-Dec-95;24-Jan-96;29-Dec-95;United Package;Rp17;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10756;Split Rail Beer & Ale;Callahan, Laura;28-Dec-95;25-Jan-96;02-Jan-96;United Package;Rp73;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10757;Save-a-lot Markets;Suyama, Michael;28-Dec-95;25-Jan-96;15-Jan-96;Speedy Express;Rp8;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10758;Richter Supermarkt;Leverling, Janet;29-Dec-95;26-Jan-96;04-Jan-96;Federal Shipping;Rp138;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10759;Ana Trujillo Emparedados y helados;Leverling, Janet;29-Dec-95;26-Jan-96;12-Jan-96;Federal Shipping;Rp12;Ana Trujillo Emparedados y helados;Avda. de la Constitucin 2222;Mxico D.F.;;5021;Mexico
+10760;Maison Dewey;Peacock, Margaret;01-Jan-96;29-Jan-96;10-Jan-96;Speedy Express;Rp156;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10761;Rattlesnake Canyon Grocery;Buchanan, Steven;02-Jan-96;30-Jan-96;08-Jan-96;United Package;Rp19;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10762;Folk och f HB;Leverling, Janet;02-Jan-96;30-Jan-96;09-Jan-96;Speedy Express;Rp329;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10763;Folies gourmandes;Leverling, Janet;03-Jan-96;31-Jan-96;08-Jan-96;Federal Shipping;Rp37;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10764;Ernst Handel;Suyama, Michael;03-Jan-96;31-Jan-96;08-Jan-96;Federal Shipping;Rp145;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10765;QUICK-Stop;Leverling, Janet;04-Jan-96;01-Feb-96;09-Jan-96;Federal Shipping;Rp43;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10766;Ottilies Kseladen;Peacock, Margaret;05-Jan-96;02-Feb-96;09-Jan-96;Speedy Express;Rp158;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10767;Suprmes dlices;Peacock, Margaret;05-Jan-96;02-Feb-96;15-Jan-96;Federal Shipping;Rp2;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10768;Around the Horn;Leverling, Janet;08-Jan-96;05-Feb-96;15-Jan-96;United Package;Rp146;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10769;Vaffeljernet;Leverling, Janet;08-Jan-96;05-Feb-96;12-Jan-96;Speedy Express;Rp65;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10770;Hanari Carnes;Callahan, Laura;09-Jan-96;06-Feb-96;17-Jan-96;Federal Shipping;Rp5;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10771;Ernst Handel;Dodsworth, Anne;10-Jan-96;07-Feb-96;02-Feb-96;United Package;Rp11;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10772;Lehmanns Marktstand;Leverling, Janet;10-Jan-96;07-Feb-96;19-Jan-96;United Package;Rp91;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10773;Ernst Handel;Davolio, Nancy;11-Jan-96;08-Feb-96;16-Jan-96;Federal Shipping;Rp96;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10774;Folk och f HB;Peacock, Margaret;11-Jan-96;25-Jan-96;12-Jan-96;Speedy Express;Rp48;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10775;The Cracker Box;King, Robert;12-Jan-96;09-Feb-96;26-Jan-96;Speedy Express;Rp20;The Cracker Box;55 Grizzly Peak Rd.;Butte;MT;59801;USA
+10776;Ernst Handel;Davolio, Nancy;15-Jan-96;12-Feb-96;18-Jan-96;Federal Shipping;Rp352;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10777;Gourmet Lanchonetes;King, Robert;15-Jan-96;29-Jan-96;21-Feb-96;United Package;Rp3;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10778;Berglunds snabbkp;Leverling, Janet;16-Jan-96;13-Feb-96;24-Jan-96;Speedy Express;Rp7;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10779;Morgenstern Gesundkost;Leverling, Janet;16-Jan-96;13-Feb-96;14-Feb-96;United Package;Rp58;Morgenstern Gesundkost;Heerstr. 22;Leipzig;;4179;Germany
+10780;LILA-Supermercado;Fuller, Andrew;16-Jan-96;30-Jan-96;25-Jan-96;Speedy Express;Rp42;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10781;Wartian Herkku;Fuller, Andrew;17-Jan-96;14-Feb-96;19-Jan-96;Federal Shipping;Rp73;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10782;Cactus Comidas para llevar;Dodsworth, Anne;17-Jan-96;14-Feb-96;22-Jan-96;Federal Shipping;Rp1;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+10783;Hanari Carnes;Peacock, Margaret;18-Jan-96;15-Feb-96;19-Jan-96;United Package;Rp125;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10784;Magazzini Alimentari Riuniti;Peacock, Margaret;18-Jan-96;15-Feb-96;22-Jan-96;Federal Shipping;Rp70;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10785;GROSELLA-Restaurante;Davolio, Nancy;18-Jan-96;15-Feb-96;24-Jan-96;Federal Shipping;Rp2;GROSELLA-Restaurante;5 Ave. Los Palos Grandes;Caracas;DF;1081;Venezuela
+10786;Queen Cozinha;Callahan, Laura;19-Jan-96;16-Feb-96;23-Jan-96;Speedy Express;Rp111;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10787;La maison d'Asie;Fuller, Andrew;19-Jan-96;02-Feb-96;26-Jan-96;Speedy Express;Rp250;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10788;QUICK-Stop;Davolio, Nancy;22-Jan-96;19-Feb-96;19-Feb-96;United Package;Rp43;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10789;Folies gourmandes;Davolio, Nancy;22-Jan-96;19-Feb-96;31-Jan-96;United Package;Rp101;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10790;Gourmet Lanchonetes;Suyama, Michael;22-Jan-96;19-Feb-96;26-Jan-96;Speedy Express;Rp28;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10791;Frankenversand;Suyama, Michael;23-Jan-96;20-Feb-96;01-Feb-96;United Package;Rp17;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10792;Wolski  Zajazd;Davolio, Nancy;23-Jan-96;20-Feb-96;31-Jan-96;Federal Shipping;Rp24;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10793;Around the Horn;Leverling, Janet;24-Jan-96;21-Feb-96;08-Feb-96;Federal Shipping;Rp5;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10794;Que Delcia;Suyama, Michael;24-Jan-96;21-Feb-96;02-Feb-96;Speedy Express;Rp21;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10795;Ernst Handel;Callahan, Laura;24-Jan-96;21-Feb-96;20-Feb-96;United Package;Rp127;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10796;HILARIN-Abastos;Leverling, Janet;25-Jan-96;22-Feb-96;14-Feb-96;Speedy Express;Rp27;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10797;Drachenblut Delikatessen;King, Robert;25-Jan-96;22-Feb-96;05-Feb-96;United Package;Rp33;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+10798;Island Trading;Fuller, Andrew;26-Jan-96;23-Feb-96;05-Feb-96;Speedy Express;Rp2;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10799;Kniglich Essen;Dodsworth, Anne;26-Jan-96;08-Mar-96;05-Feb-96;Federal Shipping;Rp31;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10800;Seven Seas Imports;Davolio, Nancy;26-Jan-96;23-Feb-96;05-Feb-96;Federal Shipping;Rp137;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10801;Blido Comidas preparadas;Peacock, Margaret;29-Jan-96;26-Feb-96;31-Jan-96;United Package;Rp97;Blido Comidas preparadas;C/ Araquil, 67;Madrid;;28023;Spain
+10802;Simons bistro;Peacock, Margaret;29-Jan-96;26-Feb-96;02-Feb-96;United Package;Rp257;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+10803;Wellington Importadora;Peacock, Margaret;30-Jan-96;27-Feb-96;06-Feb-96;Speedy Express;Rp55;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10804;Seven Seas Imports;Suyama, Michael;30-Jan-96;27-Feb-96;07-Feb-96;United Package;Rp27;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10805;The Big Cheese;Fuller, Andrew;30-Jan-96;27-Feb-96;09-Feb-96;Federal Shipping;Rp237;The Big Cheese;"89 Jefferson Way
+Suite 2";Portland;OR;97201;USA
+10806;Victuailles en stock;Leverling, Janet;31-Jan-96;28-Feb-96;05-Feb-96;United Package;Rp22;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10807;Franchi S.p.A.;Peacock, Margaret;31-Jan-96;28-Feb-96;01-Mar-96;Speedy Express;Rp1;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+10808;Old World Delicatessen;Fuller, Andrew;01-Feb-96;29-Feb-96;09-Feb-96;Federal Shipping;Rp46;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10809;Wellington Importadora;King, Robert;01-Feb-96;29-Feb-96;07-Feb-96;Speedy Express;Rp5;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10810;Laughing Bacchus Wine Cellars;Fuller, Andrew;01-Feb-96;29-Feb-96;07-Feb-96;Federal Shipping;Rp4;Laughing Bacchus Wine Cellars;2319 Elm St.;Vancouver;BC;V3F 2K1;Canada
+10811;LINO-Delicateses;Callahan, Laura;02-Feb-96;01-Mar-96;08-Feb-96;Speedy Express;Rp31;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10812;Reggiani Caseifici;Buchanan, Steven;02-Feb-96;01-Mar-96;12-Feb-96;Speedy Express;Rp60;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10813;Ricardo Adocicados;Davolio, Nancy;05-Feb-96;04-Mar-96;09-Feb-96;Speedy Express;Rp47;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10814;Victuailles en stock;Leverling, Janet;05-Feb-96;04-Mar-96;14-Feb-96;Federal Shipping;Rp131;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10815;Save-a-lot Markets;Fuller, Andrew;05-Feb-96;04-Mar-96;14-Feb-96;Federal Shipping;Rp15;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10816;Great Lakes Food Market;Peacock, Margaret;06-Feb-96;05-Mar-96;06-Mar-96;United Package;Rp720;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10817;Kniglich Essen;Leverling, Janet;06-Feb-96;20-Feb-96;13-Feb-96;United Package;Rp306;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10818;Magazzini Alimentari Riuniti;King, Robert;07-Feb-96;06-Mar-96;12-Feb-96;Federal Shipping;Rp65;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10819;Cactus Comidas para llevar;Fuller, Andrew;07-Feb-96;06-Mar-96;16-Feb-96;Federal Shipping;Rp20;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+10820;Rattlesnake Canyon Grocery;Leverling, Janet;07-Feb-96;06-Mar-96;13-Feb-96;United Package;Rp38;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10821;Split Rail Beer & Ale;Davolio, Nancy;08-Feb-96;07-Mar-96;15-Feb-96;Speedy Express;Rp37;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10822;Trail's Head Gourmet Provisioners;Suyama, Michael;08-Feb-96;07-Mar-96;16-Feb-96;Federal Shipping;Rp7;Trail's Head Gourmet Provisioners;722 DaVinci Blvd.;Kirkland;WA;98034;USA
+10823;LILA-Supermercado;Buchanan, Steven;09-Feb-96;08-Mar-96;13-Feb-96;United Package;Rp164;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10824;Folk och f HB;Callahan, Laura;09-Feb-96;08-Mar-96;01-Mar-96;Speedy Express;Rp1;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10825;Drachenblut Delikatessen;Davolio, Nancy;09-Feb-96;08-Mar-96;14-Feb-96;Speedy Express;Rp79;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+10826;Blondel pre et fils;Suyama, Michael;12-Feb-96;11-Mar-96;08-Mar-96;Speedy Express;Rp7;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10827;Bon app';Davolio, Nancy;12-Feb-96;26-Feb-96;08-Mar-96;United Package;Rp64;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10828;Rancho grande;Dodsworth, Anne;13-Feb-96;27-Feb-96;06-Mar-96;Speedy Express;Rp91;Rancho grande;Av. del Libertador 900;Buenos Aires;;1010;Argentina
+10829;Island Trading;Dodsworth, Anne;13-Feb-96;12-Mar-96;23-Feb-96;Speedy Express;Rp155;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10830;Tradio Hipermercados;Peacock, Margaret;13-Feb-96;26-Mar-96;21-Feb-96;United Package;Rp82;Tradio Hipermercados;Av. Ins de Castro, 414;So Paulo;SP;05634-030;Brazil
+10831;Sant Gourmet;Leverling, Janet;14-Feb-96;13-Mar-96;23-Feb-96;United Package;Rp72;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10832;La maison d'Asie;Fuller, Andrew;14-Feb-96;13-Mar-96;19-Feb-96;United Package;Rp43;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10833;Ottilies Kseladen;Suyama, Michael;15-Feb-96;14-Mar-96;23-Feb-96;United Package;Rp71;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10834;Tradio Hipermercados;Davolio, Nancy;15-Feb-96;14-Mar-96;19-Feb-96;Federal Shipping;Rp30;Tradio Hipermercados;Av. Ins de Castro, 414;So Paulo;SP;05634-030;Brazil
+10835;Alfreds Futterkiste;Davolio, Nancy;15-Feb-96;14-Mar-96;21-Feb-96;Federal Shipping;Rp70;Alfred's Futterkiste;Obere Str. 57;Berlin;;12209;Germany
+10836;Ernst Handel;King, Robert;16-Feb-96;15-Mar-96;21-Feb-96;Speedy Express;Rp412;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10837;Berglunds snabbkp;Dodsworth, Anne;16-Feb-96;15-Mar-96;23-Feb-96;Federal Shipping;Rp13;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10838;LINO-Delicateses;Leverling, Janet;19-Feb-96;18-Mar-96;23-Feb-96;Federal Shipping;Rp59;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10839;Tradio Hipermercados;Leverling, Janet;19-Feb-96;18-Mar-96;22-Feb-96;Federal Shipping;Rp35;Tradio Hipermercados;Av. Ins de Castro, 414;So Paulo;SP;05634-030;Brazil
+10840;LINO-Delicateses;Peacock, Margaret;19-Feb-96;01-Apr-96;18-Mar-96;United Package;Rp3;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10841;Suprmes dlices;Buchanan, Steven;20-Feb-96;19-Mar-96;29-Feb-96;United Package;Rp424;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10842;Tortuga Restaurante;Davolio, Nancy;20-Feb-96;19-Mar-96;29-Feb-96;Federal Shipping;Rp54;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10843;Victuailles en stock;Peacock, Margaret;21-Feb-96;20-Mar-96;26-Feb-96;United Package;Rp9;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10844;Piccolo und mehr;Callahan, Laura;21-Feb-96;20-Mar-96;26-Feb-96;United Package;Rp25;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10845;QUICK-Stop;Callahan, Laura;21-Feb-96;06-Mar-96;01-Mar-96;Speedy Express;Rp213;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10846;Suprmes dlices;Fuller, Andrew;22-Feb-96;04-Apr-96;23-Feb-96;Federal Shipping;Rp56;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10847;Save-a-lot Markets;Peacock, Margaret;22-Feb-96;07-Mar-96;12-Mar-96;Federal Shipping;Rp488;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10848;Consolidated Holdings;King, Robert;23-Feb-96;22-Mar-96;29-Feb-96;United Package;Rp38;Consolidated Holdings;"Berkeley Gardens
+12  Brewery";London;;WX1 6LT;UK
+10849;Kniglich Essen;Dodsworth, Anne;23-Feb-96;22-Mar-96;01-Mar-96;United Package;Rp1;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10850;Victuailles en stock;Davolio, Nancy;23-Feb-96;05-Apr-96;01-Mar-96;Speedy Express;Rp49;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10851;Ricardo Adocicados;Buchanan, Steven;26-Feb-96;25-Mar-96;04-Mar-96;Speedy Express;Rp161;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10852;Rattlesnake Canyon Grocery;Callahan, Laura;26-Feb-96;11-Mar-96;01-Mar-96;Speedy Express;Rp174;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10853;Blauer See Delikatessen;Dodsworth, Anne;27-Feb-96;26-Mar-96;05-Mar-96;United Package;Rp54;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10854;Ernst Handel;Leverling, Janet;27-Feb-96;26-Mar-96;07-Mar-96;United Package;Rp100;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10855;Old World Delicatessen;Leverling, Janet;27-Feb-96;26-Mar-96;06-Mar-96;Speedy Express;Rp171;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10856;Antonio Moreno Taquera;Leverling, Janet;28-Feb-96;27-Mar-96;12-Mar-96;United Package;Rp58;Antonio Moreno Taquera;Mataderos  2312;Mxico D.F.;;5023;Mexico
+10857;Berglunds snabbkp;Callahan, Laura;28-Feb-96;27-Mar-96;08-Mar-96;United Package;Rp189;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10858;La corne d'abondance;Fuller, Andrew;29-Feb-96;28-Mar-96;05-Mar-96;Speedy Express;Rp53;La corne d'abondance;67, avenue de l'Europe;Versailles;;78000;France
+10859;Frankenversand;Davolio, Nancy;29-Feb-96;28-Mar-96;04-Mar-96;United Package;Rp76;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10860;France restauration;Leverling, Janet;29-Feb-96;28-Mar-96;06-Mar-96;Federal Shipping;Rp19;France restauration;54, rue Royale;Nantes;;44000;France
+10861;White Clover Markets;Peacock, Margaret;01-Mar-96;29-Mar-96;19-Mar-96;United Package;Rp15;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10862;Lehmanns Marktstand;Callahan, Laura;01-Mar-96;12-Apr-96;04-Mar-96;United Package;Rp53;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10863;HILARIN-Abastos;Peacock, Margaret;04-Mar-96;01-Apr-96;19-Mar-96;United Package;Rp30;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10864;Around the Horn;Peacock, Margaret;04-Mar-96;01-Apr-96;11-Mar-96;United Package;Rp3;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10865;QUICK-Stop;Fuller, Andrew;04-Mar-96;18-Mar-96;14-Mar-96;Speedy Express;Rp348;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10866;Berglunds snabbkp;Buchanan, Steven;05-Mar-96;02-Apr-96;14-Mar-96;Speedy Express;Rp109;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10867;Lonesome Pine Restaurant;Suyama, Michael;05-Mar-96;16-Apr-96;13-Mar-96;Speedy Express;Rp2;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10868;Queen Cozinha;King, Robert;06-Mar-96;03-Apr-96;25-Mar-96;United Package;Rp191;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10869;Seven Seas Imports;Buchanan, Steven;06-Mar-96;03-Apr-96;11-Mar-96;Speedy Express;Rp143;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10870;Wolski  Zajazd;Buchanan, Steven;06-Mar-96;03-Apr-96;15-Mar-96;Federal Shipping;Rp12;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10871;Bon app';Dodsworth, Anne;07-Mar-96;04-Apr-96;12-Mar-96;United Package;Rp112;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10872;Godos Cocina Tpica;Buchanan, Steven;07-Mar-96;04-Apr-96;11-Mar-96;United Package;Rp175;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10873;Wilman Kala;Peacock, Margaret;08-Mar-96;05-Apr-96;11-Mar-96;Speedy Express;Rp1;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+10874;Godos Cocina Tpica;Buchanan, Steven;08-Mar-96;05-Apr-96;13-Mar-96;United Package;Rp20;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10875;Berglunds snabbkp;Peacock, Margaret;08-Mar-96;05-Apr-96;02-Apr-96;United Package;Rp32;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10876;Bon app';King, Robert;11-Mar-96;08-Apr-96;14-Mar-96;Federal Shipping;Rp60;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10877;Ricardo Adocicados;Davolio, Nancy;11-Mar-96;08-Apr-96;21-Mar-96;Speedy Express;Rp38;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10878;QUICK-Stop;Peacock, Margaret;12-Mar-96;09-Apr-96;14-Mar-96;Speedy Express;Rp47;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10879;Wilman Kala;Leverling, Janet;12-Mar-96;09-Apr-96;14-Mar-96;Federal Shipping;Rp9;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+10880;Folk och f HB;King, Robert;12-Mar-96;23-Apr-96;20-Mar-96;Speedy Express;Rp88;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10881;Cactus Comidas para llevar;Peacock, Margaret;13-Mar-96;10-Apr-96;20-Mar-96;Speedy Express;Rp3;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+10882;Save-a-lot Markets;Peacock, Margaret;13-Mar-96;10-Apr-96;22-Mar-96;Federal Shipping;Rp23;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10883;Lonesome Pine Restaurant;Callahan, Laura;14-Mar-96;11-Apr-96;22-Mar-96;Federal Shipping;Rp1;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10884;Let's Stop N Shop;Peacock, Margaret;14-Mar-96;11-Apr-96;15-Mar-96;United Package;Rp91;Let's Stop N Shop;"87 Polk St.
+Suite 5";San Francisco;CA;94117;USA
+10885;Suprmes dlices;Suyama, Michael;14-Mar-96;11-Apr-96;20-Mar-96;Federal Shipping;Rp6;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10886;Hanari Carnes;Davolio, Nancy;15-Mar-96;12-Apr-96;01-Apr-96;Speedy Express;Rp5;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10887;Galera del gastrnomo;Callahan, Laura;15-Mar-96;12-Apr-96;18-Mar-96;Federal Shipping;Rp1;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10888;Godos Cocina Tpica;Davolio, Nancy;18-Mar-96;15-Apr-96;25-Mar-96;United Package;Rp52;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10889;Rattlesnake Canyon Grocery;Dodsworth, Anne;18-Mar-96;15-Apr-96;25-Mar-96;Federal Shipping;Rp281;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10890;Du monde entier;King, Robert;18-Mar-96;15-Apr-96;20-Mar-96;Speedy Express;Rp33;Du monde entier;67, rue des Cinquante Otages;Nantes;;44000;France
+10891;Lehmanns Marktstand;King, Robert;19-Mar-96;16-Apr-96;21-Mar-96;United Package;Rp20;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10892;Maison Dewey;Peacock, Margaret;19-Mar-96;16-Apr-96;21-Mar-96;United Package;Rp120;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10893;Kniglich Essen;Dodsworth, Anne;20-Mar-96;17-Apr-96;22-Mar-96;United Package;Rp78;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10894;Save-a-lot Markets;Davolio, Nancy;20-Mar-96;17-Apr-96;22-Mar-96;Speedy Express;Rp116;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10895;Ernst Handel;Leverling, Janet;20-Mar-96;17-Apr-96;25-Mar-96;Speedy Express;Rp163;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10896;Maison Dewey;King, Robert;21-Mar-96;18-Apr-96;29-Mar-96;Federal Shipping;Rp32;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10897;Hungry Owl All-Night Grocers;Leverling, Janet;21-Mar-96;18-Apr-96;27-Mar-96;United Package;Rp604;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10898;Ocano Atlntico Ltda.;Peacock, Margaret;22-Mar-96;19-Apr-96;05-Apr-96;United Package;Rp1;Ocano Atlntico Ltda.;"Ing. Gustavo Moncada 8585
+Piso 20-A";Buenos Aires;;1010;Argentina
+10899;LILA-Supermercado;Buchanan, Steven;22-Mar-96;19-Apr-96;28-Mar-96;Federal Shipping;Rp1;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10900;Wellington Importadora;Davolio, Nancy;22-Mar-96;19-Apr-96;03-Apr-96;United Package;Rp2;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10901;HILARIN-Abastos;Peacock, Margaret;25-Mar-96;22-Apr-96;28-Mar-96;Speedy Express;Rp62;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10902;Folk och f HB;Davolio, Nancy;25-Mar-96;22-Apr-96;02-Apr-96;Speedy Express;Rp44;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10903;Hanari Carnes;Leverling, Janet;26-Mar-96;23-Apr-96;03-Apr-96;Federal Shipping;Rp37;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10904;White Clover Markets;Leverling, Janet;26-Mar-96;23-Apr-96;29-Mar-96;Federal Shipping;Rp163;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10905;Wellington Importadora;Dodsworth, Anne;26-Mar-96;23-Apr-96;05-Apr-96;United Package;Rp14;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10906;Wolski  Zajazd;Peacock, Margaret;27-Mar-96;10-Apr-96;02-Apr-96;Federal Shipping;Rp26;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10907;Spcialits du monde;Suyama, Michael;27-Mar-96;24-Apr-96;29-Mar-96;Federal Shipping;Rp9;Spcialits du monde;25, rue Lauriston;Paris;;75016;France
+10908;Reggiani Caseifici;Peacock, Margaret;28-Mar-96;25-Apr-96;05-Apr-96;United Package;Rp33;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10909;Sant Gourmet;Davolio, Nancy;28-Mar-96;25-Apr-96;09-Apr-96;United Package;Rp53;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10910;Wilman Kala;Davolio, Nancy;28-Mar-96;25-Apr-96;03-Apr-96;Federal Shipping;Rp38;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+10911;Godos Cocina Tpica;Leverling, Janet;28-Mar-96;25-Apr-96;04-Apr-96;Speedy Express;Rp38;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10912;Hungry Owl All-Night Grocers;Fuller, Andrew;28-Mar-96;25-Apr-96;17-Apr-96;United Package;Rp581;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10913;Queen Cozinha;Peacock, Margaret;28-Mar-96;25-Apr-96;03-Apr-96;Speedy Express;Rp33;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10914;Queen Cozinha;Suyama, Michael;29-Mar-96;26-Apr-96;01-Apr-96;Speedy Express;Rp21;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10915;Tortuga Restaurante;Fuller, Andrew;29-Mar-96;26-Apr-96;01-Apr-96;United Package;Rp4;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10916;Rancho grande;Davolio, Nancy;29-Mar-96;26-Apr-96;08-Apr-96;United Package;Rp64;Rancho grande;Av. del Libertador 900;Buenos Aires;;1010;Argentina
+10917;Romero y tomillo;Peacock, Margaret;01-Apr-96;29-Apr-96;10-Apr-96;United Package;Rp8;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10918;Bottom-Dollar Markets;Leverling, Janet;01-Apr-96;29-Apr-96;10-Apr-96;Federal Shipping;Rp49;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10919;LINO-Delicateses;Fuller, Andrew;01-Apr-96;29-Apr-96;03-Apr-96;United Package;Rp20;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10920;Around the Horn;Peacock, Margaret;02-Apr-96;30-Apr-96;08-Apr-96;United Package;Rp30;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10921;Vaffeljernet;Davolio, Nancy;02-Apr-96;14-May-96;08-Apr-96;Speedy Express;Rp176;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10922;Hanari Carnes;Buchanan, Steven;02-Apr-96;30-Apr-96;04-Apr-96;Federal Shipping;Rp63;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10923;La maison d'Asie;King, Robert;02-Apr-96;14-May-96;12-Apr-96;Federal Shipping;Rp68;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10924;Berglunds snabbkp;Leverling, Janet;03-Apr-96;01-May-96;08-May-96;United Package;Rp152;Berglunds snabbkp;Berguvsvgen  8;Lule;;S-958 22;Sweden
+10925;Hanari Carnes;Leverling, Janet;03-Apr-96;01-May-96;12-Apr-96;Speedy Express;Rp2;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10926;Ana Trujillo Emparedados y helados;Peacock, Margaret;03-Apr-96;01-May-96;10-Apr-96;Federal Shipping;Rp40;Ana Trujillo Emparedados y helados;Avda. de la Constitucin 2222;Mxico D.F.;;5021;Mexico
+10927;La corne d'abondance;Peacock, Margaret;04-Apr-96;02-May-96;08-May-96;Speedy Express;Rp20;La corne d'abondance;67, avenue de l'Europe;Versailles;;78000;France
+10928;Galera del gastrnomo;Davolio, Nancy;04-Apr-96;02-May-96;17-Apr-96;Speedy Express;Rp1;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10929;Frankenversand;Suyama, Michael;04-Apr-96;02-May-96;11-Apr-96;Speedy Express;Rp34;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10930;Suprmes dlices;Peacock, Margaret;05-Apr-96;17-May-96;17-Apr-96;Federal Shipping;Rp16;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10931;Richter Supermarkt;Peacock, Margaret;05-Apr-96;19-Apr-96;18-Apr-96;United Package;Rp14;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10932;Bon app';Callahan, Laura;05-Apr-96;03-May-96;23-Apr-96;Speedy Express;Rp135;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10933;Island Trading;Suyama, Michael;05-Apr-96;03-May-96;15-Apr-96;Federal Shipping;Rp54;Island Trading;"Garden House
+Crowther Way";Cowes;Isle of Wight;PO31 7PJ;UK
+10934;Lehmanns Marktstand;Leverling, Janet;08-Apr-96;06-May-96;11-Apr-96;Federal Shipping;Rp32;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10935;Wellington Importadora;Peacock, Margaret;08-Apr-96;06-May-96;17-Apr-96;Federal Shipping;Rp48;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10936;Great Lakes Food Market;Leverling, Janet;08-Apr-96;06-May-96;17-Apr-96;United Package;Rp34;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10937;Cactus Comidas para llevar;King, Robert;09-Apr-96;23-Apr-96;12-Apr-96;Federal Shipping;Rp32;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+10938;QUICK-Stop;Leverling, Janet;09-Apr-96;07-May-96;15-Apr-96;United Package;Rp32;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10939;Magazzini Alimentari Riuniti;Fuller, Andrew;09-Apr-96;07-May-96;12-Apr-96;United Package;Rp76;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10940;Bon app';Callahan, Laura;10-Apr-96;08-May-96;22-Apr-96;Federal Shipping;Rp20;Bon app';12, rue des Bouchers;Marseille;;13008;France
+10941;Save-a-lot Markets;King, Robert;10-Apr-96;08-May-96;19-Apr-96;United Package;Rp401;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10942;Reggiani Caseifici;Dodsworth, Anne;10-Apr-96;08-May-96;17-Apr-96;Federal Shipping;Rp18;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10943;B's Beverages;Peacock, Margaret;10-Apr-96;08-May-96;18-Apr-96;United Package;Rp2;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10944;Bottom-Dollar Markets;Suyama, Michael;11-Apr-96;25-Apr-96;12-Apr-96;Federal Shipping;Rp53;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10945;Morgenstern Gesundkost;Peacock, Margaret;11-Apr-96;09-May-96;17-Apr-96;Speedy Express;Rp10;Morgenstern Gesundkost;Heerstr. 22;Leipzig;;4179;Germany
+10946;Vaffeljernet;Davolio, Nancy;11-Apr-96;09-May-96;18-Apr-96;United Package;Rp27;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10947;B's Beverages;Leverling, Janet;12-Apr-96;10-May-96;15-Apr-96;United Package;Rp3;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10948;Godos Cocina Tpica;Leverling, Janet;12-Apr-96;10-May-96;18-Apr-96;Federal Shipping;Rp23;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10949;Bottom-Dollar Markets;Fuller, Andrew;12-Apr-96;10-May-96;16-Apr-96;Federal Shipping;Rp74;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10950;Magazzini Alimentari Riuniti;Davolio, Nancy;15-Apr-96;13-May-96;22-Apr-96;United Package;Rp3;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10951;Richter Supermarkt;Dodsworth, Anne;15-Apr-96;27-May-96;07-May-96;United Package;Rp31;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10952;Alfreds Futterkiste;Davolio, Nancy;15-Apr-96;27-May-96;23-Apr-96;Speedy Express;Rp40;Alfred's Futterkiste;Obere Str. 57;Berlin;;12209;Germany
+10953;Around the Horn;Dodsworth, Anne;15-Apr-96;29-Apr-96;24-Apr-96;United Package;Rp24;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+10954;LINO-Delicateses;Buchanan, Steven;16-Apr-96;28-May-96;19-Apr-96;Speedy Express;Rp28;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10955;Folk och f HB;Callahan, Laura;16-Apr-96;14-May-96;19-Apr-96;United Package;Rp3;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10956;Blauer See Delikatessen;Suyama, Michael;16-Apr-96;28-May-96;19-Apr-96;United Package;Rp45;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10957;HILARIN-Abastos;Callahan, Laura;17-Apr-96;15-May-96;26-Apr-96;Federal Shipping;Rp105;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10958;Ocano Atlntico Ltda.;King, Robert;17-Apr-96;15-May-96;26-Apr-96;United Package;Rp50;Ocano Atlntico Ltda.;"Ing. Gustavo Moncada 8585
+Piso 20-A";Buenos Aires;;1010;Argentina
+10959;Gourmet Lanchonetes;Suyama, Michael;17-Apr-96;29-May-96;22-Apr-96;United Package;Rp5;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10960;HILARIN-Abastos;Leverling, Janet;18-Apr-96;02-May-96;08-May-96;Speedy Express;Rp2;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10961;Queen Cozinha;Callahan, Laura;18-Apr-96;16-May-96;29-Apr-96;Speedy Express;Rp104;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+10962;QUICK-Stop;Callahan, Laura;18-Apr-96;16-May-96;22-Apr-96;United Package;Rp276;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10963;Furia Bacalhau e Frutos do Mar;Dodsworth, Anne;18-Apr-96;16-May-96;25-Apr-96;Federal Shipping;Rp3;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10964;Spcialits du monde;Leverling, Janet;19-Apr-96;17-May-96;23-Apr-96;United Package;Rp87;Spcialits du monde;25, rue Lauriston;Paris;;75016;France
+10965;Old World Delicatessen;Suyama, Michael;19-Apr-96;17-May-96;29-Apr-96;Federal Shipping;Rp144;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10966;Chop-suey Chinese;Peacock, Margaret;19-Apr-96;17-May-96;08-May-96;Speedy Express;Rp27;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10967;Toms Spezialitten;Fuller, Andrew;22-Apr-96;20-May-96;02-May-96;United Package;Rp62;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10968;Ernst Handel;Davolio, Nancy;22-Apr-96;20-May-96;01-May-96;Federal Shipping;Rp75;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10969;Comrcio Mineiro;Davolio, Nancy;22-Apr-96;20-May-96;29-Apr-96;United Package;Rp0;Comrcio Mineiro;Av. dos Lusadas, 23;So Paulo;SP;05432-043;Brazil
+10970;Blido Comidas preparadas;Dodsworth, Anne;23-Apr-96;07-May-96;24-May-96;Speedy Express;Rp16;Blido Comidas preparadas;C/ Araquil, 67;Madrid;;28023;Spain
+10971;France restauration;Fuller, Andrew;23-Apr-96;21-May-96;02-May-96;United Package;Rp122;France restauration;54, rue Royale;Nantes;;44000;France
+10972;La corne d'abondance;Peacock, Margaret;23-Apr-96;21-May-96;25-Apr-96;United Package;Rp0;La corne d'abondance;67, avenue de l'Europe;Versailles;;78000;France
+10973;La corne d'abondance;Suyama, Michael;23-Apr-96;21-May-96;26-Apr-96;United Package;Rp15;La corne d'abondance;67, avenue de l'Europe;Versailles;;78000;France
+10974;Split Rail Beer & Ale;Leverling, Janet;24-Apr-96;08-May-96;03-May-96;Federal Shipping;Rp13;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10975;Bottom-Dollar Markets;Davolio, Nancy;24-Apr-96;22-May-96;26-Apr-96;Federal Shipping;Rp32;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10976;HILARIN-Abastos;Davolio, Nancy;24-Apr-96;05-Jun-96;03-May-96;Speedy Express;Rp38;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10977;Folk och f HB;Callahan, Laura;25-Apr-96;23-May-96;10-May-96;Federal Shipping;Rp209;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10978;Maison Dewey;Dodsworth, Anne;25-Apr-96;23-May-96;23-May-96;United Package;Rp33;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10979;Ernst Handel;Callahan, Laura;25-Apr-96;23-May-96;30-Apr-96;United Package;Rp353;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10980;Folk och f HB;Peacock, Margaret;26-Apr-96;07-Jun-96;17-May-96;Speedy Express;Rp1;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10981;Hanari Carnes;Davolio, Nancy;26-Apr-96;24-May-96;02-May-96;United Package;Rp193;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10982;Bottom-Dollar Markets;Fuller, Andrew;26-Apr-96;24-May-96;08-May-96;Speedy Express;Rp14;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10983;Save-a-lot Markets;Fuller, Andrew;26-Apr-96;24-May-96;06-May-96;United Package;Rp658;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10984;Save-a-lot Markets;Davolio, Nancy;29-Apr-96;27-May-96;03-May-96;Federal Shipping;Rp211;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10985;Hungry Owl All-Night Grocers;Fuller, Andrew;29-Apr-96;27-May-96;02-May-96;Speedy Express;Rp92;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10986;Ocano Atlntico Ltda.;Callahan, Laura;29-Apr-96;27-May-96;21-May-96;United Package;Rp218;Ocano Atlntico Ltda.;"Ing. Gustavo Moncada 8585
+Piso 20-A";Buenos Aires;;1010;Argentina
+10987;Eastern Connection;Callahan, Laura;30-Apr-96;28-May-96;06-May-96;Speedy Express;Rp185;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10988;Rattlesnake Canyon Grocery;Leverling, Janet;30-Apr-96;28-May-96;10-May-96;United Package;Rp61;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10989;Que Delcia;Fuller, Andrew;30-Apr-96;28-May-96;02-May-96;Speedy Express;Rp35;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10990;Ernst Handel;Fuller, Andrew;01-May-96;12-Jun-96;07-May-96;Federal Shipping;Rp118;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10991;QUICK-Stop;Davolio, Nancy;01-May-96;29-May-96;07-May-96;Speedy Express;Rp39;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10992;The Big Cheese;Davolio, Nancy;01-May-96;29-May-96;03-May-96;Federal Shipping;Rp4;The Big Cheese;"89 Jefferson Way
+Suite 2";Portland;OR;97201;USA
+10993;Folk och f HB;King, Robert;01-May-96;29-May-96;10-May-96;Federal Shipping;Rp9;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10994;Vaffeljernet;Fuller, Andrew;02-May-96;16-May-96;09-May-96;Federal Shipping;Rp66;Vaffeljernet;Smagslget 45;rhus;;8200;Denmark
+10995;Pericles Comidas clsicas;Davolio, Nancy;02-May-96;30-May-96;06-May-96;Federal Shipping;Rp46;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10996;QUICK-Stop;Peacock, Margaret;02-May-96;30-May-96;10-May-96;United Package;Rp1;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10997;LILA-Supermercado;Callahan, Laura;03-May-96;14-Jun-96;13-May-96;United Package;Rp74;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10998;Wolski  Zajazd;Callahan, Laura;03-May-96;17-May-96;17-May-96;United Package;Rp20;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10999;Ottilies Kseladen;Suyama, Michael;03-May-96;31-May-96;10-May-96;United Package;Rp96;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+11000;Rattlesnake Canyon Grocery;Fuller, Andrew;06-May-96;03-Jun-96;14-May-96;Federal Shipping;Rp55;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+11001;Folk och f HB;Fuller, Andrew;06-May-96;03-Jun-96;14-May-96;United Package;Rp197;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+11002;Save-a-lot Markets;Peacock, Margaret;06-May-96;03-Jun-96;16-May-96;Speedy Express;Rp141;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+11003;The Cracker Box;Leverling, Janet;06-May-96;03-Jun-96;08-May-96;Federal Shipping;Rp15;The Cracker Box;55 Grizzly Peak Rd.;Butte;MT;59801;USA
+11004;Maison Dewey;Leverling, Janet;07-May-96;04-Jun-96;20-May-96;Speedy Express;Rp45;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+11005;Wilman Kala;Fuller, Andrew;07-May-96;04-Jun-96;10-May-96;Speedy Express;Rp1;Wilman Kala;Keskuskatu 45;Helsinki;;21240;Finland
+11006;Great Lakes Food Market;Leverling, Janet;07-May-96;04-Jun-96;15-May-96;United Package;Rp25;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+11007;Princesa Isabel Vinhos;Callahan, Laura;08-May-96;05-Jun-96;13-May-96;United Package;Rp202;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+11008;Ernst Handel;King, Robert;08-May-96;05-Jun-96;;Federal Shipping;Rp79;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+11009;Godos Cocina Tpica;Fuller, Andrew;08-May-96;05-Jun-96;10-May-96;Speedy Express;Rp59;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+11010;Reggiani Caseifici;Fuller, Andrew;09-May-96;06-Jun-96;21-May-96;United Package;Rp29;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+11011;Alfreds Futterkiste;Leverling, Janet;09-May-96;06-Jun-96;13-May-96;Speedy Express;Rp1;Alfred's Futterkiste;Obere Str. 57;Berlin;;12209;Germany
+11012;Frankenversand;Davolio, Nancy;09-May-96;23-May-96;17-May-96;Federal Shipping;Rp243;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+11013;Romero y tomillo;Fuller, Andrew;09-May-96;06-Jun-96;10-May-96;Speedy Express;Rp33;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+11014;LINO-Delicateses;Fuller, Andrew;10-May-96;07-Jun-96;15-May-96;Federal Shipping;Rp24;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+11015;Sant Gourmet;Fuller, Andrew;10-May-96;24-May-96;20-May-96;United Package;Rp5;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+11016;Around the Horn;Dodsworth, Anne;10-May-96;07-Jun-96;13-May-96;United Package;Rp34;Around the Horn;"Brook Farm
+Stratford St. Mary";Colchester;Essex;CO7 6JX;UK
+11017;Ernst Handel;Dodsworth, Anne;13-May-96;10-Jun-96;20-May-96;United Package;Rp754;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+11018;Lonesome Pine Restaurant;Peacock, Margaret;13-May-96;10-Jun-96;16-May-96;United Package;Rp12;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+11019;Rancho grande;Suyama, Michael;13-May-96;10-Jun-96;;Federal Shipping;Rp3;Rancho grande;Av. del Libertador 900;Buenos Aires;;1010;Argentina
+11020;Ottilies Kseladen;Fuller, Andrew;14-May-96;11-Jun-96;16-May-96;United Package;Rp43;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+11021;QUICK-Stop;Leverling, Janet;14-May-96;11-Jun-96;21-May-96;Speedy Express;Rp297;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+11022;Hanari Carnes;Dodsworth, Anne;14-May-96;11-Jun-96;03-Jun-96;United Package;Rp6;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+11023;B's Beverages;Davolio, Nancy;14-May-96;28-May-96;24-May-96;United Package;Rp124;B's Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+11024;Eastern Connection;Peacock, Margaret;15-May-96;12-Jun-96;20-May-96;Speedy Express;Rp74;Eastern Connection;35 King George;London;;WX3 6FW;UK
+11025;Wartian Herkku;Suyama, Michael;15-May-96;12-Jun-96;24-May-96;Federal Shipping;Rp29;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+11026;Franchi S.p.A.;Peacock, Margaret;15-May-96;12-Jun-96;28-May-96;Speedy Express;Rp47;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+11027;Bottom-Dollar Markets;Davolio, Nancy;16-May-96;13-Jun-96;20-May-96;Speedy Express;Rp53;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+11028;Kniglich Essen;Fuller, Andrew;16-May-96;13-Jun-96;22-May-96;Speedy Express;Rp30;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+11029;Chop-suey Chinese;Peacock, Margaret;16-May-96;13-Jun-96;27-May-96;Speedy Express;Rp48;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+11030;Save-a-lot Markets;King, Robert;17-May-96;14-Jun-96;27-May-96;United Package;Rp831;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+11031;Save-a-lot Markets;Suyama, Michael;17-May-96;14-Jun-96;24-May-96;United Package;Rp227;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+11032;White Clover Markets;Fuller, Andrew;17-May-96;14-Jun-96;23-May-96;Federal Shipping;Rp606;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+11033;Richter Supermarkt;King, Robert;17-May-96;14-Jun-96;23-May-96;Federal Shipping;Rp85;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+11034;Old World Delicatessen;Callahan, Laura;20-May-96;01-Jul-96;27-May-96;Speedy Express;Rp40;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+11035;Suprmes dlices;Fuller, Andrew;20-May-96;17-Jun-96;24-May-96;United Package;Rp0;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+11036;Drachenblut Delikatessen;Callahan, Laura;20-May-96;17-Jun-96;22-May-96;Federal Shipping;Rp149;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+11037;Godos Cocina Tpica;King, Robert;21-May-96;18-Jun-96;27-May-96;Speedy Express;Rp3;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+11038;Suprmes dlices;Davolio, Nancy;21-May-96;18-Jun-96;30-May-96;United Package;Rp30;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+11039;LINO-Delicateses;Davolio, Nancy;21-May-96;18-Jun-96;;United Package;Rp65;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+11040;Great Lakes Food Market;Peacock, Margaret;22-May-96;19-Jun-96;;Federal Shipping;Rp19;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+11041;Chop-suey Chinese;Leverling, Janet;22-May-96;19-Jun-96;28-May-96;United Package;Rp48;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+11042;Comrcio Mineiro;Fuller, Andrew;22-May-96;05-Jun-96;31-May-96;Speedy Express;Rp30;Comrcio Mineiro;Av. dos Lusadas, 23;So Paulo;SP;05432-043;Brazil
+11043;Spcialits du monde;Buchanan, Steven;22-May-96;19-Jun-96;29-May-96;United Package;Rp9;Spcialits du monde;25, rue Lauriston;Paris;;75016;France
+11044;Wolski  Zajazd;Peacock, Margaret;23-May-96;20-Jun-96;31-May-96;Speedy Express;Rp9;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+11045;Bottom-Dollar Markets;Suyama, Michael;23-May-96;20-Jun-96;;United Package;Rp71;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+11046;Die Wandernde Kuh;Callahan, Laura;23-May-96;20-Jun-96;24-May-96;United Package;Rp72;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+11047;Eastern Connection;King, Robert;24-May-96;21-Jun-96;31-May-96;Federal Shipping;Rp47;Eastern Connection;35 King George;London;;WX3 6FW;UK
+11048;Bottom-Dollar Markets;King, Robert;24-May-96;21-Jun-96;30-May-96;Federal Shipping;Rp24;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+11049;Gourmet Lanchonetes;Leverling, Janet;24-May-96;21-Jun-96;03-Jun-96;Speedy Express;Rp8;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+11050;Folk och f HB;Callahan, Laura;27-May-96;24-Jun-96;04-Jun-96;United Package;Rp59;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+11051;La maison d'Asie;King, Robert;27-May-96;24-Jun-96;;Federal Shipping;Rp3;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+11052;Hanari Carnes;Leverling, Janet;27-May-96;24-Jun-96;31-May-96;Speedy Express;Rp67;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+11053;Piccolo und mehr;Fuller, Andrew;27-May-96;24-Jun-96;29-May-96;United Package;Rp53;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+11054;Cactus Comidas para llevar;Callahan, Laura;28-May-96;25-Jun-96;;Speedy Express;Rp0;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+11055;HILARIN-Abastos;King, Robert;28-May-96;25-Jun-96;04-Jun-96;United Package;Rp121;HILARIN-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+11056;Eastern Connection;Callahan, Laura;28-May-96;11-Jun-96;31-May-96;United Package;Rp279;Eastern Connection;35 King George;London;;WX3 6FW;UK
+11057;North/South;Leverling, Janet;29-May-96;26-Jun-96;31-May-96;Federal Shipping;Rp4;North/South;"South House
+300 Queensbridge";London;;SW7 1RZ;UK
+11058;Blauer See Delikatessen;Dodsworth, Anne;29-May-96;26-Jun-96;;Federal Shipping;Rp31;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+11059;Ricardo Adocicados;Fuller, Andrew;29-May-96;10-Jul-96;;United Package;Rp86;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+11060;Franchi S.p.A.;Fuller, Andrew;30-May-96;27-Jun-96;03-Jun-96;United Package;Rp11;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+11061;Great Lakes Food Market;Peacock, Margaret;30-May-96;11-Jul-96;;Federal Shipping;Rp14;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+11062;Reggiani Caseifici;Peacock, Margaret;30-May-96;27-Jun-96;;United Package;Rp30;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+11063;Hungry Owl All-Night Grocers;Leverling, Janet;30-May-96;27-Jun-96;05-Jun-96;United Package;Rp82;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+11064;Save-a-lot Markets;Davolio, Nancy;31-May-96;28-Jun-96;03-Jun-96;Speedy Express;Rp30;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+11065;LILA-Supermercado;Callahan, Laura;31-May-96;28-Jun-96;;Speedy Express;Rp13;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+11066;White Clover Markets;King, Robert;31-May-96;28-Jun-96;03-Jun-96;United Package;Rp45;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+11067;Drachenblut Delikatessen;Davolio, Nancy;03-Jun-96;17-Jun-96;05-Jun-96;United Package;Rp8;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+11068;Queen Cozinha;Callahan, Laura;03-Jun-96;01-Jul-96;;United Package;Rp82;Queen Cozinha;Alameda dos Canrios, 891;So Paulo;SP;05487-020;Brazil
+11069;Tortuga Restaurante;Davolio, Nancy;03-Jun-96;01-Jul-96;05-Jun-96;United Package;Rp16;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+11070;Lehmanns Marktstand;Fuller, Andrew;04-Jun-96;02-Jul-96;;Speedy Express;Rp136;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+11071;LILA-Supermercado;Davolio, Nancy;04-Jun-96;02-Jul-96;;Speedy Express;Rp1;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+11072;Ernst Handel;Peacock, Margaret;04-Jun-96;02-Jul-96;;United Package;Rp259;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+11073;Pericles Comidas clsicas;Fuller, Andrew;04-Jun-96;02-Jul-96;;United Package;Rp25;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+11074;Simons bistro;King, Robert;05-Jun-96;03-Jul-96;;United Package;Rp18;Simons bistro;Vinbltet 34;Kbenhavn;;1734;Denmark
+11075;Richter Supermarkt;Callahan, Laura;05-Jun-96;03-Jul-96;;United Package;Rp6;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+11076;Bon app';Peacock, Margaret;05-Jun-96;03-Jul-96;;United Package;Rp38;Bon app';12, rue des Bouchers;Marseille;;13008;France
+11077;Rattlesnake Canyon Grocery;Davolio, Nancy;05-Jun-96;03-Jul-96;;United Package;Rp9;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
